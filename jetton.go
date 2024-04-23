@@ -38,10 +38,17 @@ func init() {
 	}
 }
 
+// GetJettonBySymbol symbol is case-insensitive
 func GetJettonBySymbol(symbol string) *Jetton {
 	return jettonBySymbol[strings.ToLower(symbol)]
 }
 
-func GetJettonByAddress(address string) *Jetton {
-	return jettonByAddress[strings.ToLower(address)]
+// GetJettonByAddress You can input both a friendly address and a raw address
+func GetJettonByAddress(jettonAddress string) *Jetton {
+	// Try to convert raw address to friendly address
+	addr, err := address.ParseRawAddr(jettonAddress)
+	if err == nil && addr != nil {
+		jettonAddress = addr.String()
+	}
+	return jettonByAddress[strings.ToLower(jettonAddress)]
 }
