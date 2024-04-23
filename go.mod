@@ -1,4 +1,4 @@
-module ton-assets-go
+module github.com/huantt/ton-assets-go
 
 go 1.17.13
 

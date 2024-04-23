@@ -1,4 +1,4 @@
-package ton_assets_go
+package assets
 
 import (
 	_ "embed"
