@@ -23,11 +23,6 @@ jobs:
         run: |
           ./.script/pull.sh
 
-      - name: golangci-lint
-        uses: golangci/golangci-lint-action@v4
-        with:
-          version: v5.0.0
-
       - name: Commit
         run: |
           git config user.name github-actions
