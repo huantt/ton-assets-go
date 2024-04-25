@@ -1,7 +1,7 @@
 ## About me
 
 This repository provides the data of popular Jettons and Accounts on the TON blockchain. 
-The data is pulled automatically from [tonkeeper/ton-assets](https://github.com/tonkeeper/ton-assets) (whitelist address on Tonkeeper Wallet).
+The data is pulled automatically from [tonkeeper/ton-assets](https://github.com/tonkeeper/ton-assets) (whitelisted addresses on Tonkeeper Wallet).
 
 ## Install
 ```shell
