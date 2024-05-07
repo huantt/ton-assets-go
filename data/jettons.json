@@ -39,6 +39,16 @@
   "symbol": "APC"
  },
  {
+  "address": "EQDWEsV8ZD83HhpJBLWuB_r55XLwNCpZwcBo-UGNthcJtboi",
+  "description": "100% RICH",
+  "image": "https://kappa.lol/baXhR",
+  "name": "ARUTCOIN",
+  "social": [
+   "https://t.me/alisherhateu/2876"
+  ],
+  "symbol": "ARUT"
+ },
+ {
   "address": "0:fa8a4bd23d472913a1c1fce8f108c564170aed2bbdc2555d552d1e8d584ca4a2",
   "decimals": 9,
   "description": "The cutest dog on TON",
