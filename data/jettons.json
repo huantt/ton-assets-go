@@ -74,6 +74,26 @@
   "symbol": "BOLT"
  },
  {
+  "address": "0:adf8f18a394013fe83ce8d6b9c2d60a9fe895765e9529e32224f63cf5bb5640b",
+  "description": "Mars Coin. Game TONPlanets.com",
+  "image": "https://nft.tonplanets.com/jettons/cash/logo.png",
+  "name": "Cashback",
+  "social": [
+   "https://t.me/TONPlanets",
+   "https://t.me/TONPlanetsTalks",
+   "https://t.me/TONPlanetsBot",
+   "https://t.me/TONPlanetsEn",
+   "https://t.me/TONPlanetsFa"
+  ],
+  "symbol": "CASH",
+  "websites": [
+   "https://mars.tonplanets.com",
+   "https://tonplanets.com",
+   "https://mars.tonplanets.ru",
+   "https://tonplanets.ru"
+  ]
+ },
+ {
   "address": "0:a6e0456ba1ca77e0915e94760f1b1fc3e292aa43e812ebfc45650cc8c3003e58",
   "name": "Cock Fights Token",
   "symbol": "CFT"
@@ -178,6 +198,11 @@
   "address": "0:dc9b4e9196b7ae32eae6fb28a4f566cbea423ad7b07becead2445fd98e809816",
   "name": "LP Token for SCALE-TON",
   "symbol": "SCALE-TON"
+ },
+ {
+  "address": "0:ea8318adfd02ec9503305b2f54b88e7a076703e63b6d4507ca4b2011d57e5a61",
+  "name": "LP Token for KINGY-hTON",
+  "symbol": "KINGY-hTON"
  },
  {
   "address": "0:a1ad624d870adacd173061953be12d0342ea892ba153e34c64eee28d2d59a367",
@@ -507,6 +532,18 @@
   ]
  },
  {
+  "address": "EQBur3GRavS07NaIVysuG4mldgkGQkNeCQxuduJbxK_o2QD3",
+  "description": "https://olbitx.com",
+  "image": "https://olbitx.com/OLX-Logo.png",
+  "name": "OLBITX",
+  "social": [
+   "https://t.me/OLBITX_Network",
+   "https://t.me/Trader_Legion"
+  ],
+  "symbol": "OLX",
+  "websites": "https://olbitx.com"
+ },
+ {
   "address": "EQBP_hhZ-FPTHngC3nD_AbFGwe7VWVSYofkYr9vbPk1eFwtl",
   "name": "PEPE`S TON CLUB",
   "symbol": "PEPE"
@@ -523,6 +560,20 @@
   "symbol": "People",
   "websites": [
    "https://peopleai.site/"
+  ]
+ },
+ {
+  "address": "EQBjbM7x9cqPCqFCY17FSQr2MRoZGzn9eG5VAeQ7vsqbXPhX",
+  "description": "The Resistance Cock is a memecoin on the TON blockchain - $RECO is a meme coin on the TON Blockchain.  https://t.me/RECO_Portal",
+  "image": "https://imgur.com/a/11gXnYd",
+  "name": "The Resistance Cock",
+  "social": [
+   "https://t.me/RECO_Portal",
+   "https://x.com/RecoOnTon"
+  ],
+  "symbol": "RECO",
+  "websites": [
+   "https://resistancecock.com/"
   ]
  },
  {
@@ -807,6 +858,20 @@
   "symbol": "UTYAB",
   "websites": [
    "https://utyabswap.com"
+  ]
+ },
+ {
+  "address": "EQDmGviRZNqyzr6K_Wa3rvntvDRaGxjUxQS_ZI-fqqOFJlrz",
+  "description": "Inspired by Where's Waldo",
+  "image": "https://raw.githubusercontent.com/WALDO-on-TON/waldo/main/logo200x200.png",
+  "name": "Where's Waldo",
+  "social": [
+   "https://t.me/waldoton",
+   "https://x.com/Waldo_Ton"
+  ],
+  "symbol": "WALDO",
+  "websites": [
+   "https://waldonton.com"
   ]
  },
  {
