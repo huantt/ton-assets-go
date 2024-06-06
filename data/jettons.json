@@ -34,6 +34,20 @@
   "symbol": "AMBR"
  },
  {
+  "address": "0:bc236959c32064b29c82a5e745927fdc1a69be575130f09e9d0dff8e9d5bfffc",
+  "description": "ANON XP are non-transferable and non-tradable tokens that reflect in the TON blockchain the wallet holder's activity in ANON events and participation in the mission to Planet 8 as part of ANON Space.",
+  "image": "https://storage.anon.tg/anonxp/anonxp_logo.png",
+  "name": "ANON XP",
+  "social": [
+   "https://t.me/anon_club",
+   "https://x.com/anonclub8"
+  ],
+  "symbol": "ANONXP",
+  "websites": [
+   "https://anon.tg"
+  ]
+ },
+ {
   "address": "0:33072f96f0626350f7d4fbc795d09cf9e89739748bef3feab39c7290865ab31a",
   "name": "AIYA PowerCell",
   "symbol": "APC"
@@ -349,6 +363,21 @@
   "websites": [
    "https://fanz.ee",
    "https://app.fanz.ee"
+  ]
+ },
+ {
+  "address": "EQBlsic2160scD9raXoa61gwRvBw3rseL2-K65d5Y1cXpyzK",
+  "description": "Galaxy Online is an online strategy game with a huge meta-universe consisting of many galaxies.",
+  "image": "https://galaxyonline.io/images/redesign/coin-galaxy.png",
+  "name": "Galaxy Online",
+  "social": [
+   "https://t.me/GalaxyOnline_news_en",
+   "https://t.me/GalaxyOnline_news_ru",
+   "https://x.com/GalaxyOnlineio"
+  ],
+  "symbol": "GLX",
+  "websites": [
+   "https://galaxyonline.io/"
   ]
  },
  {
@@ -866,6 +895,20 @@
   "decimals": 9,
   "name": "STON",
   "symbol": "STON"
+ },
+ {
+  "address": "EQDNLrrwm7llKkce0YArDb53jeEP3rRRnJVpvDKA1675T2ft",
+  "description": "NFT Sticker on TON. Girl meta. Community take over.",
+  "image": "https://github.com/SteamyJulia/crypto-assets/blob/main/julia%20(1).png",
+  "name": "Steamy Julia",
+  "social": [
+   "https://t.me/SteamyJuliaCTO",
+   "https://x.com/RealSteamyJulia"
+  ],
+  "symbol": "JULIA",
+  "websites": [
+   "https://steamyjulia.com/"
+  ]
  },
  {
   "address": "0:d1950f1e9fb036cec4ee17b49d0cec4c959ff0170d04ec4a30deef5ce294a87b",
