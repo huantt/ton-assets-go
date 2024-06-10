@@ -248,6 +248,20 @@
   "symbol": "DUCK"
  },
  {
+  "address": "EQB22u_EPF5DyqtZRhjJ2YiZliN-w5ZCq6F_PY6Ia6bvi3Et",
+  "description": "$DUROV is a community-driven project, inspired by Pavel Durov - the founder of Telegram. Explore our Airdrop bot, our NFT collection, or even our Staking platform!",
+  "image": "https://i.postimg.cc/Sshx4fq4/2024-05-29-10-13-59.jpg",
+  "name": "Pavel Durov",
+  "social": [
+   "https://t.me/PavelDurovOnTon",
+   "https://twitter.com/Durov_Tonchain"
+  ],
+  "symbol": "DUROV",
+  "websites": [
+   "https://durovton.com/"
+  ]
+ },
+ {
   "address": "0:906697a57af1cdb1bc39214b7049ae02b3c92a5b0c342ac61e0eb8bd9304b5f1",
   "description": "DYOR Coin is the utility token by DYOR.io, the biggest analytics platform on TON Blockchain.",
   "image": "https://storage.dyor.io/jettons/EQCQZpelevHNsbw5IUtwSa4Cs8kqWww0KsYeDri9kwS18eCz/dyorcoin.png",
@@ -627,6 +641,21 @@
   "symbol": "MEH"
  },
  {
+  "address": "0:1d15bca749497322587f2387d7b9869eaf7aef6344c6d012be35067e63cef5a5",
+  "description": "Automated $TON Mixer that allows you to anonymously send $TON to any address",
+  "image": "https://raw.githubusercontent.com/ton-mixer/mixer-assets/main/transparent_jetton.png",
+  "name": "$TON Mixer",
+  "social": [
+   "https://t.me/tonmixerchat",
+   "https://x.com/tonmixbot"
+  ],
+  "symbol": "MIXER",
+  "websites": [
+   "https://t.me/TON_mix_bot",
+   "https://tonmixer.xyz"
+  ]
+ },
+ {
   "address": "0:972070160c0244261322355a9e52fa7723a3bbcbf3f6b03f34cc4b095de522e7",
   "decimals": 9,
   "description": "Once upon a time, there lived a crypto creature named Mumba, born in the bustling Indian city of Mumbai within the blockchain forest. From a young age, Mumba distinguished himself with extraordinary beauty and cultural ingenuity.  One fine day, Mumba discovered a source of blockchain cryptocurrency that filled him with energy and unveiled new possibilities. Gathering courage and determination, Mumba decided to step out of his forest and embark on a journey through the digital world.  During his journey, Mumba encountered various blockchain creatures and characters. He assisted them in overcoming challenges, exchanged knowledge, and learned new technologies from his friends.  Over time, Mumba gathered a large team of supporters who shared his love for culture and blockchain innovations. Together, they decided to create their own cryptocurrency token named Mumba. Mumba became a symbol of unity and their collective journey. Now, Mumba and his team continue to assist other crypto creatures, exchanging innovative ideas and creating a unique place in the world of cryptocurrency adventures.Let's free the world from traditional financial boundaries and join the cryptocurrency revolution! Together, we are building the future of finance, and the key to it is the Mumba token!",
@@ -764,6 +793,21 @@
   "symbol": "REKT",
   "websites": [
    "https://rektttt.me"
+  ]
+ },
+ {
+  "address": "EQCx1rDxHQKd3XWJ1nxHSfuGn2Nh3zTDOpeYemrKLewzysng",
+  "decimals": 9,
+  "description": "ROON is here to sneak himself to the top of TON!",
+  "image": "https://raccoonton.com/assets/icon/coon.png",
+  "name": "Raccoon",
+  "social": [
+   "https://x.com/raccoonton",
+   "https://t.me/raccoontokenton"
+  ],
+  "symbol": "ROON",
+  "websites": [
+   "https://raccoonton.com"
   ]
  },
  {
