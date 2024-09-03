@@ -199,6 +199,20 @@
   "symbol": "CHILD"
  },
  {
+  "address": "0:b80f1e4cab2f6a86a1e91f4725fd4f217a3067721357667fcbd3f3a3db32d8e4",
+  "description": "Telegram's favorite COIN! The Coin everyone should have. From Telegram's famous \"The Coin\" sticker pack!",
+  "image": "https://raw.githubusercontent.com/TheCoinOnTon/TheCoin/main/coin%20logo%20png.png",
+  "name": "The Coin",
+  "social": [
+   "https://x.com/TheCoinOnTon",
+   "https://t.me/TheCoinOnTon"
+  ],
+  "symbol": "COIN",
+  "websites": [
+   "https://linktr.ee/TheCoinonTon"
+  ]
+ },
+ {
   "address": "0:a8641676cfd02edddcc334d8bc5e407186e21a9da0f511bdbfa05444610cb720",
   "description": "Crumb Coin (CRUMB) is a token used in the BRAD x Totkit ecosystem",
   "image": "https://nft.tonbrad.com/crumb.png",
@@ -2357,6 +2371,11 @@
   "symbol": "FREE"
  },
  {
+  "address": "0:a1f43524984773ec1b8cfe4bff883a97797587acc5191dc65f5e7afcc8101f3c",
+  "name": "FadeWallet Token",
+  "symbol": "FWT"
+ },
+ {
   "address": "0:8c0c4f057defb8d101abca84b26b337f625087afe1e9fe8737f9dbb3d86b1a5b",
   "name": "TON GAIKA",
   "symbol": "GAIKA"
@@ -2980,6 +2999,11 @@
   "address": "0:3391461c68ff89cdc0de413cccc6e1f7a6d5a144de32be9e313eefdc6e9b84d7",
   "name": "Player Pump Player",
   "symbol": "PPP"
+ },
+ {
+  "address": "0:5524318594eac5dd60532de261d97392cbe71f5760746593265f58413514ceb3",
+  "name": "Prolific",
+  "symbol": "PRO"
  },
  {
   "address": "0:e0491ffee050e55cf7cc55e7d75f52085cc5811f861f615d5affc709d17b0655",
