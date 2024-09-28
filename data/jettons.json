@@ -1061,7 +1061,7 @@
  {
   "address": "EQCWsIKwjRilqjt8wQU0Dg7KbgA8kslDZ3zSLhD-QPRwFs9e",
   "description": "Naruto the famous anime character on TON",
-  "image": "https://github.com/Aloeidae/NarutonHost/blob/main/IMG_3134.jpeg",
+  "image": "https://raw.githubusercontent.com/Aloeidae/NarutonHost/main/IMG_3134.jpeg",
   "name": "Naruton",
   "social": [
    "https://t.me/NarutonEntry"
@@ -1569,6 +1569,23 @@
   "symbol": "TOGE",
   "websites": [
    "https://toge.world"
+  ]
+ },
+ {
+  "address": "EQCzHal68j_oKadmUTvK9Ns19P_-bk8PcrHduXk0H2cIBA_W",
+  "description": "Toki - this is what you need\u23f3 \u30c8\u30ad \u30c8\u30f3",
+  "image": "https://raw.githubusercontent.com/jetmoonton/connect/main/TOKI/TOKIlogo.png",
+  "name": "TOKI",
+  "social": [
+   "https://t.me/jetmoonton",
+   "https://x.com/xTokiton",
+   "https://t.me/xtokiton",
+   "https://t.me/tokiton",
+   "https://t.me/tokitonbot"
+  ],
+  "symbol": "TOKI",
+  "websites": [
+   "https://getgems.io/tokiton"
   ]
  },
  {
