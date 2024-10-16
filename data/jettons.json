@@ -2080,6 +2080,18 @@
   "symbol": "hTON1"
  },
  {
+  "address": "UQCeObLCa6FoY3Xa7ZOwKX9aWoQk34M9TaHGWEhpj0wjne78",
+  "description": "1st iranian tech group token for teach people about cryptocurrencies and how to use them to make moneys and much more .",
+  "image": "https://s6.uplod.ir/i/01140/gnhjvxu90rtg.png",
+  "name": "iOSF1",
+  "social": [
+   "https://t.me/iOSF1",
+   "https://youtube.com/iOSF1",
+   "https://instagram.com/iOSF1.ir"
+  ],
+  "symbol": "iOSF1"
+ },
+ {
   "address": "0:9b48bb73351f4b1e294510273439c641cf76a9e3363353a811e040ba119a08cc",
   "name": "Russian Blue ",
   "symbol": "$Blu"
@@ -3508,6 +3520,11 @@
   "address": "0:1007c52de2d9e53a5e78b618ace2f66a9164d5212c9b3e7c7f5c80fddf7ed6cd",
   "name": "Save Ass Coin",
   "symbol": "SAC"
+ },
+ {
+  "address": "0:93630f42a4a9beee23bf542ffb0ecaa478ad41cdefaefbe31e64ca1f8d083cb4",
+  "name": "SAD MEOW",
+  "symbol": "SADMEOW"
  },
  {
   "address": "0:fbae51847ef3545d86c4c13f8b97b4940fb2ee1a4b9b51e53e4d05ec4a13305d",
