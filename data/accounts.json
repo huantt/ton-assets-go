@@ -430,9 +430,9 @@
  },
  {
   "address": "0:ce3cdcf95089b75ee5ce9824a4ff506f40b75090c4be96637c2b8d38b1097224",
-  "image": "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/tonmobile_service_288.svg",
-  "name": "TonMobile Service",
-  "require_memo": false
+  "image": "https://img.mobile.ag/logo_mobile_r_400x400.png",
+  "name": "Mobile",
+  "require_memo": true
  },
  {
   "address": "0:80d4123841167ca989ac912443cc99a4b9c1a87584536427ff6fd85c92395ae9",
@@ -518,15 +518,15 @@
   "require_memo": true
  },
  {
-  "address": "0:008bb088e81e38d583826901093567027cc1575ec744ac354fa4eeec302d166d",
-  "image": "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/bit_com_288.svg",
-  "name": "bit.com",
+  "address": "0:7f97f36dda3f7dedc9e12f8c09c4f89e7fbc17527ab3f67de4c3b155297a56e4",
+  "image": "https://nc-l1-support-public.s3.me-central-1.amazonaws.com/helpscout.net/bybit.svg",
+  "name": "Bybit 7",
   "require_memo": true
  },
  {
-  "address": "0:a1376e8bf9f266ec7c6b11ce6e5cd02a9bda363b9ea888a2e239d2383572bc9a",
-  "image": "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/avanchange_288.svg",
-  "name": "AvanChange 1",
+  "address": "0:008bb088e81e38d583826901093567027cc1575ec744ac354fa4eeec302d166d",
+  "image": "https://ton.ams3.digitaloceanspaces.com/tonapi-misc/logos/bit_com_288.svg",
+  "name": "bit.com",
   "require_memo": true
  },
  {
