@@ -1208,6 +1208,21 @@
   "symbol": "PEPE"
  },
  {
+  "address": "0:711f73779c1c7ff8712f4366ecdafac2f8cebe5b180824a97536a684547d6c13",
+  "description": "$PGC is the native token of PiggyPiggy, the first workplace simulation and social game launched on Telegram and TON.",
+  "image": "https://restaurant.piggypiggy.io/piggycoin.png",
+  "name": "PiggyPiggyCoin",
+  "social": [
+   "https://t.me/piggypiggyofficial",
+   "https://t.me/piggypiggychat",
+   "https://x.com/piggypiggygame"
+  ],
+  "symbol": "PGC",
+  "websites": [
+   "http://t.me/PiggyPiggyofficialbot"
+  ]
+ },
+ {
   "address": "0:e01ae075e55508ef0909f5ce7fb6342cc16b9e3c4b6a4c35d21c860a30c4b1c7",
   "description": "Palladium Venture Foundation",
   "image": "https://raw.githubusercontent.com/Palladium-foundation/website/main/logo.png",
@@ -4307,11 +4322,6 @@
   "symbol": "tun"
  },
  {
-  "address": "0:1f1798f724c2296652e6002bfb51bed11fb5a689532e5788af7203581ef367a8",
-  "name": "uTON",
-  "symbol": "uTON"
- },
- {
   "address": "0:e01ce5b481b7c4a1d0e295cf15926b3f1736a10b1857a2cec6c095d7873f2ec0",
   "name": "Wrapped Ymakanic Coin",
   "symbol": "wYKC"
@@ -4709,5 +4719,19 @@
   "address": "0:bdf3fa8098d129b54b4f73b5bac5d1e1fd91eb054169c3916dfc8ccd536d1000",
   "name": "Tonstakers TON",
   "symbol": "tsTON"
+ },
+ {
+  "address": "0:1f1798f724c2296652e6002bfb51bed11fb5a689532e5788af7203581ef367a8",
+  "description": "UTONIC TON, the Liquid Re-staking Token of UTONIC.",
+  "image": "https://utonic-finance.oss-ap-southeast-1.aliyuncs.com/assets/uton.png",
+  "name": "uTON",
+  "social": [
+   "https://twitter.com/UTONIC_uTON",
+   "https://t.me/utonic_uton"
+  ],
+  "symbol": "uTON",
+  "websites": [
+   "https://utonic.org"
+  ]
  }
 ]
