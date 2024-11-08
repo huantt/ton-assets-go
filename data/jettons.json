@@ -924,6 +924,20 @@
   "symbol": "LAVE"
  },
  {
+  "address": "0:bc70fad0c7a42c8be34731c0b53e9466b5a89e0a250171bf9dd3de6ae84354b3",
+  "description": "Utility token for Redoi foundation",
+  "image": "https://raw.githubusercontent.com/redoi-foundation/art/main/logo/lemonia.webp",
+  "name": "LEMONIA",
+  "social": [
+   "https://t.me/redoinveston",
+   "https://x.com/redoinveston"
+  ],
+  "symbol": "LEMONIA",
+  "websites": [
+   "https://redoifoundation.org"
+  ]
+ },
+ {
   "address": "0:77f0c23f335359a05ae3c4efeb4c51454af0cb0f988a17ed63d4355e495c8fc2",
   "description": "In crypto with balance",
   "image": "https://github.com/Rebalancer/picture/blob/main/libra%20normalmente.png?raw=true",
@@ -1547,6 +1561,20 @@
    "https://vk.com/vkcoinswap"
   ],
   "symbol": "SNT"
+ },
+ {
+  "address": "EQB7hH6wJbzrZYEbggsOcBeWUEmgO7llkwTKdgDU4Q___SPN",
+  "image": "https://raw.githubusercontent.com/spinnercoin/logo/refs/heads/main/main.png",
+  "name": "SpinnerCoin",
+  "social": [
+   "https://t.me/SpinnerCoin",
+   "https://t.me/SpinnerCoin_chat",
+   "https://t.me/SpinnerCoin_bot"
+  ],
+  "symbol": "SPN",
+  "websites": [
+   "https://spinnercoin.org"
+  ]
  },
  {
   "address": "0:ad5a9fc06d769643fc73b705d68abdb493cd0dc3e3c9a3d1011201cd804a5bdb",
@@ -2358,6 +2386,11 @@
   "address": "0:621d22d5ce889c73e2d03c35c973fac5f9645fb746858a171c15db80e9f435ca",
   "name": "Baron",
   "symbol": "BARO"
+ },
+ {
+  "address": "0:bf04bf1ca17f9f795c59fbf5c6154e9870170a780c6a1e25638a737fb750034d",
+  "name": "HAMSTERBATYA",
+  "symbol": "BATYA"
  },
  {
   "address": "0:4dda20c1add015457cfde5125b71fb430986580d99a2581e1c6f26438fc87b5e",
