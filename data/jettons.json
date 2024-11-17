@@ -673,6 +673,17 @@
   ]
  },
  {
+  "address": "EQA4ewTwGfu7pVQC-ZjI3soFwF6XrXJONjY6MmGzL8pWCDj3",
+  "description": "$GH is the first jetton on TON, created by gamers for gamers. Built by https://gamehunters.pro",
+  "name": "Game Hunters",
+  "social": [
+   "https://t.me/gh_coin",
+   "https://t.me/gh_coin_cis",
+   "https://twitter.com/gh_jetton"
+  ],
+  "symbol": "GH"
+ },
+ {
   "address": "EQBlsic2160scD9raXoa61gwRvBw3rseL2-K65d5Y1cXpyzK",
   "description": "Galaxy Online is an online strategy game with a huge meta-universe consisting of many galaxies.",
   "image": "https://galaxyonline.io/images/redesign/coin-galaxy.png",
@@ -1089,7 +1100,6 @@
  },
  {
   "address": "0:ae3e6d351e576276e439e7168117fd64696fd6014cb90c77b2f2cbaacd4fcc00",
-  "description": "Something MAJOR is coming!",
   "image": "https://major.bot/images/tasks/major_logo.png",
   "name": "Major",
   "social": [
