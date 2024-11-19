@@ -332,12 +332,12 @@
  {
   "address": "EQB_E-xD4RvHqHB-bqCfBuWhnj8lgYEFN9eymZrC2YMxUUA3",
   "description": "The token that took 1 place in the BlumMemePad Best Token Competition. $DARK is a next-generation token offering access to exclusive channels and events.",
-  "image": "https://drive.google.com/file/d/1lcZzlD848RKnSz4K2FZRIILYZqXa1dCQ/view?usp=drivesdk",
+  "image": "https://raw.githubusercontent.com/pulkras/dark-bot/refs/heads/main/dark.JPG",
   "name": "Dark",
   "social": [
    "https://t.me/darkmemtoken"
   ],
-  "symbol": "$DARK",
+  "symbol": "DARK",
   "websites": [
    "https://x.com/coindark7"
   ]
@@ -1113,7 +1113,6 @@
  },
  {
   "address": "0:ae3e6d351e576276e439e7168117fd64696fd6014cb90c77b2f2cbaacd4fcc00",
-  "image": "https://major.bot/images/tasks/major_logo.png",
   "name": "Major",
   "social": [
    "https://t.me/major",
