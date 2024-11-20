@@ -1,5 +1,21 @@
 [
  {
+  "address": "0:33fd7ac3d2103872a969ad69294bb4c8021086e0292701fa1bd55426fb69817f",
+  "decimals": 9,
+  "description": "The Official Coin of ET Netsa Apps\u2122. It's a community project to help show in real time what happens when there are holders, sellers, and buyers.",
+  "image": "https://raw.githubusercontent.com/jayp89/Etnetsa/refs/heads/main/Asset%202%40300x-8.png",
+  "name": "ET NETSA COIN",
+  "social": [
+   "https://etn.ethio-tech.com/wp-content/uploads/2023/06/$ETN%20Whitepaper.pdf",
+   "https://t.me/et_apps",
+   "https://x.com/etNetsa"
+  ],
+  "symbol": "$ETN",
+  "websites": [
+   "https://etn.ethio-tech.com/"
+  ]
+ },
+ {
   "address": "EQB5Wjo7yXdaB70yBoN2YEv8iVPjAdMObf_Dq40ELLaPllNb",
   "description": "Operating startup of the mining company",
   "image": "https://i.postimg.cc/BZMY4sKN/photo-2023-12-08-12-58-58-1-1.png",
@@ -1045,6 +1061,18 @@
   ]
  },
  {
+  "address": "0:36d329f127326b85a8419dc9d3756bbcecd364b8a2ff4fcd430069a286920375",
+  "decimals": 9,
+  "description": "Shave, Liquidate, Laugh \u2014 The Meme Coin Way!",
+  "image": "https://static.storm.tg/LIQUID.png",
+  "name": "LIQUIDATION",
+  "social": [
+   "https://t.me/liquidtonchat",
+   "https://t.me/KovalevskiyLife"
+  ],
+  "symbol": "LIQUID"
+ },
+ {
   "address": "0:2b310049627d7149911f613eb0e465185bce027558f7c8568053fde33139306e",
   "description": "SecondLive is the leading AI and XR Social Nexus, using GenAI to craft virtual autonomous worlds for crypto enthusiasts, creators, AI fans, and business partners across Web2 and Web3.",
   "image": "https://cdn.secondlive.world/logo.png",
@@ -1960,7 +1988,7 @@
   "address": "0:7de57e6ee41ee97eb8b8aed881e320e488c8767ecb16ff688438414a7cb9807a",
   "decimals": 9,
   "description": "Liquidity pool token for STORM and Proxy TON on STON.fi DEX. Liquidity pool link: https://app.ston.fi/pools/EQB95X5u5B7pfri4rtiB4yDkiMh2fssW_2iEOEFKfLmAeqVo",
-  "image": "https://i.imgur.com/MOyb2xz.png",
+  "image": "https://static.storm.tg/STORM-pTON-LP.png",
   "name": "LP Token for STORM-pTON",
   "social": [
    "https://t.me/storm_trade_news",
@@ -2260,6 +2288,21 @@
    "https://t.me/tenerechat"
   ],
   "symbol": "Tnr"
+ },
+ {
+  "address": "EQC7ilfUj2egjitpNBgW86I3Zr1lJEnqf1MwscMc59HjaU_U",
+  "description": "Tonny is a meme & tap-to-earn project where users can get $xTonny by playing Tonny bot and referring users.",
+  "image": "https://drive.google.com/file/d/1SxXXaGshDbKrc8S-8KHM1iuHGOsE4lBh/view?usp=sharing",
+  "name": "Tonny",
+  "social": [
+   "https://t.me/tonny_community",
+   "https://x.com/Tonny_io",
+   "https://t.me/Tonny_io"
+  ],
+  "symbol": "TONNY",
+  "websites": [
+   "https://tonny.io"
+  ]
  },
  {
   "address": "EQBEbKm5z-T5psz8iRtCRYjDH-OGbRAsfhQtdKf1ma2dqS7o",
@@ -4710,6 +4753,11 @@
   "symbol": "WOOSH"
  },
  {
+  "address": "0:1716717f0863c85c3e41e7a0be5cf1324c02623780b5848d3e2631b94ae73ac3",
+  "name": "Wisdomise",
+  "symbol": "WSDM"
+ },
+ {
   "address": "0:91cb1d2499a76ad94719bbb18fea11fdb58b6a582e11e474e4eae2a5a1a8a7ba",
   "name": "What The",
   "symbol": "WTF"
@@ -5170,7 +5218,7 @@
   "address": "0:b902cb5f4e7cbfba9027079e6c82d63b0fc6a81e1e0ff8e4ab61a91fda66274b",
   "decimals": 9,
   "description": "These jettons confirm ownership of STORM staked on JVault. Staking pool link: https://app.storm.tg/token",
-  "image": "https://i.imgur.com/R1KCvuY.png",
+  "image": "https://static.storm.tg/st-STORM-30D.png",
   "name": "STORM staked on JVault.xyz",
   "social": [
    "https://t.me/storm_trade_news",
