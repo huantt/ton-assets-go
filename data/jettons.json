@@ -122,6 +122,19 @@
   ]
  },
  {
+  "address": "0:f6111725910e67ea5bf72ad85d6eadc268e3929a563bcd07306066bdad320aec",
+  "description": "BBQ COIN",
+  "image": "https://bbqcoin.pages.dev/bbqcoin.png",
+  "name": "BBQ COIN",
+  "social": [
+   "http://x.com/BBQ_Coin"
+  ],
+  "symbol": "BBQ",
+  "websites": [
+   "https://www.bbqcoin.ai/"
+  ]
+ },
+ {
   "address": "0:77059ebd7de55def1117792db1f87c1087318087b1e0ea1d5e026e2bc80e012e",
   "decimals": 9,
   "description": "PIXEL [BITPIX] is a token based on the decentralized and high-speed blockchain technologies of The Open Network.",
@@ -208,7 +221,7 @@
  {
   "address": "EQBbPeH7T7O7vpm4xtQDqcA--tG4OL3DTsBJyCIJgO748iRf",
   "description": "BORKA Meme Coin is a community-driven meme token built to reward and celebrate the vibrant TON ecosystem.Borka mission is to support TON enthusiasts, KOLs, digital artists, and loyal community members. Join the fast-growing BORKA family and be part of a movement where community is the utility. Together, we\u2019re shaping the future of meme culture on TON",
-  "image": "\u201chttps://borka.pw/wp-content/uploads/2024/11/Ton-Borka-1-1-1-e1731940929853-1.png\u201d",
+  "image": "https://borka.pw/wp-content/uploads/2024/11/Borka-logo.png",
   "name": "Ton Borka",
   "social": [
    "https://twitter.com/tonborka",
@@ -270,6 +283,19 @@
   "symbol": "COIN",
   "websites": [
    "https://linktr.ee/TheCoinonTon"
+  ]
+ },
+ {
+  "address": "EQD5x8gz3IhTLR2-DGkmL0ehWk7QlIkOTIGu3uhDuL4sbDGb",
+  "description": "Hatch, raise, and battle your own adorable NFT crocodiles in CoCo Park!",
+  "image": "https://raw.githubusercontent.com/COCOPARK-PROJECT/cocopark-smartcontract-public/refs/heads/main/cocopark_logo.jpg",
+  "name": "COPA",
+  "social": [
+   "https://t.me/cocopark_group"
+  ],
+  "symbol": "COPA",
+  "websites": [
+   "https://cocopark.io/"
   ]
  },
  {
@@ -1275,6 +1301,23 @@
   ]
  },
  {
+  "address": "0:7e3f8929b596235463933214e0c15b6dd6e1ff47d4859729b173426aa5c017b3",
+  "description": "MonkeyRush Token",
+  "image": "https://raw.githubusercontent.com/rafnicore/monkeyrush/refs/heads/main/monker.png",
+  "name": "MonkeyRush",
+  "social": [
+   "https://t.me/monkeyrush",
+   "https://t.me/monkeyrush_chat",
+   "https://x.com/monkeyrush_bot",
+   "https://www.youtube.com/@monkeyrush_bot"
+  ],
+  "symbol": "MONKER",
+  "websites": [
+   "https://monkeyrush.app/",
+   "https://t.me/monkeyrush_bot/app"
+  ]
+ },
+ {
   "address": "0:972070160c0244261322355a9e52fa7723a3bbcbf3f6b03f34cc4b095de522e7",
   "decimals": 9,
   "description": "Once upon a time, there lived a crypto creature named Mumba, born in the bustling Indian city of Mumbai within the blockchain forest. From a young age, Mumba distinguished himself with extraordinary beauty and cultural ingenuity.  One fine day, Mumba discovered a source of blockchain cryptocurrency that filled him with energy and unveiled new possibilities. Gathering courage and determination, Mumba decided to step out of his forest and embark on a journey through the digital world.  During his journey, Mumba encountered various blockchain creatures and characters. He assisted them in overcoming challenges, exchanged knowledge, and learned new technologies from his friends.  Over time, Mumba gathered a large team of supporters who shared his love for culture and blockchain innovations. Together, they decided to create their own cryptocurrency token named Mumba. Mumba became a symbol of unity and their collective journey. Now, Mumba and his team continue to assist other crypto creatures, exchanging innovative ideas and creating a unique place in the world of cryptocurrency adventures.Let's free the world from traditional financial boundaries and join the cryptocurrency revolution! Together, we are building the future of finance, and the key to it is the Mumba token!",
@@ -1714,6 +1757,20 @@
   ]
  },
  {
+  "address": "EQCIiZ6b5fYSHLfCCAqi4KsIeqQAD3H_HSP-V5r4OUgTEuAs",
+  "description": "\u26fd\ufe0f https://audio.gaspump.tg/SADDOGE_1.mp3 | why i`m sad?",
+  "image": "https://i.ibb.co/yP40H6F/IMG-20241023-205430-378.jpg",
+  "name": "Sad Doge",
+  "social": [
+   "https://t.me/saddogeCTO",
+   "https://x.com/SADDOGE_mp3"
+  ],
+  "symbol": "SADDOGE",
+  "websites": [
+   "https://dexscreener.com/ton/EQCeAnm5DPOIY0YDx4sphpc7k44A26Rw6EsRiiL548qDWv_m"
+  ]
+ },
+ {
   "address": "EQBgLw3RLkELgOJUU1oHtHzwkoTdb4RgfT8IgTG6k_iLneEc",
   "decimals": 9,
   "description": "SafemoonTon is not just a meme project - it's a movement. We're building an ecosystem that will make a lasting impact on TON Blockchain and the crypto industry at large.",
@@ -2133,6 +2190,21 @@
   ]
  },
  {
+  "address": "EQC23J9nliDApcWRhWMVaZ-jX89vu02UKhV-OjAhKbN76HzT",
+  "description": "Decentralized marketplace for games and news. Building the best gaming community on TON.",
+  "image": "https://tongems0x.club/images/token.webp",
+  "name": "TGXP",
+  "social": [
+   "https://t.me/tongems0x",
+   "https://t.me/tongems0xen",
+   "https://x.com/tongems0x?s=21&t=MweG5FI-ohQ6yf4I8cV5vA"
+  ],
+  "symbol": "TGXP",
+  "websites": [
+   "https://tongems0x.club/"
+  ]
+ },
+ {
   "address": "0:3a43774c81511f5d0f6d3412f67cc96312123f6b343e477bef3e08c6397c2817",
   "coingecko": "https://www.coingecko.com/en/coins/ton-inu",
   "description": "Dive into our toolkits, your secret weapons for making your crypto journey secure, seamless, and seriously cool $TINU.",
@@ -2273,6 +2345,12 @@
   "websites": [
    "https://porkonton.vip/"
   ]
+ },
+ {
+  "address": "0:2198385630a13f7995f494ede6c7925241cf96d8ef88950ec16972cc8a8c9e13",
+  "image": "https://raw.githubusercontent.com/GbGr/pavlik228-assets/refs/heads/main/tvm.png",
+  "name": "TVM",
+  "symbol": "TVM"
  },
  {
   "address": "EQDV3cbziPHz8wEcDYt-9iDOomlc3bFZQSx0WiZFCv7fh7oX",
