@@ -417,6 +417,20 @@
   ]
  },
  {
+  "address": "0:2dff2a6a0690c0f8be1f3b1517a771ffa66f4cbc6d3545efd3aee2dc5c1684f9",
+  "description": "A token for data enthusiasts",
+  "image": "https://vahidbaghi.ir/hobby/dataphile.png",
+  "name": "Dataphile",
+  "social": [
+   "https://t.me/Dataphil",
+   "https://twitter.com/vahidbaghi95"
+  ],
+  "symbol": "DATAPHILE",
+  "websites": [
+   "https://vahidbaghi.ir"
+  ]
+ },
+ {
   "address": "0:421705bcb85521f9a99d466358f4dc9e0c469e0d85ddf608091ac89ca6a55c1e",
   "description": "Low fee dick-to-dick electronic cash alternative to Toncoin",
   "image": "https://raw.githubusercontent.com/DHDcoin/website/main/LOGO.png",
@@ -768,6 +782,20 @@
   "symbol": "GTON",
   "websites": [
    "https://t.me/gatto_gamebot"
+  ]
+ },
+ {
+  "address": "EQC6ij-uyJqGQg7__9r5tFufDj0qJEHY6sM7K90yZVgqBEJP",
+  "description": "GoldVerse is a launch platform based on TON, designed to provide a fair, transparent, and secure environment for emerging projects to successfully launch and gain community support.",
+  "image": "https://static.goldverse.io/logo.jpg",
+  "name": "Goldverse Game Token",
+  "social": [
+   "https://t.me/goldversenews",
+   "https://x.com/GoldVerseio"
+  ],
+  "symbol": "GDV",
+  "websites": [
+   "https://goldverse.io"
   ]
  },
  {
@@ -2485,6 +2513,21 @@
   "address": "EQAQU1jz5ShPaS9mxvI6NVBvwBl5_1b7YDemAzMCluDUMPgT",
   "name": "Ultron",
   "symbol": "ULT"
+ },
+ {
+  "address": "0:1a726533c23adee04a594a575141c93d66e587805d9c4ae4ad1bb50dfe187a1c",
+  "decimals": 9,
+  "description": "The utility token of Uniton.ai. Unite projects and users",
+  "image": "https://bafybeiabbynbq2i65gwyl5awpt7bto57pmw2jvn3znr4dp7xvmzjj6lypa.ipfs.w3s.link/Uniton_ai_logo.png",
+  "name": "uniton.ai",
+  "social": [
+   "https://t.me/unitonai",
+   "https://t.me/uniton_ru"
+  ],
+  "symbol": "UNIT",
+  "websites": [
+   "https://uniton.ai"
+  ]
  },
  {
   "address": "0:aea78c710ae94270dc263a870cf47b4360f53cc5ed38e3db502e9e9afb904b11",
