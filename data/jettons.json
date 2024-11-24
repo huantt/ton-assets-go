@@ -79,6 +79,20 @@
   "symbol": "ARUT"
  },
  {
+  "address": "EQBQTF_AFEN5PM8rYg3rcNbAH86zNbIXKhZjMw3jq8yj-QT6",
+  "description": "$ASTAHOV (SKLAD ASTAHOVA) is a meme token created by the community for the community.",
+  "image": "https://coubnft.mypinata.cloud/ipfs/QmRJjhUEGBCXoKvct5MZCWvieCvFAPMAwktSaY1D59gNBe",
+  "name": "SKLAD ASTAHOVA",
+  "social": [
+   "https://t.me/sklad_astahova",
+   "https://x.com/SKLADASTAHOVA"
+  ],
+  "symbol": "ASTAHOV",
+  "websites": [
+   "https://astahovcoin.ru/eng"
+  ]
+ },
+ {
   "address": "0:fa8a4bd23d472913a1c1fce8f108c564170aed2bbdc2555d552d1e8d584ca4a2",
   "decimals": 9,
   "description": "The cutest dog on TON",
@@ -105,6 +119,21 @@
   "symbol": "AquaXP",
   "websites": [
    "https://aquaprotocol.xyz"
+  ]
+ },
+ {
+  "address": "0:8b53a2883e36496e1c989517c435cde741c9360d6ba5b14ab68093f25842bdc1",
+  "decimals": 9,
+  "description": "ArixDEX is a cross-chain solution that enables seamless token transfers across multiple blockchain networks (TON, Fantom, Ethereum, BSC, Base and Solana). Designed to optimize trading efficiency, ArixDEX provides a secure and decentralized environment for users to exchange digital assets without relying on centralized intermediaries. The network also features a governance token, ARIX, and an innovative Telegram bot for token mining, fostering community engagement and participation.",
+  "image": "https://arix.exchange/logo.png",
+  "name": "ArixDEX",
+  "social": [
+   "https://twitter.com/arixdexofficial",
+   "https://t.me/arixdex"
+  ],
+  "symbol": "ARIX",
+  "websites": [
+   "https://arix.exchange"
   ]
  },
  {
@@ -1731,6 +1760,21 @@
   ]
  },
  {
+  "address": "EQDhq_DjQUMJqfXLP8K8J6SlOvon08XQQK0T49xon2e0xU8p",
+  "description": "REAL is the Shahnameh game's utility token, linked to the Iranian Rial. Starting with 227 tokens, the supply grows with players!",
+  "image": "https://storage.dyor.io/jettons/EQDhq_DjQUMJqfXLP8K8J6SlOvon08XQQK0T49xon2e0xU8p/image.png",
+  "name": "RealShahnameh",
+  "social": [
+   "https://x.com/shahnamehgamefi",
+   "https://tonscan.org/jetton/EQDhq_DjQUMJqfXLP8K8J6SlOvon08XQQK0T49xon2e0xU8p",
+   "https://t.me/Shahnameh_news"
+  ],
+  "symbol": "REAL",
+  "websites": [
+   "https://shahnameh-bot.io//"
+  ]
+ },
+ {
   "address": "0:5893d469f238059b113a5c820e88f252c4e6c0c2de837538517533fbb7725085",
   "description": "Get Rebalancer to your portfolio",
   "image": "https://raw.githubusercontent.com/Rebalancer/picture/main/rebalancer%20(2).png",
@@ -2592,6 +2636,23 @@
   ]
  },
  {
+  "address": "0:3aa59787efab4b4790864a7518396451633d19702533cffd46cf4deb04568f0b",
+  "decimals": 0,
+  "description": "Coin for TonVillages game. Play at t.me/TonVillagesBot",
+  "image": "https://vllg.pages.dev/logo.png",
+  "name": "TonVillages Coin",
+  "social": [
+   "https://t.me/TonVillages",
+   "https://t.me/TonVillagesChat",
+   "https://t.me/TonVillagesEN",
+   "https://t.me/TonVillagesChatEN"
+  ],
+  "symbol": "VLLG",
+  "websites": [
+   "https://t.me/TonVillagesBot"
+  ]
+ },
+ {
   "address": "0:f0357fc5b38b7f3ee523cb7ad965771ca070b867216a0239f3d2fcb285f8a390",
   "description": "VNST is a stablecoin backed by the Basket of Stablecoins, ensuring its reserve, not tethered to any fiat currency for users in Vietnam and globally.",
   "image": "https://vnst.io/assets/images/cryptos/vnst.png",
@@ -2707,6 +2768,17 @@
    "https://ysr.community/",
    "https://swap.yusra.community/"
   ]
+ },
+ {
+  "address": "EQBv2cEJ-T-1GNRdzaY_JYoJvpAISuFHOKmJZPQnoUqEHTlU",
+  "description": "$AMBER is a token created by AmberTON, a company that develops useful and free applications and games for TON users. The $AMBER token serves as a tool for interaction within the AmberTON ecosystem, allowing users to earn rewards for participating in projects, improving, and testing applications. The main goal is to create an accessible environment where everyone can benefit from and enjoy using TON-based technologies.",
+  "image": "https://api.beeharvest.life/upload/ambr.png",
+  "name": "AmberTON",
+  "social": [
+   "https://t.me/amberton",
+   "https://t.me/AmberTONchat"
+  ],
+  "symbol": "AMBER"
  },
  {
   "address": "EQDqKL88dSc3vdiUL0ICyZ2WORS-xHjffaPazg-lEMcUar8x",
