@@ -2416,6 +2416,21 @@
   ]
  },
  {
+  "address": "EQDPBEgdyAKSuDL_2abVW-5qQS0X5BEmqe_4TwB0l-LJCLOA",
+  "description": "TKG token powers the TAP KING, driving innovation and engagement through seamless integration with the game.",
+  "image": "https://salmon-casual-goldfish-527.mypinata.cloud/ipfs/QmbYGBZhkgxYpowgpBh35ZN6xQ92SNj7w5i8Lymub3gmgC",
+  "name": "TAP KING",
+  "social": [
+   "https://x.com/TonTapking",
+   "https://t.me/tapkingchannel",
+   "https://www.youtube.com/@TapKingOfficial"
+  ],
+  "symbol": "TKG",
+  "websites": [
+   "https://tapking.ldnft.net/"
+  ]
+ },
+ {
   "address": "0:7e6a33328b9f9628880e1e76ce180a5f7245066e5ead0e4dd0b7c3ca99bfb12c",
   "name": "TonexCoin",
   "symbol": "TNX"
@@ -5341,6 +5356,21 @@
    "https://capitaldex.exchange",
    "https://curioinvest.com",
    "https://rollapp.store"
+  ]
+ },
+ {
+  "address": "0:f6c9acc0db07f9018da3a04cc65031a4d1c416c446b635d88fe1981ff7e785d3",
+  "description": "MVL is a Web3 Mobility Ecosystem with solid businesses called TADA ride-hailing & ONiON E-Vehicle. Operating on a virtuous token economy, MVL shares massive mobility data via DePIN map, creating Vehicle RWA. Contributors earn MVL Tokens, usable in the mobility services.",
+  "image": "https://a.mvlchain.io/mvl-logo-200.png",
+  "name": "Mass Vehicle Ledger Token",
+  "social": [
+   "https://x.com/mvlchain",
+   "https://t.me/MVL_Chat",
+   "https://discord.gg/mvlchain"
+  ],
+  "symbol": "jMVL",
+  "websites": [
+   "https://mvlchain.io"
   ]
  },
  {
