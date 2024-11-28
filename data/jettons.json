@@ -395,6 +395,19 @@
   ]
  },
  {
+  "address": "0:8faa11816423ad414671fa4e437041a9e5741991d7d03947ea58ae99d0ba3abd",
+  "description": "COSA NOSTRA is a crypto community token. Become a part of the community - HOLD and watch your balance grow!",
+  "image": "https://i.imgur.com/bJaMEkF.png",
+  "name": "COSA NOSTRA",
+  "social": [
+   "https://t.me/Cosa_Nostra_RU"
+  ],
+  "symbol": "COSA",
+  "websites": [
+   "https://crypto-cosanostra.io/"
+  ]
+ },
+ {
   "address": "0:1b75e30a64ae5bcca53a928e9af70303a5b1223f02bf08e6bfdb41443dcb295d",
   "description": "Unlock rewards with Cryptaskr! Complete tasks to earn points, convert them into CRT tokens, and swap for TON.",
   "image": "https://token.cryptaskr.com/token-image.png",
@@ -630,6 +643,20 @@
   "symbol": "DILS"
  },
  {
+  "address": "EQDmo04M0R-61EW7T5qOvydXMWxldS3-7ksoHSSne5U_AgW0",
+  "description": "Created by dog \u200b\u200blovers for dog lovers.",
+  "image": "https://dogefi.org/dogefi-icon.png",
+  "name": "DogeFi",
+  "social": [
+   "https://t.me/dogefichat",
+   "https://x.com/tg_cryprouser"
+  ],
+  "symbol": "DOGEFI",
+  "websites": [
+   "https://dogefi.org"
+  ]
+ },
+ {
   "address": "EQCvxJy4eG8hyHBFsZ7eePxrRsUQSFE_jpptRAYBmcG_DOGS",
   "name": "Dogs",
   "symbol": "DOGS"
@@ -682,6 +709,21 @@
    "https://t.me/notduckcoin"
   ],
   "symbol": "DUCK"
+ },
+ {
+  "address": "EQAst_WeG36CEhCoW6mOg4FU5nctQcgRvp7FYuNkxfwKS5UC",
+  "description": "The token that took 1 place in the BlumMemePad Best Token Competition. DURKA is something that is often done in the crypto market.",
+  "image": "https://raw.githubusercontent.com/pulkras/dark-bot/refs/heads/main/LOGO_DURKA.png",
+  "name": "DURKA",
+  "social": [
+   "https://t.me/durkatoken",
+   "https://x.com/DurkaToken",
+   "https://www.youtube.com/channel/UCOCRvYxXQmuCOiFNuGUiFgg"
+  ],
+  "symbol": "DURKA",
+  "websites": [
+   "https://www.durka.org"
+  ]
  },
  {
   "address": "EQB22u_EPF5DyqtZRhjJ2YiZliN-w5ZCq6F_PY6Ia6bvi3Et",
@@ -845,6 +887,21 @@
   "symbol": "ENRG"
  },
  {
+  "address": "0:dd3dfe7f338e77aa06028c6d28d48d52abf252eaa097517f9391a4cd4641fe1c",
+  "description": "Fly Beyond Limits! || finchcoin.org",
+  "image": "https://finchcoin.org/finchlogo_300.jpg",
+  "name": "Finch Coin",
+  "social": [
+   "https://t.me/FinchCoin_org",
+   "https://t.me/FinchAirdropBot",
+   "https://x.com/FinchCoin_org"
+  ],
+  "symbol": "FINCH",
+  "websites": [
+   "https://finchcoin.org"
+  ]
+ },
+ {
   "address": "0:c224bd22407a1f70106f1411dd546db7dd18b657890234581f453fa0a8077739",
   "description": "fanz.ee is a web3 fan engagement platform designed to help sports and entertainment organisations meaningfully connect with their fans through immersive gamification experiences",
   "name": "Fanzee Token",
@@ -958,8 +1015,8 @@
  {
   "address": "EQA42um-pf3bJ6KH08Fv8-ALGOt0a4-460etgeaydJjYRu-O",
   "decimals": 9,
-  "description": "GECKO \u2014 In the world of beasts b\u0435 \u0430 gecko,  just chill.",
-  "image": "https://github.com/11g13g/gecko/blob/main/gecko.jpeg",
+  "description": "GECKO \u2014 In the world of beasts b\u0435 \u0430 gecko, just chill.",
+  "image": "https://raw.githubusercontent.com/11g13g/gecko/refs/heads/main/gecko.jpeg",
   "name": "GECKO",
   "social": [
    "https://t.me/gecko_in_hoodie",
@@ -2016,6 +2073,20 @@
   "symbol": "ROON",
   "websites": [
    "https://raccoonton.com"
+  ]
+ },
+ {
+  "address": "0:051a19b1d7df681fa9262fbf0f1811f2031e1de4288975f5f04a30cae45e4817",
+  "description": "Automated yield farming aggregator",
+  "image": "https://raw.githubusercontent.com/Beetroot-fi/contracts/refs/heads/master/LOGO.PNG",
+  "name": "Beetroot",
+  "social": [
+   "https://t.me/BeetrootFinance",
+   "https://x.com/beetroot_fi"
+  ],
+  "symbol": "ROOT",
+  "websites": [
+   "https://app.beetroot.finance"
   ]
  },
  {
