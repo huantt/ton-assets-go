@@ -174,6 +174,15 @@
   ]
  },
  {
+  "address": "0:aeda1bf9c5fe358ac5b95045c4c10909056e4790dedaae3082c8f3e9a2fca4cf",
+  "image": "https://crypto-billions.github.io/resources/icon.png",
+  "name": "BITON",
+  "symbol": "BITON",
+  "websites": [
+   "https://www.cryptobillions.org"
+  ]
+ },
+ {
   "address": "0:77059ebd7de55def1117792db1f87c1087318087b1e0ea1d5e026e2bc80e012e",
   "decimals": 9,
   "description": "PIXEL [BITPIX] is a token based on the decentralized and high-speed blockchain technologies of The Open Network.",
@@ -242,6 +251,18 @@
    "https://t.me/boltlink"
   ],
   "symbol": "BOLT"
+ },
+ {
+  "address": "EQBdyXiXNlJUwd6Db5nRNvlaJPBYxXOcJF6KR4KG5DQZQ4xk",
+  "description": "Booli is a promising NFT project working on the $BOOLI token.",
+  "image": "https://i.ibb.co/mbYCFtt/BOOLI-2.png",
+  "name": "Booli",
+  "social": [
+   "https://t.me/nftbooli",
+   "https://t.me/boolichat",
+   "https://x.com/NFT_BULL_2024"
+  ],
+  "symbol": "BOOLI"
  },
  {
   "address": "0:8c508f82ec24235506a7c03e4daf0b34a34e922953231db2cf370f0f5d6eadd3",
@@ -932,6 +953,21 @@
   "symbol": "GDV",
   "websites": [
    "https://goldverse.io"
+  ]
+ },
+ {
+  "address": "EQA42um-pf3bJ6KH08Fv8-ALGOt0a4-460etgeaydJjYRu-O",
+  "decimals": 9,
+  "description": "GECKO \u2014 In the world of beasts b\u0435 \u0430 gecko,  just chill.",
+  "image": "https://github.com/11g13g/gecko/blob/main/gecko.jpeg",
+  "name": "GECKO",
+  "social": [
+   "https://t.me/gecko_in_hoodie",
+   "https://x.com/gecko_in_hoodie"
+  ],
+  "symbol": "$GECKO",
+  "websites": [
+   "https://geckoinhoodie.xyz/"
   ]
  },
  {
@@ -2037,6 +2073,19 @@
   "symbol": "SAFET",
   "websites": [
    "https://safemoonton.com"
+  ]
+ },
+ {
+  "address": "EQCN27hCnCNBR6gm3EoaxIx4zTtv7fLGErV0DozdezrOVBGI",
+  "description": "SHEGLOV \u0441\u0435\u0433\u043e\u0434\u043d\u044f - \u0434\u043e\u0440\u043e\u0436\u0435, \u0447\u0435\u043c \u0432\u0447\u0435\u0440\u0430",
+  "image": "https://drive.google.com/file/d/1G6GDzH-r6moHtitD-2vTXe2jbq5VfcQZ/view?usp=sharing",
+  "name": "SHEGLOV",
+  "social": [
+   "https://www.tiktok.com/@oleg_sheglov"
+  ],
+  "symbol": "SHEGLOV",
+  "websites": [
+   "https://t.me/oleg_sheglov"
   ]
  },
  {
