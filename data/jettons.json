@@ -368,6 +368,20 @@
   "symbol": "CHILD"
  },
  {
+  "address": "EQCK9EhO4T_y3i8ypPL2ghraeUwWYhZ8tL2XFqyxg7kWX2EZ",
+  "description": "The next generation of gamified social interaction. As the driving force behind a platform that blends gaming with dynamic social media experiences, ChiliVersus empowers users to participate in rivalries, complete interactive tasks, and engage in meaningful connections.",
+  "image": "https://chiliversus.com/coin.png",
+  "name": "ChiliVersus",
+  "social": [
+   "https://t.me/ChiliVersus",
+   "https://x.com/ChiliVersus"
+  ],
+  "symbol": "CHVRS",
+  "websites": [
+   "https://chiliversus.com"
+  ]
+ },
+ {
   "address": "0:b80f1e4cab2f6a86a1e91f4725fd4f217a3067721357667fcbd3f3a3db32d8e4",
   "description": "Telegram's favorite COIN! The Coin everyone should have. From Telegram's famous \"The Coin\" sticker pack!",
   "image": "https://raw.githubusercontent.com/TheCoinOnTon/TheCoin/main/coin%20logo%20png.png",
@@ -641,6 +655,20 @@
    "https://x.com/DILScoin"
   ],
   "symbol": "DILS"
+ },
+ {
+  "address": "EQDYwXKOLLRIiymZ9FoZoxGg03bewUUNPpoYNe3OqFzNY2N9",
+  "description": "DODU Ton is a meme coin with ecosystem. The idea behind this meme token is to elect Donald Duck as the President of all meme coins launched on the TON network.",
+  "image": "https://i.postimg.cc/1zX1cFLt/photo-2024-04-11-12-33-59.jpg",
+  "name": "Donald Duck",
+  "social": [
+   "https://t.me/dodumemecoin",
+   "https://twitter.com/DonaldDuckTon"
+  ],
+  "symbol": "DODU",
+  "websites": [
+   "https://dodumemecoin.com/"
+  ]
  },
  {
   "address": "EQDmo04M0R-61EW7T5qOvydXMWxldS3-7ksoHSSne5U_AgW0",
@@ -1492,6 +1520,20 @@
   ]
  },
  {
+  "address": "0:97ad906709af67ae956e84dc178e016436519853c01af6c5dc23ec221bca025e",
+  "description": "Climbing a mountain is impossible without the support of a strong woman, so Marge came to Homer's aid.",
+  "image": "https://raw.githubusercontent.com/Gen-Co-Sush/IMG/refs/heads/main/photo_2024-11-30_17-32-20.jpg",
+  "name": "MARGE",
+  "social": [
+   "https://t.me/pumpsimpsons",
+   "https://t.me/pumpsimpsonschat"
+  ],
+  "symbol": "MARGE",
+  "websites": [
+   "http://simpsonston.com/"
+  ]
+ },
+ {
   "address": "0:0be9ed5434f164b27f35f7ca8e0fa2880a7a65c3a7fd70c205b905b7c55f6577",
   "description": "Mars Coin. Game TONPlanets.com",
   "image": "https://nft.tonplanets.com/jettons/mars/m_j_v2_512.png",
@@ -2160,6 +2202,20 @@
   ]
  },
  {
+  "address": "EQAuWE-bVR7O1bSkwN_mPdyivpKw5lfWc47sgvuczyzZ49S3",
+  "description": "Born from the chaos of scammy projects, Shitdrops turn the tables by blending humor with the ChiliVersus mission to build a transparent and engaging digital ecosystem. With 1 SHITDROPS equaling 1 CHVRS, it seamlessly bridges the fun of memes with real value in ChiliVersus\u2014the next-gen gamified social media platform. It\u2019s more than just a joke\u2014it\u2019s a bold, spicy catalyst for change!",
+  "image": "https://chiliversus.com/meme/shitdrops.png",
+  "name": "Shitdrops",
+  "social": [
+   "https://t.me/ChiliVersus",
+   "https://x.com/ChiliVersus"
+  ],
+  "symbol": "SHITDROPS",
+  "websites": [
+   "https://chiliversus.com"
+  ]
+ },
+ {
   "address": "0:10018a94afd2038a23102af5d71ed2e14fbed6bdb847ed51a1bcf3c9981545dc",
   "decimals": 9,
   "description": "Real meme cat on TON",
@@ -2811,21 +2867,6 @@
    "https://t.me/tenerechat"
   ],
   "symbol": "Tnr"
- },
- {
-  "address": "EQC7ilfUj2egjitpNBgW86I3Zr1lJEnqf1MwscMc59HjaU_U",
-  "description": "Tonny is a meme & tap-to-earn project where users can get $xTonny by playing Tonny bot and referring users.",
-  "image": "https://drive.google.com/file/d/1SxXXaGshDbKrc8S-8KHM1iuHGOsE4lBh/view?usp=sharing",
-  "name": "Tonny",
-  "social": [
-   "https://t.me/tonny_community",
-   "https://x.com/Tonny_io",
-   "https://t.me/Tonny_io"
-  ],
-  "symbol": "TONNY",
-  "websites": [
-   "https://tonny.io"
-  ]
  },
  {
   "address": "EQBEbKm5z-T5psz8iRtCRYjDH-OGbRAsfhQtdKf1ma2dqS7o",
