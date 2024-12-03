@@ -410,8 +410,8 @@
  },
  {
   "address": "0:8faa11816423ad414671fa4e437041a9e5741991d7d03947ea58ae99d0ba3abd",
-  "description": "COSA NOSTRA is a crypto community token. Become a part of the community - HOLD and watch your balance grow!",
-  "image": "https://i.imgur.com/bJaMEkF.png",
+  "description": "COSA NOSTRA - Is a crypto community token. Become a part of the community - HOLD and watch your balance grow!",
+  "image": "https://crypto-cosanostra.io/cosaCoin_logo.png",
   "name": "COSA NOSTRA",
   "social": [
    "https://t.me/Cosa_Nostra_RU"
@@ -893,6 +893,22 @@
    "https://t.me/e4jetton"
   ],
   "symbol": "E4"
+ },
+ {
+  "address": "EQCO_DFX8vXjytw8nLPj1UFZgGVL_4b-lhknP4sTLnv91hlm",
+  "description": "\u041d\u0430\u0448\u0430 \u044d\u043a\u043e\u0441\u0438\u0441\u0442\u0435\u043c\u0430 \u0437\u0430 \u041a\u0440\u0438\u043f\u0442\u043e\u0432\u0430\u043b\u044e\u0442\u044b, \u0422\u0440\u0435\u0439\u0434\u0438\u043d\u0433, \u0418\u043d\u0432\u0435\u0441\u0442\u0438\u0446\u0438\u0438 \u043d\u0430 \u0411\u043b\u043e\u043a\u0447\u0435\u0439\u043d\u0435 TON. JUST HODL",
+  "image": "https://optim.tildacdn.com/tild6234-3832-4232-b538-316365393137/-/resize/512x/-/format/webp/2024-11-24_14-35-10_.png",
+  "name": "Elchanin",
+  "social": [
+   "https://t.me/elchanin_bitcoin_crypto",
+   "https://t.me/btccryptochat",
+   "https://vk.com/elchanin_bitcoin_crypto",
+   "https://www.youtube.com/@elchanin_bitcoin_crypto"
+  ],
+  "symbol": "ELCHANIN",
+  "websites": [
+   "https://ru.tradingview.com/u/ilyaelchanin/"
+  ]
  },
  {
   "address": "EQAWqZE17MQgawh-Jo_Z8Wh_dGc1zpo7rL6r2w4L7XK_HygW",
@@ -1492,6 +1508,20 @@
   "symbol": "LSQG"
  },
  {
+  "address": "EQAGR0gjag59kJcfHvm6q67NzIyMlY_DqEJ_39kxqZBMB2Cj",
+  "description": "The world of cryptocurrency is filled with too many boring and similar projects. It's time to change the game! LUXE DUCK \u2014 a stylish, bold, and confident duck that\u2019s ready to claim the",
+  "image": "https://s3.blum.codes/9a58664c-fb63-412d-8700-ac87479123b8/8bf50cba-cd58-4648-8d9f-73e65addbf3e",
+  "name": "LUXE DUCK",
+  "social": [
+   "https://t.me/luxeduck",
+   "https://x.com/LuxeDuck"
+  ],
+  "symbol": "LUXE",
+  "websites": [
+   "http://luxe-duck.com/"
+  ]
+ },
+ {
   "address": "EQDhbM11gCkwVSLu11jTPUGQKXPjfW_J1psPqc8mwZwM7Imf",
   "description": "TonAlchemists is an innovative project on the TON blockchain, with a mission to create a better, more welcoming community. Our goal is to facilitate networking and build a \"TON family\".",
   "image": "https://i.postimg.cc/CxH6g4Jg/icon.png",
@@ -1985,6 +2015,22 @@
   "websites": [
    "https://planton.fun/",
    "https://planton.gitbook.io/planton"
+  ]
+ },
+ {
+  "address": "EQD2prpNBfCRa0fZpSHJvpvqFT7hW8Sw6uhcxGgmIAWigAe_",
+  "decimals": 9,
+  "description": "QUESTPL is the utility token for Pleasure Quest, a gamified ecosystem on The Open Network that combines NFT characters, task-based rewards, and a multi-level referral system. It powers in-app transactions, rewards, and ecosystem governance.",
+  "image": "https://questpl.com/img/logo_trans.png",
+  "name": "QUESTPL",
+  "social": [
+   "https://twitter.com/Pleasure_PLQT",
+   "https://t.me/pleasure_quest",
+   "https://t.me/PleasureQuest_bot"
+  ],
+  "symbol": "QUESTPL",
+  "websites": [
+   "https://questpl.com/"
   ]
  },
  {
@@ -3194,6 +3240,16 @@
   "websites": [
    "https://www.cygnus.finance"
   ]
+ },
+ {
+  "address": "EQDnHdyEpWyGKFyS4k4gj_18cyy6TV64UKuXKOPH_AfQQvol",
+  "description": "CUBE_Fund - investing for everyone",
+  "image": "https://i.ibb.co/JvsPgC5/image.jpg",
+  "name": "CUBE_Fund",
+  "social": [
+   "https://t.me/cube_fund"
+  ],
+  "symbol": "CUBE"
  },
  {
   "address": "0:cfe052ace00aa8b61b9c5803dd1c97ec9ed7a01dd927af09a0f2a57d781565ad",
