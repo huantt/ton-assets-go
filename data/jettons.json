@@ -1869,6 +1869,19 @@
   ]
  },
  {
+  "address": "EQCNAgBOXxWPavXRfBq3bWcXzlhQCmPBlSVTg2pyfPKzFUx2",
+  "description": "ORANGE is a meme coin with no intrinsic value or expectation of financial return. This coin is for entertainment purposes only.",
+  "image": "https://dd.dexscreener.com/ds-data/tokens/ton/eqcnagboxxwpavxrfbq3bwcxzlhqcmpblsvtg2pyfpkzfux2.png",
+  "name": "TON Orange",
+  "social": [
+   "https://t.me/tonorangelur"
+  ],
+  "symbol": "ORG",
+  "websites": [
+   "https://t.me/orange_tonlur"
+  ]
+ },
+ {
   "address": "EQD1AOxSwDn3UX0PCBDNVGE4xNkAJPsjzOEBRILfvFdR4H2B",
   "description": "PROBULL Game Token",
   "image": "https://api-v1-srvr-game.probull.org/2-12.png",
@@ -2989,6 +3002,22 @@
   "symbol": "UTYAB",
   "websites": [
    "https://utyabswap.com"
+  ]
+ },
+ {
+  "address": "0:1b12eb7baeb51a4a690db86f2c7cf9aab704cb766b332fe9674228e609788b43",
+  "decimals": 9,
+  "description": "Due to current market conditions I now identify as a memecoin.  \n\nThe ticker is $UWU.",
+  "image": "https://storage.googleapis.com/foruai/ton-assets/2dcaba55-922e-48fc-a16f-6fcd30931277.webp",
+  "name": "ForU AI",
+  "social": [
+   "https://x.com/memecoinuwu",
+   "https://t.me/memecoinuwu",
+   "https://t.me/ForUAICryptoBot"
+  ],
+  "symbol": "UWU",
+  "websites": [
+   "https://uwu-meme.fun"
   ]
  },
  {
