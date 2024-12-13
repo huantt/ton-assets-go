@@ -467,6 +467,19 @@
   ]
  },
  {
+  "address": "EQB-vc00g9PeUWLptSAH4g1J5kYS7WTgtVEfhI6oKdQtRudE",
+  "description": "Clayton is blue, fluffy friend of TON.",
+  "image": "https://i.ibb.co/r6SLkLj/256t1.png",
+  "name": "Clayton",
+  "social": [
+   "https://t.me/clayton"
+  ],
+  "symbol": "$CLAY",
+  "websites": [
+   "https://t.me/claytoncoinbot"
+  ]
+ },
+ {
   "address": "0:b80f1e4cab2f6a86a1e91f4725fd4f217a3067721357667fcbd3f3a3db32d8e4",
   "description": "Telegram's favorite COIN! The Coin everyone should have. From Telegram's famous \"The Coin\" sticker pack!",
   "image": "https://raw.githubusercontent.com/TheCoinOnTon/TheCoin/main/coin%20logo%20png.png",
@@ -1235,6 +1248,20 @@
   "symbol": "GMC",
   "websites": [
    "https://greatmindsclassic.vip/"
+  ]
+ },
+ {
+  "address": "EQC2CUQqMJuVkO_ioXE9MvW9ckNBuxqFB7Xce7BgwFnWagem",
+  "description": "Baa-lieve the hype!",
+  "image": "https://dev.goatsbot.xyz/images/logo.webp",
+  "name": "GOATS",
+  "social": [
+   "https://x.com/GOATS_immortal",
+   "https://t.me/realgoats_channel"
+  ],
+  "symbol": "GOATS",
+  "websites": [
+   "https://ton.goatsbot.xyz/"
   ]
  },
  {
@@ -2816,6 +2843,22 @@
   ]
  },
  {
+  "address": "EQBgI-rl6SzhJp5Rtoqg0JlWsgPH4rnVkU6EAnD1yvOuzMPG",
+  "description": "$SW Token - Super WONTON \ud83e\udd5f \ud83d\udd25 Born to Cook, So LFC! Created by the WONTON Fam, $SW showcases the superpower of WONTON and the strength of the community. \ud83d\udcaa",
+  "image": "https://dd.dexscreener.com/ds-data/tokens/ton/eqbgi-rl6szhjp5rtoqg0jlwsgph4rnvku6eand1yvouzmpg.png",
+  "name": "SuperWonton",
+  "social": [
+   "https://x.com/SuperwontonOrg",
+   "https://t.me/superwonton"
+  ],
+  "symbol": "SW",
+  "websites": [
+   "http://superwonton.xyz/",
+   "https://dexscreener.com/ton/eqa8mzxhfmgid8_k65boet_sxvyebpypwafe4pww2r2sqkbc",
+   "https://www.geckoterminal.com/ton/pools/EQA8MzXHfmGid8_K65boEt_sXVyEbPYPwaFe4PwW2R2sQKbC"
+  ]
+ },
+ {
   "address": "EQDNLrrwm7llKkce0YArDb53jeEP3rRRnJVpvDKA1675T2ft",
   "description": "NFT Sticker on TON. Girl meta. Community take over.",
   "image": "https://raw.githubusercontent.com/SteamyJulia/crypto-assets/main/julia%20(1).png",
@@ -3599,6 +3642,20 @@
   "address": "0:4da39a801bc23c27a23119acf5e527d0541fa45fdf1884a57f993dfa5e8e6f63",
   "name": "Hipo Staked TON v1",
   "symbol": "hTON1"
+ },
+ {
+  "address": "EQCxvMXPTfbX_gY5e31EQUJgiNzpc0TNDIOnP8uZ8br-k27B",
+  "decimals": 9,
+  "description": "Token of the project \"I Know This Place..?\". Trans-media universe including game series, short films and interaction with the public. The token is integrated into the universe and is used to get a VIP subscription, add player items to the game, and more. Find out more information on the project website https://i-Know.net",
+  "image": "https://i-know.net/iKnow_token.png",
+  "name": "iKnow",
+  "social": [
+   "t.me/IKTP_RU"
+  ],
+  "symbol": "IKNOW",
+  "websites": [
+   "https://i-Know.net"
+  ]
  },
  {
   "address": "EQB_frCufFqUGVQuDd8UiNO9O1skgO0gzsSEpjHZ-wykdBD3",
