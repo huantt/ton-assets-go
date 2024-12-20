@@ -989,6 +989,21 @@
   ]
  },
  {
+  "address": "EQCw-BbQIfJDGenrasj0SGuc8fkBTIP9rNnVrSLEdqehjF4V",
+  "description": "DOGSAI \u2014 \u044d\u0442\u043e \u043d\u0435 \u043f\u0440\u043e\u0441\u0442\u043e \u0442\u043e\u043a\u0435\u043d, \u044d\u0442\u043e \u0438\u043d\u043d\u043e\u0432\u0430\u0442\u043e\u0440 \u043d\u0430 \u0431\u043b\u043e\u043a\u0447\u0435\u0439\u043d\u0435",
+  "image": "https://github.com/cristcrusher/dogsai/blob/main/photo_2024-12-17_10-19-05.jpg",
+  "name": "DogsAI",
+  "social": [
+   "https://t.me/doggyAI_bot",
+   "https://x.com/doggyaibot"
+  ],
+  "symbol": "DOGSAI",
+  "websites": [
+   "https://dogsai.ee",
+   "https://app.dogsai.ee"
+  ]
+ },
+ {
   "address": "0:C97192095E0F3193F8BCC0DD100128525DE76A16F816CEE2F88B9D25D58AD637",
   "description": "Durov`s Code is a token dedicated to the biography of the Durov brothers",
   "image": " https://github.com/DurovsCode/logo/blob/main/wt3.png?raw=true ",
@@ -1961,6 +1976,17 @@
   "websites": [
    "https://new-jetton.site"
   ]
+ },
+ {
+  "address": "0:48d6fc92f9b56a52b4a606d8706732e98e2ed2b2612aadb01c4528c7644278a5",
+  "description": "Nismo Token - The crypto that goes vroom! Where car culture meets meme magic\u2014fast trades, fast laughs, and full throttle fun. Buckle up!",
+  "image": "https://i.imghippo.com/files/EClH6157nJ.png",
+  "name": "NISMO",
+  "social": [
+   "https://t.me/nismopepe",
+   "https://x.com/nismo_on_ton"
+  ],
+  "symbol": "NISMO"
  },
  {
   "address": "0:2ab634cfcbdbe3b97503691e0780c3d07c9069210a2b24b991ba4f9941b453f9",
@@ -3039,6 +3065,20 @@
   ]
  },
  {
+  "address": "EQCIqReEFfH3ZNxqXDi2xGl8nmfrMuQG4aAgEb56uRAa8BmW",
+  "description": "Warthog (THOG) is a memecoin with a mission, a unique cryptocurrency inspired by the global viral trend of the Warthog \"KASONGO\" and its endearing \"reverse turbo\" antics. But $THOG is more than just a meme; it's a movement",
+  "image": "https://thogtoken.com/assets/img/thogtoken.png",
+  "name": "Warthog",
+  "social": [
+   "https://x.com/thogtoken",
+   "https://t.me/thogtoken"
+  ],
+  "symbol": "THOG",
+  "websites": [
+   "https://thogtoken.com"
+  ]
+ },
+ {
   "address": "0:3a43774c81511f5d0f6d3412f67cc96312123f6b343e477bef3e08c6397c2817",
   "coingecko": "https://www.coingecko.com/en/coins/ton-inu",
   "description": "Dive into our toolkits, your secret weapons for making your crypto journey secure, seamless, and seriously cool $TINU.",
@@ -3596,6 +3636,16 @@
   "address": "EQBsTwY-0y5e1i6eVLklvkLwS2QJMllwWP7c4uq0ni6qxAvE",
   "name": "PUMPCORN",
   "symbol": "PUMPCORN"
+ },
+ {
+  "address": "EQAmLDfD9kc5nrqCfrCRQ1pK3KL6wB7Ya4Nud5HjNbwnbiWF",
+  "name": "KITSU",
+  "symbol": "KITSU"
+ },
+ {
+  "address": "EQCQoiC8ss0QIjpTz-RI89OzmyXxxt0CTOsGueRd9Vp-0Dy8",
+  "name": "Chloe",
+  "symbol": "CHLOE"
  },
  {
   "address": "EQB-MPwrd1G6WKNkLz_VnV6WqBDd142KMQv-g1O-8QUA3728",
