@@ -85,6 +85,22 @@
   "symbol": "APC"
  },
  {
+  "address": "EQBXRdZTk5P49mL0nOYfDR1VR33N3sPUgB7PNQMaj6DhxOJH",
+  "description": "ARC is the utility token released by the ecosystem Architec.ton, based on the Telegram ecosystem. ARC is the main token used inside apps (games etc.) in Architec.ton ecosystem.",
+  "image": "https://raw.githubusercontent.com/Architec-Ton/banktoken/refs/heads/main/docs/ARC.png",
+  "name": "ARC jetton",
+  "social": [
+   "https://t.me/architecton_tech",
+   "https:///t.me/architecton_eu",
+   "https://x.com/architec_ton"
+  ],
+  "symbol": "ARC",
+  "websites": [
+   "https://architecton.tech",
+   "https://architec.ton"
+  ]
+ },
+ {
   "address": "EQDWEsV8ZD83HhpJBLWuB_r55XLwNCpZwcBo-UGNthcJtboi",
   "description": "100% RICH",
   "image": "https://kappa.lol/baXhR",
@@ -219,6 +235,18 @@
   ]
  },
  {
+  "address": "EQB1SXkGMcEWGEi51hZaSUAB7RRNmiPDpii_jPrhEfvruoFd",
+  "decimals": 9,
+  "description": "Invest in the future with BAROK, An innovative, powerful, and prestigious digital asset. Join now and seize the opportunities!",
+  "image": "https://storage.dyor.io/jettons/EQB1SXkGMcEWGEi51hZaSUAB7RRNmiPDpii_jPrhEfvruoFd/image.jpeg",
+  "name": "BAROK",
+  "social": [
+   "https://t.me/barokuz",
+   "https://x.com/barokuz"
+  ],
+  "symbol": "BAROK"
+ },
+ {
   "address": "EQCXBKs17pqVQN_GiNoahRmxQvKdu8-2L0WUrIoJKBlQi0jH",
   "description": "Token of the future",
   "image": "https://raw.githubusercontent.com/EternityCoin/Batymchanin-coin/main/LOGOGOOD2.png",
@@ -329,6 +357,22 @@
   "symbol": "BMW",
   "websites": [
    "https://bmwcoin.info"
+  ]
+ },
+ {
+  "address": "EQAj1qW6WZTd7sd33Uk48O3TqxNPMjYrgwRHAcBM8RcQCQAD",
+  "description": "BNK is a limited supply token that is the primary mining method for the official ARC token from the Arhitec.ton project.",
+  "image": "https://raw.githubusercontent.com/Architec-Ton/banktoken/refs/heads/main/docs/BNK.png",
+  "name": "BNK jetton",
+  "social": [
+   "https://t.me/architecton_tech",
+   "https:///t.me/architecton_eu",
+   "https://x.com/architec_ton"
+  ],
+  "symbol": "BNK",
+  "websites": [
+   "https://architec.ton",
+   "https://architecton.tech"
   ]
  },
  {
@@ -1464,6 +1508,22 @@
    "https://www.instagram.com/intimizer.kz"
   ],
   "symbol": "INTI"
+ },
+ {
+  "address": "0:618736e7c982c8708c310b353e50aefb148183f703d0dff86158716a3ee2e3d4",
+  "description": "A utility token for purchasing courses, services, and products related to stock market trading and investing offered by a Lithuanian trading school expanding globally.",
+  "image": "https://plum-competitive-ox-347.mypinata.cloud/ipfs/bafkreih2wb54t6fa5miqocounjpzefbrnsgpke2kpyslr5jonr6t6ifcgi",
+  "name": "Investavimas Visiems (Investing For All)",
+  "social": [
+   "https://t.me/investingforeveryonee",
+   "https://x.com/invesvv",
+   "https://discord.gg/V7P36may",
+   "https://www.tiktok.com/@tomas.dul"
+  ],
+  "symbol": "INVESV",
+  "websites": [
+   "http://investavimasvisiems.lt"
+  ]
  },
  {
   "address": "0:8559f83510b2d190d435560c4210e60aa8bab102e3494eb5171578246a0ec3da",
@@ -3457,6 +3517,21 @@
   ]
  },
  {
+  "address": "0:9735267dde342668dd08e44f25058ab5c4a5d612c4c36b92a460b9ed863ce53c",
+  "coingecko": "https://www.coingecko.com/en/coins/war-three-kingdoms",
+  "description": "Easy and fast Three Kingdomes Idle RPG",
+  "image": "https://res.dashfun.games/icons/w3kt-256.png",
+  "name": "War Three Kingdoms",
+  "social": [
+   "https://t.me/war3kingdoms",
+   "https://x.com/war3kingdom"
+  ],
+  "symbol": "W3KT",
+  "websites": [
+   "https://www.w3kt.com"
+  ]
+ },
+ {
   "address": "EQDmGviRZNqyzr6K_Wa3rvntvDRaGxjUxQS_ZI-fqqOFJlrz",
   "description": "Inspired by Where's Waldo",
   "image": "https://waldonton.com/images/07be62d038ecd50c77aad06033bbc6f4.png",
@@ -3674,18 +3749,6 @@
   "description": "WBTC transferred from Ethereum via bridge.ton.org. Token address in Ethereum: 0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599.",
   "name": "jWBTC",
   "symbol": "jWBTC"
- },
- {
-  "address": "EQAktQROTvFgjjdGVdbjvrF48-rod9Qw2Vwfp5GoT6F1UYiu",
-  "decimals": 9,
-  "description": "Ben De\u011fil Biziz Hepimiz Barokuz",
-  "image": "https://storage.dyor.io/jettons/EQAktQROTvFgjjdGVdbjvrF48-rod9Qw2Vwfp5GoT6F1UYiu/image.jpeg",
-  "name": "Barokuz",
-  "social": [
-   "https://t.me/barokuz",
-   "https://x.com/barokuz"
-  ],
-  "symbol": "BRK"
  },
  {
   "address": "EQBIBw3mF_TDMJqWAZihVsyUBMWpWw_deftZLiCxTmrCUOKy",
