@@ -60,6 +60,22 @@
   ]
  },
  {
+  "address": "EQBgCpDJVh1poEQS5ApQ0yg_K_J8SC9pdaMnlwPk7hjVClMQ",
+  "description": "Aka Liberty has been created by Libertad \ud83d\ude80\ud83c\udf89 Aka is for Us! \ud83c\udf0d\ud83d\udcb8",
+  "image": "https://i.postimg.cc/x8GS6SGG/photo-2024-12-16-20-54-54.png",
+  "name": "AKA Liberty",
+  "social": [
+   "https://t.me/aka_token",
+   "https://x.com/akalibertytoken",
+   "https://www.youtube.com/@AKA_token",
+   "https://www.instagram.com/aka.liberty"
+  ],
+  "symbol": "AKA",
+  "websites": [
+   "https://akatoken.com"
+  ]
+ },
+ {
   "address": "EQDxYWM-OPwQPinCwpNcqtd12vxzh5QkiUe_kq7c8ChktutE",
   "description": "ALS.BOT platform token - anti-liquidation system",
   "image": "https://als.bot/CoolAdmin/images/icon/als-logo-transparent-small.png",
@@ -301,6 +317,19 @@
   "symbol": "BBQ",
   "websites": [
    "https://www.bbqcoin.ai/"
+  ]
+ },
+ {
+  "address": "EQCtCnmfTVUx_fep5Uh00rSEi1bbUHr7QfMb-IxPOYa9Nr3_",
+  "description": "Join the friendly and growing BabyBTC community! We are more than just a crypto project; we are a family of like\u2013minded people united by a common goal. BabyBTC is a token designed for everyone, from beginners to experienced investors. Participate in our events, contests, and receive support from our active community. Together we are building the future of BabyBTC!",
+  "image": " https://bbtc.rest/gallery/photo_2024-12-09_01-27-41%202.jpg?ts=1733916883 ",
+  "name": "BabyBTC",
+  "social": [
+   "https://t.me/babebtc"
+  ],
+  "symbol": "BBTC",
+  "websites": [
+   "https://bbtc.gg"
   ]
  },
  {
@@ -1226,6 +1255,26 @@
   "symbol": "FORT",
   "websites": [
    "https://linktr.ee/fortstand"
+  ]
+ },
+ {
+  "address": "EQDg6uLa0LZMJ9477qoKLjgCpSXwhk-GtSOxSRbju52spwym",
+  "description": "An innovative solution for administering Telegram groups, combining powerful management tools with an integrated wallet for seamless transactions and monetization. Established in 2016, our project has been delivering reliable and efficient solutions for group management and monetization for years.",
+  "name": "fovcoin Token",
+  "social": [
+   "https://t.me/fovChat",
+   "https://t.me/fovTGChat",
+   "https://t.me/fovcoinChat",
+   "https://x.com/fovbot",
+   "https://www.instagram.com/fovbot",
+   "https://web.facebook.com/fovbot",
+   "https://github.com/fovbot",
+   "https://www.tiktok.com/@fovbot",
+   "https://www.youtube.com/@fovcoin"
+  ],
+  "symbol": "FOV",
+  "websites": [
+   "https://fovbot.org/Hkm3wvDzr"
   ]
  },
  {
@@ -2844,6 +2893,19 @@
   "symbol": "SPNG",
   "websites": [
    "https://spongeton.org/"
+  ]
+ },
+ {
+  "address": "0:ee4a37eb44ef12a67f5702e81b954802c34b11e6f72099aac0e4c9088f780083",
+  "description": "SPR - mem token launched on the blum memepad platform aiming to build the largest meme-token community on the TON blockchain",
+  "image": "https://cdn.sprcoin.org/jettons/EQDuSjfrRO8Spn9XAugblUgCw0sR5vcgmarA5MkIj3gAg2a1/SPR.png",
+  "name": "SPeculatoR",
+  "social": [
+   "https://t.me/Community_SPR"
+  ],
+  "symbol": "SPR",
+  "websites": [
+   "https://sprcoin.org"
   ]
  },
  {
