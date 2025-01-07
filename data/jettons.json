@@ -31,6 +31,22 @@
   ]
  },
  {
+  "address": "EQCcVZhwtJD680yNFt5qYal9AQxgnUNL3F9U5lU59e6rfgLq",
+  "description": "Utility-token for the 13th Floor TG Game. Shape the Game's future before the Airdrop, while your Avatar is still earning money for you. Trade and Hold for in-game bonuses, purchases, NFTs, and increased chances in the main 13th Floor Airdrop.",
+  "image": "https://d8bddedf-ac40-4488-8101-05035bb63d25.selstorage.ru/BlackLogo.png",
+  "name": "13th Floor Utility",
+  "social": [
+   "https://t.me/Floor13th_bot",
+   "https://t.me/Game_13thFloor",
+   "https://t.me/Community13thFloor",
+   "https://x.com/13thfloorgame"
+  ],
+  "symbol": "13FUTY",
+  "websites": [
+   "https://13thfloorgame.io"
+  ]
+ },
+ {
   "address": "EQB5Wjo7yXdaB70yBoN2YEv8iVPjAdMObf_Dq40ELLaPllNb",
   "description": "Operating startup of the mining company",
   "image": "https://i.postimg.cc/BZMY4sKN/photo-2023-12-08-12-58-58-1-1.png",
@@ -1007,6 +1023,18 @@
   "symbol": "DUCK"
  },
  {
+  "address": "EQDWXjnVWheFemaAaFn-Cp4nDehvGllrXOZ8wqHm8sDEwn_c",
+  "description": "$DUCK is the governance token of the DuckChain ecosystem, playing a pivotal role in on-chain governance while enabling payments, staking, and other key functionalities across DuckChain\u2019s Web3 applications.",
+  "image": "https://static.duckchain.io/DUCKCoin.png",
+  "name": "DuckChain Token",
+  "social": [
+   "https://t.me/DuckChainAnn",
+   "https://x.com/Duck_Chain",
+   "https://t.me/DuckChain_bot"
+  ],
+  "symbol": "DUCK"
+ },
+ {
   "address": "EQB22u_EPF5DyqtZRhjJ2YiZliN-w5ZCq6F_PY6Ia6bvi3Et",
   "description": "$DUROV is a community-driven project, inspired by Pavel Durov - the founder of Telegram. Explore our Airdrop bot, our NFT collection, or even our Staking platform!",
   "image": "https://i.postimg.cc/Sshx4fq4/2024-05-29-10-13-59.jpg",
@@ -1653,7 +1681,7 @@
   "address": "0:618736e7c982c8708c310b353e50aefb148183f703d0dff86158716a3ee2e3d4",
   "description": "A utility token for purchasing courses, services, and products related to stock market trading and investing offered by a Lithuanian trading school expanding globally.",
   "image": "https://plum-competitive-ox-347.mypinata.cloud/ipfs/bafkreih2wb54t6fa5miqocounjpzefbrnsgpke2kpyslr5jonr6t6ifcgi",
-  "name": "Investavimas Visiems (Investing For All)",
+  "name": "INVESTING FOR EVERYONE",
   "social": [
    "https://t.me/investingforeveryonee",
    "https://x.com/invesvv",
@@ -2119,6 +2147,20 @@
   ]
  },
  {
+  "address": "0:643d09e7f48c5b82ead4def8026b19ce772b7fbe0a070f75e3f51b810aafaf8f",
+  "description": "The leading market Index and decentralized, community-governed open-source analytics platform for meme cryptocurrencies",
+  "image": "https://raw.githubusercontent.com/MemeIndexDAO/files/refs/heads/main/MEMEINDEX%20logo%201080x1080.png",
+  "name": "MemeIndexDAO",
+  "social": [
+   "https://t.me/memeindexdao",
+   "https://x.com/MemeIndexDAO"
+  ],
+  "symbol": "MIDAO",
+  "websites": [
+   "https://memeindex.org/"
+  ]
+ },
+ {
   "address": "EQB3oeaBnIYqFbkHphZMnCtOO37Mud5b3NSdL0PAYkgr3Xur",
   "description": "Mistress is the dominatrix woman of $TON blockchain, spanking the bad boys to make them good boys.",
   "image": "https://raw.githubusercontent.com/MistressOnTon/Mistress_media/main/Mistress_logo_white.png",
@@ -2160,6 +2202,19 @@
   ]
  },
  {
+  "address": "0:cfcd95686b3ce51299df502c05b8481b38d0744e310b7c7392f92e43dd1ff881",
+  "description": "A unique token evolving into an eco-friendly AI agent for environmental solutions.",
+  "name": "MANDARIN",
+  "social": [
+   "https://t.me/mndrn_coin",
+   "https://x.com/mndrncoin"
+  ],
+  "symbol": "MNDRN",
+  "websites": [
+   "https://mndrn.xyz"
+  ]
+ },
+ {
   "address": "0:7e3f8929b596235463933214e0c15b6dd6e1ff47d4859729b173426aa5c017b3",
   "description": "MonkeyRush Token",
   "image": "https://raw.githubusercontent.com/rafnicore/monkeyrush/refs/heads/main/monker.png",
@@ -2189,6 +2244,22 @@
   "symbol": "MUMBA",
   "websites": [
    "https://themumba.com/"
+  ]
+ },
+ {
+  "address": "EQApL0Y23dk0Cm5q9eXhXF0y6bprCV0OozjX0pZ77PqS8mcB",
+  "description": "Museum of Meme Token on TON. In Meme We Trust.",
+  "image": "https://dd.dexscreener.com/ds-data/tokens/ton/eqapl0y23dk0cm5q9exhxf0y6bprcv0oozjx0pz77pqs8mcb.png?size=lg&key=ca4234",
+  "name": "Museum of Meme Token",
+  "social": [
+   "https://t.me/TonMemNews",
+   "https://t.me/tonmemehouse",
+   "https://x.com/tonmemehouse",
+   "https://www.youtube.com/@TonTokenMuseum"
+  ],
+  "symbol": "MUTON",
+  "websites": [
+   "https://oncyber.io/tonmeme"
   ]
  },
  {
