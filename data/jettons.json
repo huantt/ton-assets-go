@@ -137,6 +137,23 @@
   ]
  },
  {
+  "address": "0:d5148695c63cbce286bad2c82db573b76ca773f2464fc419f84199b07c926abb",
+  "description": "A project created to unite three worlds. The world of people, the world of crypto and the world of plant power.",
+  "image": "https://i.imghippo.com/files/YTq5043SRg.jpg",
+  "name": "Amanita Muhomor Coin",
+  "social": [
+   "https://t.me/arteman_capital",
+   "https://x.com/amanitamushcoin",
+   "https://www.instagram.com/artemancryptonext",
+   "https://www.youtube.com/@velesogor",
+   "https://www.tiktok.com/@amanitacoin"
+  ],
+  "symbol": "AMANITA",
+  "websites": [
+   "https://muhomorcoin.com"
+  ]
+ },
+ {
   "address": "0:9c2c05b9dfb2a7460fda48fae7409a32623399933a98a7a15599152f37572b49",
   "name": "Ambra",
   "symbol": "AMBR"
@@ -1341,6 +1358,26 @@
   ]
  },
  {
+  "address": "0:311a2f4097b85a98b00e46ba311a4bdf6a9ea49c6cb3239d138643f708b3cb4e",
+  "name": "SY tsTON (30-Jun-2025)",
+  "symbol": "SY tsTON"
+ },
+ {
+  "address": "0:24c484465e0b36bc3db38eddf7e0c0630f79978361acc846477f3b985ffb6b42",
+  "name": "PT tsTON (30-Jun-2025)",
+  "symbol": "PT tsTON"
+ },
+ {
+  "address": "0:1ccbad2a836d910aaf3b03faa060af21a281208c2678e32c617672987655887c",
+  "name": "YT tsTON (30-Jun-2025)",
+  "symbol": "YT tsTON"
+ },
+ {
+  "address": "0:f70630a3c6e7fc9aee64bf16a355b7be2256b549c6599408b4de84bb94c98026",
+  "name": "LP tsTON (30-Jun-2025)",
+  "symbol": "LP tsTON"
+ },
+ {
   "address": "0:c224bd22407a1f70106f1411dd546db7dd18b657890234581f453fa0a8077739",
   "description": "fanz.ee is a web3 fan engagement platform designed to help sports and entertainment organisations meaningfully connect with their fans through immersive gamification experiences",
   "name": "Fanzee Token",
@@ -1856,6 +1893,21 @@
   "symbol": "KAT",
   "websites": [
    "https://katknight.io/"
+  ]
+ },
+ {
+  "address": "0:b6dda36f7663265453296d4a98f33569473f93cdd1bd2dfc3b4f0fe46dfaa1a9",
+  "description": "Behold the Rebirth of $KEKIUS on TON! This Kekius Army shall declare victory where others failed. Inspired by Elon Musk (Kekius Maximus). Join this army for an inspiring narrative of resilience, fairness and community-driven spirit.",
+  "image": "https://kekiusreborn.org/img/icon-kkr.png",
+  "name": "KEKIUS REBORN (TON)",
+  "social": [
+   "https://t.me/KEKIUS_TON",
+   "https://x.com/KekiusRebornTON"
+  ],
+  "symbol": "KEKIUS",
+  "websites": [
+   "kekiusreborn.org",
+   "https://dexscreener.com/ton/eqd1hd-pvqlqmig49tg1i9vss_l4xavu041zanocal--6wea"
   ]
  },
  {
