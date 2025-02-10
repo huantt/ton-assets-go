@@ -601,6 +601,25 @@
   ]
  },
  {
+  "address": "0:0891605266bd39a869cc5efb71fe7238be39464bfc81fb8d5fb3f1d31a4a49c9",
+  "description": "$BaTON is a token created by the people, for the people. A community-driven meme token that empowers everyone, fueling a movement where every holder plays a part in its journey.",
+  "image": "https://i.ibb.co/ycNW2Y2h/1-2.png",
+  "name": "BaTON Token",
+  "social": [
+   "https://t.me/tokenBaTON_bot",
+   "https://t.me/baTON_token",
+   "https://t.me/anon_tokens",
+   "https://t.me/baton_group",
+   "https://x.com/baton_token",
+   "https://instagram.com/baton_token",
+   "https://youtube.com/@baton_token"
+  ],
+  "symbol": "BTN",
+  "websites": [
+   "https://baton-token.com"
+  ]
+ },
+ {
   "address": "0:165365ccbfd5663e63ab68b9920929f25ca8f4a6ac5f77255ed510f36ed5eee1",
   "description": "Bubb AI Agent is an innovative project integrated into the TON ecosystem that combines artificial intelligence (AI) and blockchain technologies",
   "name": "Bubb Ai Agent",
@@ -1566,6 +1585,22 @@
   ]
  },
  {
+  "address": "0:93c7d1632bef368cd2e4d3a9337e4f6d3ff98393e68a06ecca69fd986d84c077",
+  "description": "A full-fledged IT project with its own utility \u2014 VPN inside Telegram.",
+  "image": "https://github.com/JustYay/incteam/blob/main/1024.png",
+  "name": "FREENET",
+  "social": [
+   "https://t.me/incteam_public",
+   "https://t.me/incvpn_posts",
+   "https://t.me/incvpnbot",
+   "https://discord.gg/jxnQtH7y"
+  ],
+  "symbol": "FREENET",
+  "websites": [
+   "https://incvpn.org/"
+  ]
+ },
+ {
   "address": "0:acb8c35704976feeeb94a4422a0bdb6205d930d25bb8e1e9dd0b47f52f255fc5",
   "description": "Fswap is a user-friendly and safe platform for cryptocurrency exchange. The service provides fast transactions, high level of protection of user funds without registration.",
   "image": "https://i.ibb.co/d2cxvDN/Frame-738004272.png",
@@ -1934,6 +1969,21 @@
   "symbol": "HOL\u00d0",
   "websites": [
    "https://t.me/theHoldCoinBot/app"
+  ]
+ },
+ {
+  "address": "0:96d753a736d14801f8b7853b5fccbb9385187bff76980a4970acf07669cafbfc",
+  "description": "American Idiot stands as resistance to a confusing system. If even the president has a memecoin, why not launch a bold community coin together for $TON?",
+  "image": "https://pbs.twimg.com/profile_images/1881148388806459392/UFZG6gT4_400x400.jpg",
+  "name": "American Idiot",
+  "social": [
+   "https://t.me/realamericanidiot",
+   "http://x.com/aidiot4547"
+  ],
+  "symbol": "IDIOT",
+  "websites": [
+   "https://dexscreener.com/ton/EQCW11OnNtFIAfi3hTtfzLuThRh7_3aYCklwrPB2acr7_Fd_",
+   "https://t.me/blum/app?startapp=memepadjetton_IDIOT_JFpP2-ref_Soh9rWskxj"
   ]
  },
  {
@@ -3281,6 +3331,20 @@
   ]
  },
  {
+  "address": "0:d62d27c3e7746b4ec7b774ffdae086b005b34f1a977f321a11189fb3c81bd806",
+  "description": "It is game semz1.com in which you can earn TOKEN and convert the token into TON. To join this unique ecosystem, you only need a Telegram account.",
+  "image": "https://i.ibb.co/Tq7Y2bvH/IMG-20250210-143753-627.jpg",
+  "name": "SEMZ",
+  "social": [
+   "https://t.me/semz_community",
+   "https://x.com/SEMZ1com"
+  ],
+  "symbol": "SEMZ",
+  "websites": [
+   "https://www.semz1.com/"
+  ]
+ },
+ {
   "address": "0:8ddbb8429c234147a826dc4a1ac48c78cd3b6fedf2c612b5740e8cdd7b3ace54",
   "description": "SHEGLOV \u0441\u0435\u0433\u043e\u0434\u043d\u044f - \u0434\u043e\u0440\u043e\u0436\u0435, \u0447\u0435\u043c \u0432\u0447\u0435\u0440\u0430",
   "image": "https://i.ibb.co/6DRdMV1/IMG-7594.png",
@@ -3384,6 +3448,96 @@
    "https://vk.com/vkcoinswap"
   ],
   "symbol": "SNT"
+ },
+ {
+  "address": "0:473a1c3de6b4366a4031486e4fa995899d82cb0afaee4d82a59478caff489694",
+  "description": "Spintria Vesting Jetton",
+  "image": "https://wallet.sp.one/vesting/spv.png",
+  "name": "Spintria Vesting",
+  "social": [
+   "https://x.com/Spintria_coin",
+   "https://t.me/spintr",
+   "https://t.me/chat_spintria"
+  ],
+  "symbol": "vSP",
+  "websites": [
+   "https://sp.one/"
+  ]
+ },
+ {
+  "address": "0:63ace5a93bcbebfa2ebe626b66bfa73c4be71cb3c40532ac5ddd3be0a90bb02f",
+  "description": "Spintria Staking Jetton 6%",
+  "image": "https://wallet.sp.one/staking/sp6.png",
+  "name": "Spintria Staking 6%",
+  "social": [
+   "https://x.com/Spintria_coin",
+   "https://t.me/spintr",
+   "https://t.me/chat_spintria"
+  ],
+  "symbol": "stSP6",
+  "websites": [
+   "https://sp.one/"
+  ]
+ },
+ {
+  "address": "0:a5a60ddb8dd86b7353ea350a6ed1431611529cb3e4383cb5380c6092fa86f5de",
+  "description": "Spintria Staking Jetton 9%",
+  "image": "https://wallet.sp.one/staking/sp9.png",
+  "name": "Spintria Staking 9%",
+  "social": [
+   "https://x.com/Spintria_coin",
+   "https://t.me/spintr",
+   "https://t.me/chat_spintria"
+  ],
+  "symbol": "stSP9",
+  "websites": [
+   "https://sp.one/"
+  ]
+ },
+ {
+  "address": "0:9632d50a3b8712bcd3c04e79184dffbb83330a96786fd13f800b528055c19670",
+  "description": "Spintria Staking Jetton 12%",
+  "image": "https://wallet.sp.one/staking/sp12.png",
+  "name": "Spintria Staking 12%",
+  "social": [
+   "https://x.com/Spintria_coin",
+   "https://t.me/spintr",
+   "https://t.me/chat_spintria"
+  ],
+  "symbol": "stSP12",
+  "websites": [
+   "https://sp.one/"
+  ]
+ },
+ {
+  "address": "0:f7908e29e633df80716a1adff745c81222da8d1204d78c00ef6312a4c428f1f8",
+  "description": "Spintria Staking Jetton 15%",
+  "image": "https://wallet.sp.one/staking/sp15.png",
+  "name": "Spintria Staking 15%",
+  "social": [
+   "https://x.com/Spintria_coin",
+   "https://t.me/spintr",
+   "https://t.me/chat_spintria"
+  ],
+  "symbol": "stSP15",
+  "websites": [
+   "https://sp.one/"
+  ]
+ },
+ {
+  "address": "0:4cf90f9559059b775d9f6a31f62bcc74754892bb080c50afb4c579f807f6b352",
+  "description": "Spintria Staking Jetton 18%",
+  "image": "https://wallet.sp.one/staking/sp18.png",
+  "name": "Spintria Staking 18%",
+  "social": [
+   "https://x.com/Spintria_coin",
+   "https://t.me/spintr",
+   "https://t.me/chat_spintria"
+  ],
+  "symbol": "stSP18",
+  "websites": [
+   "https://sp.one/"
+  ]
  },
  {
   "address": "0:7b847eb025bceb65811b820b0e7017965049a03bb9659304ca7600d4e10ffffd",
@@ -4360,6 +4514,20 @@
    "https://x.com/CryptoBakalchuk"
   ],
   "symbol": "WB"
+ },
+ {
+  "address": "0:4f37dafaa3cc3b93882c5cf73cbe67cc574c5d612756fbbda08b7f0285dfea2b",
+  "description": "A fresh Web3 experience bridging digital and real-world innovation. The utility token of Weedleton Federation P2E game, powered by the unique tap2puff mechanic.",
+  "image": "https://raw.githubusercontent.com/welaskez/weedleton_bot/refs/heads/main/token_logo.png",
+  "name": "WEEDLE COIN",
+  "social": [
+   "https://t.me/weedleton",
+   "https://x.com/wdlecoin"
+  ],
+  "symbol": "WDLE",
+  "websites": [
+   "https://weedleton.com"
+  ]
  },
  {
   "address": "0:5eaeecfe45729016c54787a6eeb02ca5377fd5c9e67628bc82e218ae960fa741",
