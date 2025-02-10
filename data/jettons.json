@@ -45,6 +45,19 @@
   ]
  },
  {
+  "address": "0:aa8cbb7715a47e53a0fc36984e048d0328b918ed1deb92ad84c1ddf10fa4c366",
+  "description": "Meta Miner is mining based on the DePin principle",
+  "name": "Meta Miner",
+  "social": [
+   "https://t.me/MetaMinerHub",
+   "https://x.com/meta_miner_mm"
+  ],
+  "symbol": "$MM",
+  "websites": [
+   "https://t.me/MetaMinerRobot/app"
+  ]
+ },
+ {
   "address": "0:9c559870b490faf34c8d16de6a61a97d010c609d434bdc5f54e65539f5eeab7e",
   "description": "Utility-token for the 13th Floor TG Game. Shape the Game's future before the Airdrop, while your Avatar is still earning money for you. Trade and Hold for in-game bonuses, purchases, NFTs, and increased chances in the main 13th Floor Airdrop.",
   "image": "https://d8bddedf-ac40-4488-8101-05035bb63d25.selstorage.ru/BlackLogo.png",
@@ -1535,6 +1548,19 @@
   ]
  },
  {
+  "address": "0:dca028dfb0e9a7d6b34e78b3ed39c33eac96dbb655497d63ca434b104cf3153c",
+  "description": "Caught FOMO for not buying other tokens? Buy FOMOBANK! Caught FOMO for not selling other tokens? Buy FOMOBANK! Did you catch fomo? Buy FOMOBANK!",
+  "name": "FOMOBANK",
+  "social": [
+   "https://t.me/fomobank_coin",
+   "https://x.com/fomobank_token"
+  ],
+  "symbol": "FOMOBANK",
+  "websites": [
+   "https://fomobank.xyz/"
+  ]
+ },
+ {
   "address": "0:6c3ae0007ec6d8deb14d5a2426d37dab8f8a31f01965344201cad002f3b92537",
   "description": "Fort is a community token aiming to reward web3 users through social tasks and gamified NFT mechanisms.",
   "image": "https://raw.githubusercontent.com/asterborne/directory/main/Group%201%20(1).png",
@@ -1587,7 +1613,7 @@
  {
   "address": "0:93c7d1632bef368cd2e4d3a9337e4f6d3ff98393e68a06ecca69fd986d84c077",
   "description": "A full-fledged IT project with its own utility \u2014 VPN inside Telegram.",
-  "image": "https://github.com/JustYay/incteam/blob/main/1024.png",
+  "image": "https://raw.githubusercontent.com/JustYay/incteam/refs/heads/main/1024.png",
   "name": "FREENET",
   "social": [
    "https://t.me/incteam_public",
@@ -3582,6 +3608,20 @@
   ]
  },
  {
+  "address": "0:eb954d153023f68e93ae916506b57210bfed7b852f48064c0bcbd86e4b7cb706",
+  "description": "Yo, crypto friends and Simpsons lovers!",
+  "image": "https://i.postimg.cc/zvk9y3PC/2025-02-07-19-25-47.png",
+  "name": "SPSBANK",
+  "social": [
+   "https://t.me/SPSBANK_OFFICIAL",
+   "https://x.com/SPSBANK_"
+  ],
+  "symbol": "SPS",
+  "websites": [
+   "https://spsbanks.com"
+  ]
+ },
+ {
   "address": "0:adc5b7daf5b5579fbc2c7cae55ef67d7d5116e73c9050c5ee988c8a858436010",
   "decimals": 9,
   "description": "SquidTG Metaverse Governance Token \ud83e\udd91",
@@ -3844,7 +3884,7 @@
  {
   "address": "0:7d401aa78852348ce9b0dcf53abf5bf82d4dd28af9bdc8f5c30c1f507fb7174c",
   "description": "Simple Coin - \u0434\u0435\u0444\u043b\u044f\u0446\u0438\u043e\u043d\u043d\u044b\u0439 \u0438 \u0440\u0435\u0432\u0430\u0440\u0434\u043d\u044b\u0439 \u0442\u043e\u043a\u0435\u043d, \u043d\u0430\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u043d\u044b\u0439 \u043d\u0430 \u0432\u0441\u0435\u043e\u0431\u0449\u0443\u044e \u0434\u0435\u0446\u0435\u043d\u0442\u0440\u0430\u043b\u0438\u0437\u0430\u0446\u0438\u044e.",
-  "image": "https://www.geckoterminal.com/_next/image?url=https%3A%2F%2Fassets.geckoterminal.com%2Foy4sgewiz736fm1h9dmpic37w5dp&w=32&q=75",
+  "image": "https://picloud.cc/i/1e10b5d94db28c436b301c88806a699e.png",
   "name": "Simple Coin",
   "social": [
    "https://t.me/just_a_simple_coin",
@@ -3983,7 +4023,7 @@
  {
   "address": "0:77e8ec695a194ac14301885f6174302084336411606ea4fabede2ff90fab6449",
   "description": "TGHUNTER software can attract thousands of people to your business and also allow you to make money by selling the software. TGHUNTER has hundreds of users around the world and is known as Cheetah in China.",
-  "image": "https://dd.dexscreener.com/ds-data/tokens/ton/eqb36oxpwhlkwumbif9hddaghdnkewbuppq-3i_5d6tksvu7.png?size=lg&key=d72d89",
+  "image": "https://dd.dexscreener.com/ds-data/tokens/ton/eqb36oxpwhlkwumbif9hddaghdnkewbuppq-3i_5d6tksvu7.png?size=lg&key=59be62",
   "name": "TGHUNTER",
   "social": [
    "https://t.me/tghcoin",
@@ -4628,6 +4668,38 @@
   "symbol": "XP"
  },
  {
+  "address": "0:a992e0fa82901d5d624338b2b2c71ea78030dc5f3d804bce635b20d66b7a9355",
+  "description": "\u041c\u043e\u043d\u0435\u0442\u0430 \u043f\u0440\u0438\u0437\u0432\u0430\u043d\u0430 \u0441\u0442\u0438\u043c\u0443\u043b\u0438\u0440\u043e\u0432\u0430\u0442\u044c \u0440\u0430\u0437\u0432\u0438\u0442\u0438\u0435 \u0431\u043b\u0430\u0433\u043e\u0441\u0442\u043d\u043e\u0433\u043e \u0434\u0435\u043b\u0430. \u041d\u0430 \u0439\u043e\u0433\u0430-\u0444\u0435\u0440\u043c\u0435 \u0432\u044b \u043f\u043e\u0437\u043d\u0430\u043a\u043e\u043c\u0438\u0442\u0435\u0441\u044c \u0441 \u0438\u0441\u0442\u0438\u043d\u043d\u044b\u043c \u0441\u043e\u0431\u043e\u0439, \u043e\u0442\u043a\u0440\u043e\u0435\u0442\u0435 \u043d\u043e\u0432\u044b\u0435 \u0442\u043e\u0447\u043a\u0438 \u043e\u043f\u043e\u0440\u044b \u0438 \u0432\u043e\u0441\u043f\u043e\u043b\u043d\u0438\u0442\u0435 \u0441\u0438\u043b\u044b.",
+  "image": "https://dd.dexscreener.com/ds-data/tokens/ton/eqcpkud6gpadxwjdolkyxx6ngddcxz2as85jwydwa3qtvxyq.png?size=lg&key=da7f97",
+  "name": "YOGAFERMA",
+  "social": [
+   "https://t.me/yogafarmchat",
+   "https://x.com/YogaFermaToken",
+   "https://discord.gg/fQcMrBK5"
+  ],
+  "symbol": "AUM",
+  "websites": [
+   "http://Yoga-ferma.com",
+   "https://yoga-ferma.ru"
+  ]
+ },
+ {
+  "address": "0:5517bb71bff03e540667a23af17d4ab8170c666fa132112a41ecc89a088e0f7c",
+  "description": "Youllonx! The token of blogger Sergey Poddubny. Follow the news on the TG channel and find out what will happen next.",
+  "image": "https://dd.dexscreener.com/ds-data/tokens/ton/eqbvf7txv_a-vaznojrxfuq4fwxmb6eyespb7miaci4pffpr.png",
+  "name": "YOULLONX",
+  "social": [
+   "https://x.com/youllonx_token?s=21",
+   "https://www.tiktok.com/@youllonx",
+   "https://www.youtube.com/@Youllonx",
+   "https://t.me/youllonx"
+  ],
+  "symbol": "YOULLONX",
+  "websites": [
+   "https://vk.com/youllonx"
+  ]
+ },
+ {
   "address": "0:a73c98074ddefb8c93822e31837ecb92e6d03acb69fb534d5d68c743906654f9",
   "decimals": 9,
   "description": "YSR \u2014 Your Sustainable Resource, a community token uniting people around the idea of a sustainable future. Our mission is to create an ecosystem where every community member has the opportunity to contribute to environmental, social, and economic sustainability. Join YSR, and together we will build a better tomorrow.",
@@ -4780,6 +4852,11 @@
   "address": "0:ed386fe9d98e8c593808e83da69b5e7d21465af9139fef9d1cf462a9e9fcc760",
   "name": "BoyreCoin",
   "symbol": "BOYARE"
+ },
+ {
+  "address": "0:6113bcffd9df3efd23bc5b96f789f3f079838f8e51954f1e6d39eb29b1f1753d",
+  "name": "\u0420\u0438\u0444\u043c\u044b \u0438 \u041f\u0430\u043d\u0447\u0438",
+  "symbol": "RHYMETON"
  },
  {
   "address": "0:7e30fc2b7751ba58a3642f3fd59d5e96a810ddd78d8a310bfe8353bef10500df",
