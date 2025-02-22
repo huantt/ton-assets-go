@@ -1851,6 +1851,22 @@
   ]
  },
  {
+  "address": "0:a13f0f6bc3de006f65d8b89c3827bb96a2a7049eb431b260d97a907d4cf68a89",
+  "description": "GBT is a memetoken of the car showroom GegabyteAuto",
+  "name": "GEGABYTEAUTO",
+  "social": [
+   "https://t.me/+yJ7yfOeVT3JhNGNi",
+   "https://t.me/gegabytememe_chat",
+   "https://youtube.com/@gegabyteauto",
+   "https://www.instagram.com/gegabyteauto",
+   "https://www.tiktok.com/@gegabyteauto"
+  ],
+  "symbol": "GBT",
+  "websites": [
+   "-"
+  ]
+ },
+ {
   "address": "0:ba8a3faec89a86420effffdaf9b45b9f0e3d2a2441d8eac33b2bdd3265582a04",
   "description": "GoldVerse is a launch platform based on TON, designed to provide a fair, transparent, and secure environment for emerging projects to successfully launch and gain community support.",
   "image": "https://static.goldverse.io/logo.jpg",
@@ -5265,6 +5281,11 @@
   "address": "0:9062f8648c99c4a30fc6d28cc9317d476e5e5190d2011ca5a1c82bdca4260ecd",
   "name": "NeProdam",
   "symbol": "NEPRODAM"
+ },
+ {
+  "address": "0:df79f6e137eaa666a1f951980543b1abad17b1e802cc80f14899f0031f0c036e",
+  "name": "IF",
+  "symbol": "IF"
  },
  {
   "address": "0:7e30fc2b7751ba58a3642f3fd59d5e96a810ddd78d8a310bfe8353bef10500df",
@@ -10088,6 +10109,17 @@
   "decimals": 9,
   "name": "Shards of Notcoin NFT bond",
   "symbol": "wNOT"
+ },
+ {
+  "address": "0:52bda6438b55d3d99f69fe86d6fda6fd49cfa4422d5d94b268b141dfff165860",
+  "decimals": 9,
+  "description": "These jettons confirm ownership of ET NETSA COIN staked on JVault.xyz.",
+  "image": "https://jvault.xyz/media/staking_v2/images/mainnet_ETN-ECO.webp",
+  "name": "staked $ETN",
+  "symbol": "st-$ETN-182D",
+  "websites": [
+   "https://jvault.xyz/staking/v2/stake/ETN-ECO"
+  ]
  },
  {
   "address": "0:b902cb5f4e7cbfba9027079e6c82d63b0fc6a81e1e0ff8e4ab61a91fda66274b",
