@@ -3280,6 +3280,20 @@
   ]
  },
  {
+  "address": "0:884c38250bbb5e6aa9e87bd800ebc8de603048ba2ab03dcc8d12fd90cc92383a",
+  "description": "POMOYKA \u043d\u0430 TON",
+  "image": "https://dd.dexscreener.com/ds-data/tokens/ton/eqcitdglc7teaqnoe9ga68jeydbiuiqwpcynev2qzji4opbd.png",
+  "name": "POMOYKA",
+  "social": [
+   "https://t.me/POMOYKA_PMK",
+   "https://x.com/POMOYKAnaTON"
+  ],
+  "symbol": "PMKA",
+  "websites": [
+   "https://pomoyka.onrender.com/"
+  ]
+ },
+ {
   "address": "0:241bcf5b9c17cac2c529f19cea08933e0de2b1c28c25fcceee45a9fbb5b32530",
   "decimals": 9,
   "description": "PONCH is the native token of the Ponchiqs Game Studio, driving utility across all games and platforms. Use PONCH to purchase in-game items, trade NFTs, stake for rewards, and access exclusive content. Whether it\u2019s upgrading characters, earning rewards in tournaments, or buying collectible merchandise, PONCH connects players to an immersive, rewarding gaming experience. Play, earn, and own with PONCH \u2014 your gateway to the Ponchiqs ecosystem.",
@@ -5246,6 +5260,19 @@
    "https://t.me/AmberTONchat"
   ],
   "symbol": "AMBER"
+ },
+ {
+  "address": "0:9adf15d9cbb4277ee40457600278902bee2b79ab3ce832ecbbeb4aa4f4a33333",
+  "description": "Bagema is a coin for those who love gems... and baguettes. It's not just a cryptocurrency, it's a lifestyle where frivolity and carelessness are trendy!",
+  "image": "https://i.imgur.com/WbUa5vq.jpeg",
+  "name": "Bagema",
+  "social": [
+   "https://t.me/bagemacoin"
+  ],
+  "symbol": "BGM",
+  "websites": [
+   "https://bagema.fun"
+  ]
  },
  {
   "address": "0:ea28bf3c752737bdd8942f4202c99d963914bec478df7da3dace0fa510c7146a",
