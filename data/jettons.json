@@ -1879,22 +1879,6 @@
   ]
  },
  {
-  "address": "0:acb8c35704976feeeb94a4422a0bdb6205d930d25bb8e1e9dd0b47f52f255fc5",
-  "description": "Fswap is a user-friendly and safe platform for cryptocurrency exchange. The service provides fast transactions, high level of protection of user funds without registration.",
-  "image": "https://i.ibb.co/d2cxvDN/Frame-738004272.png",
-  "name": "Fswap",
-  "social": [
-   "https://x.com/official_fswap",
-   "https://www.trustpilot.com/review/fswap.io",
-   "https://www.linkedin.com/company/fswap",
-   "https://t.me/fswap_official"
-  ],
-  "symbol": "FSWAP",
-  "websites": [
-   "https://fswap.io"
-  ]
- },
- {
   "address": "0:c207089411e7812c786a216d7ad7239b1af3bbfc1a99783dd7479136cbf7f07e",
   "description": "Utility Token for Fanton Fantasy Sport Game",
   "image": "https://fan-ton.com/FTON_logo.png",
@@ -8211,6 +8195,11 @@
   "address": "0:929f7bb98349868387819cfdfa91ab8373d165b78569852fb44d7cf47fad303a",
   "name": "eNOT COIN",
   "symbol": "eNOT"
+ },
+ {
+  "address": "0:1e7efbd8cbc6914c981bb12a6bc1620100a3ddfc04dc4c1528df4458907c25d4",
+  "name": "00 Token",
+  "symbol": "j00"
  },
  {
   "address": "0:9b9117699eb5997e6d3b74fe67ff08c6c7a9653641cd21d999fa0a4841c0cff8",
