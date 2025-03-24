@@ -505,6 +505,17 @@
   ]
  },
  {
+  "address": "0:edae9abace6c337ea14bf495a75f38d9a1984af716a9ac50977abc4f4b865b4b",
+  "description": "Aur \u2014 \u044d\u0442\u043e \u0438\u043d\u043d\u043e\u0432\u0430\u0446\u0438\u043e\u043d\u043d\u044b\u0439 \u0442\u043e\u043a\u0435\u043d, \u0441\u043e\u0437\u0434\u0430\u043d\u043d\u044b\u0439 \u0434\u043b\u044f \u043e\u043f\u0442\u0438\u043c\u0438\u0437\u0430\u0446\u0438\u0438 \u0430\u0440\u0431\u0438\u0442\u0440\u0430\u0436\u043d\u044b\u0445 \u0432\u043e\u0437\u043c\u043e\u0436\u043d\u043e\u0441\u0442\u0435\u0439 \u0432 \u043a\u0440\u0438\u043f\u0442\u043e\u044d\u043a\u043e\u0441\u0438\u0441\u0442\u0435\u043c\u0435. \u0411\u043b\u0430\u0433\u043e\u0434\u0430\u0440\u044f \u0443\u043d\u0438\u043a\u0430\u043b\u044c\u043d\u043e\u0439 \u043c\u0435\u0445\u0430\u043d\u0438\u043a\u0435 \u0431\u043e\u043d\u0443\u0441\u043d\u044b\u0445 \u043d\u0430\u0447\u0438\u0441\u043b\u0435\u043d\u0438\u0439 \u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u0438 \u043f\u043e\u043b\u0443\u0447\u0430\u044e\u0442 \u0431\u043e\u043b\u044c\u0448\u0435 \u0442\u043e\u043a\u0435\u043d\u043e\u0432 \u043f\u0440\u0438 \u043f\u0435\u0440\u0435\u0432\u043e\u0434\u0430\u0445, \u0441\u0442\u0438\u043c\u0443\u043b\u0438\u0440\u0443\u044f \u0430\u043a\u0442\u0438\u0432\u043d\u043e\u0435 \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u043d\u0438\u0435.",
+  "image": "https://trueimages.ru/img/30/bf/484d5d76.png",
+  "name": "Aurum",
+  "social": [
+   "https://t.me/Aurum_comunity",
+   "https://x.com/shopgroup17588?s=21"
+  ],
+  "symbol": "AUR"
+ },
+ {
   "address": "0:e6c34c46f6617597428b81c8ec0e79eeefd4a4334238a34f6d026467914049ba",
   "description": "The original and most important culture memecoin on TON. $BALD is the movement of polished domes and unstoppable gains. Truly fair launched, real roadmap with doxxed founders. Created by @CoreyWilton | @BaldWorldOrder on Telegram and X.",
   "image": "https://bald.sgp1.cdn.digitaloceanspaces.com/logo.png",
@@ -801,6 +812,20 @@
    "https://x.com/NFT_BULL_2024"
   ],
   "symbol": "BOOLI"
+ },
+ {
+  "address": "0:00e9f9bdcb33a65db42e68fc763b24f3107661b65cb9b577d5b58d9b2dca8a8d",
+  "description": "Rewards Token of the future",
+  "image": "https://raw.githubusercontent.com/EternityCoin/batymcoin/refs/heads/main/5379725509707032451.jpg",
+  "name": "Batymchanin Rewards Coin",
+  "social": [
+   "https://t.me/Batymchanin",
+   "https://vk.com/batymchanin"
+  ],
+  "symbol": "BRC",
+  "websites": [
+   "https://vk.link/batymchanin"
+  ]
  },
  {
   "address": "0:8c508f82ec24235506a7c03e4daf0b34a34e922953231db2cf370f0f5d6eadd3",
@@ -2920,6 +2945,20 @@
   ]
  },
  {
+  "address": "0:9bffab108979da0bddaec7124e115113211ce5a121a4445cd81111e5c8b360a1",
+  "description": "Deployed from sTONks.",
+  "image": "https://trueimages.ru/img/ad/c2/f97eed76.png",
+  "name": "Lis",
+  "social": [
+   "https://t.me/CryptoLisaChannel",
+   "https://t.me/CryptoLisaChat"
+  ],
+  "symbol": "Lis",
+  "websites": [
+   "https://cryptolisa.unisender.cc/"
+  ]
+ },
+ {
   "address": "0:e16ccd758029305522eed758d33d41902973e37d6fc9d69b0fa9cf26c19c0cec",
   "description": "TonAlchemists is an innovative project on the TON blockchain, with a mission to create a better, more welcoming community. Our goal is to facilitate networking and build a \"TON family\".",
   "image": "https://i.postimg.cc/CxH6g4Jg/icon.png",
@@ -4288,6 +4327,17 @@
    "https://t.me/SHWRM"
   ],
   "symbol": "SHWRM"
+ },
+ {
+  "address": "0:f5c22636e9dedf192bd2232a0acae5c828dc5d9b16a1ded6b7ee6326b4e8b678",
+  "description": "Deployed from sTONks.",
+  "image": "https://trueimages.ru/img/de/b7/44d86d76.png",
+  "name": "SINOK",
+  "social": [
+   "https://t.me/slivi_tapalok",
+   "https://t.me/+CKYw4N5qfo5lNTcy"
+  ],
+  "symbol": "SINOK"
  },
  {
   "address": "0:0e365c05bf398a068b1bcc7bc704c06974732f20eefb2bb873e0d640ee4a8e99",
