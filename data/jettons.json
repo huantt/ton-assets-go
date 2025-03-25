@@ -2958,6 +2958,18 @@
   ]
  },
  {
+  "address": "0:8571412bdad79f558ec553ea6993dcaddc95fa0baa7f3e64d889858ca6fe5713",
+  "description": "meme token dedicated to a frog that makes video reviews",
+  "name": "cryptolyaguho",
+  "social": [
+   "https://t.me/cryptolyaguho"
+  ],
+  "symbol": "LYAGUHO",
+  "websites": [
+   "https://www.youtube.com/@lyaguho"
+  ]
+ },
+ {
   "address": "0:9bffab108979da0bddaec7124e115113211ce5a121a4445cd81111e5c8b360a1",
   "description": "Deployed from sTONks.",
   "image": "https://trueimages.ru/img/ad/c2/f97eed76.png",
@@ -4328,6 +4340,22 @@
   "symbol": "SHIVA",
   "websites": [
    "https://onshiva.com"
+  ]
+ },
+ {
+  "address": "0:074d1fb01f4c1be283ebad5c66412e51fea8af25c9eabdbdee149d2fd43c3daa",
+  "description": "Native token for Shkipper Penguins project",
+  "image": "https://shkippercoin.github.io/offchain-data/SHKIP.png",
+  "name": "Shkipper Penguins",
+  "social": [
+   "https://t.me/ShkipperNest",
+   "https://t.me/ShkipperCoinBot",
+   "https://x.com/ShkipperNest",
+   "https://getgems.io/shkipperpenguins"
+  ],
+  "symbol": "SHKIP",
+  "websites": [
+   "http://shkipper.online"
   ]
  },
  {
