@@ -6205,6 +6205,22 @@
   "symbol": "RRMONEY"
  },
  {
+  "address": "0:92c4664f1ea6b74ed9ce0e031a9fc0843348dfe87a58faea27fcd31e1608caaa",
+  "description": "TON liquid staking token by bemo",
+  "image": "https://storage.cloud.google.com/milkcreek/tokens/bmTON.svg",
+  "name": "Bemo",
+  "social": [
+   "https://t.me/bemofinance",
+   "https://x.com/bemo_fi",
+   "https://www.linkedin.com/company/bemo-fi/"
+  ],
+  "symbol": "bmTON",
+  "websites": [
+   "https://bemo.fi",
+   "https://app.bemo.fi"
+  ]
+ },
+ {
   "address": "0:7e30fc2b7751ba58a3642f3fd59d5e96a810ddd78d8a310bfe8353bef10500df",
   "decimals": 6,
   "description": "USDC transferred from Ethereum via bridge.ton.org. Token address in Ethereum: 0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
@@ -8126,11 +8142,6 @@
   "address": "0:b6e336e6c8e34cfa6dc37820984290d18a29c68cebb67021debf0505196bdda2",
   "name": "Spotty",
   "symbol": "Spotty"
- },
- {
-  "address": "0:d8233dc425ad463e9efca84bc6d198c52684ac05b4a8da2fa7d3495bfa1e43f0",
-  "name": "Toned Ape Coin",
-  "symbol": "TAC"
  },
  {
   "address": "0:18e4a73b49f9df89392c580c8e4c9ec4bb9a072b0a991ddb731dabca2651f7c2",
