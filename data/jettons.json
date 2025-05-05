@@ -1991,6 +1991,14 @@
   ]
  },
  {
+  "address": "0:d0e545323c7acb7102653c073377f7e3c67f122eb94d430a250739f109d4a57d",
+  "name": "Ethena tsUSDe",
+  "social": [
+   "https://x.com/ethena_labs"
+  ],
+  "symbol": "tsUSDe"
+ },
+ {
   "address": "0:3980dbc181e7cd275d70dc7b83d551cf36fb722ce51cd6895fe0a04b3e6c5e6d",
   "description": "Native ElefantMine game utility token.",
   "image": "https://prod.elefantmine.io/icons/dollar.svg",
@@ -3383,6 +3391,19 @@
   ]
  },
  {
+  "address": "0:42999b2c07e735e2654357eb2a8495f4a321d1d7e68771520ea63e78d40b1033",
+  "description": "$MARMAR \u2014 \u044d\u0442\u043e \u0442\u043e\u043a\u0435\u043d \u043e \u0434\u0440\u0443\u0436\u0431\u0435 \u043a\u043e\u0442\u0430 \u0438 \u0441\u043e\u0431\u0430\u043a\u0438, \u0441\u043e\u0437\u0434\u0430\u043d\u043d\u044b\u0439 \u043a\u043e\u043c\u0430\u043d\u0434\u043e\u0439 Unknown Coin",
+  "image": "https://cdn.blum.codes/2c762fa3-ea62-4575-8e72-abcada5211c5/32412c98-4b85-4f14-b00e-7354b2dc82d9",
+  "name": "Marley&Marsell",
+  "social": [
+   "https://t.me/marsmarli"
+  ],
+  "symbol": "MARMAR",
+  "websites": [
+   "https://unknown-coin.com/"
+  ]
+ },
+ {
   "address": "0:0be9ed5434f164b27f35f7ca8e0fa2880a7a65c3a7fd70c205b905b7c55f6577",
   "description": "Mars Coin. Game TONPlanets.com",
   "image": "https://nft.tonplanets.com/jettons/mars/m_j_v2_512.png",
@@ -3977,6 +3998,19 @@
   "symbol": "NPV",
   "websites": [
    "https://vk.link/netpresentvalue"
+  ]
+ },
+ {
+  "address": "0:6f7dfa0e0dde68df08d05dfe1736cf80b398b06a7cfb8dd50973a2a8a9ac8235",
+  "description": "Nothing - no team tokens, no private sales. 100% to the community. you either left a mark - or you didn\u2019t.",
+  "name": "Nothing",
+  "social": [
+   "https://t.me/thenothing",
+   "https://x.com/thenothing_app"
+  ],
+  "symbol": "NTHNG",
+  "websites": [
+   "https://app.nothing.army/"
   ]
  },
  {
@@ -4822,6 +4856,20 @@
    "https://t.me/SHWRM"
   ],
   "symbol": "SHWRM"
+ },
+ {
+  "address": "0:59d72bbeacaefed8e69efe071029bdb0ab0e0714182b6e9df93598d033c52c2e",
+  "description": "The SINERIZE token is part of a design community that brings together professionals to deliver creative solutions of any complexity. With us, you gain access not just to design services, but to a powerful ecosystem of experts where every element of your project is refined to perfection",
+  "image": "https://cdn.blum.codes/e3eb7c43-bc8d-4336-9362-9b9bb4d3a9c5/a078333c-b3f3-45fd-a1e2-d8ee97c2b497",
+  "name": "SINERIZE",
+  "social": [
+   "https://t.me/sinerize",
+   "t.me/sinerize_chat"
+  ],
+  "symbol": "SINERIZE",
+  "websites": [
+   "https://t.me/sinerize"
+  ]
  },
  {
   "address": "0:f5c22636e9dedf192bd2232a0acae5c828dc5d9b16a1ded6b7ee6326b4e8b678",
