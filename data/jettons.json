@@ -926,25 +926,6 @@
   ]
  },
  {
-  "address": "0:0891605266bd39a869cc5efb71fe7238be39464bfc81fb8d5fb3f1d31a4a49c9",
-  "description": "$BaTON is a token created by the people, for the people. A community-driven meme token that empowers everyone, fueling a movement where every holder plays a part in its journey.",
-  "image": "https://i.ibb.co/ycNW2Y2h/1-2.png",
-  "name": "BaTON Token",
-  "social": [
-   "https://t.me/tokenBaTON_bot",
-   "https://t.me/baTON_token",
-   "https://t.me/anon_tokens",
-   "https://t.me/baton_group",
-   "https://x.com/baton_token",
-   "https://instagram.com/baton_token",
-   "https://youtube.com/@baton_token"
-  ],
-  "symbol": "BTN",
-  "websites": [
-   "https://baton-token.com"
-  ]
- },
- {
   "address": "0:165365ccbfd5663e63ab68b9920929f25ca8f4a6ac5f77255ed510f36ed5eee1",
   "description": "Bubb AI Agent is an innovative project integrated into the TON ecosystem that combines artificial intelligence (AI) and blockchain technologies",
   "name": "Bubb Ai Agent",
@@ -3010,6 +2991,15 @@
   "websites": [
    "https://k1ngton.pro"
   ]
+ },
+ {
+  "address": "0:2e561bb0566a8dedc8ecc8ac018576b266bd6f23c1011b53b2c87d5c7a23d2d4",
+  "description": "\u0422\u043e\u043a\u0435\u043d $KALITORIYA \u2014 \u0447\u0430\u0441\u0442\u044c \u0440\u0435\u0430\u043b\u044c\u043d\u043e\u0433\u043e \u0431\u0438\u0437\u043d\u0435\u0441\u0430. \u0423\u0436\u0435 \u043e\u0442\u043a\u0440\u044b\u0442\u0430 \u043f\u0435\u0440\u0432\u0430\u044f \u0442\u043e\u0447\u043a\u0430. \u0426\u0435\u043b\u044c \u2014 \u0441\u0435\u0442\u044c \u0440\u0435\u0441\u0442\u043e\u0440\u0430\u043d\u043e\u0432 \u0438 \u0444\u0440\u0430\u043d\u0448\u0438\u0437\u0430 \u043f\u043e \u0432\u0441\u0435\u0439 \u0420\u043e\u0441\u0441\u0438\u0438. \u041f\u0440\u0438\u0441\u043e\u0435\u0434\u0438\u043d\u044f\u0439\u0441\u044f \u043a \u0434\u0432\u0438\u0436\u0435\u043d\u0438\u044e, \u0434\u0435\u0440\u0436\u0438 \u0442\u043e\u043a\u0435\u043d \u0438 \u0440\u0430\u0441\u0442\u0438 \u0432\u043c\u0435\u0441\u0442\u0435 \u0441 \u043f\u0440\u043e\u0435\u043a\u0442\u043e\u043c. \u042d\u0442\u043e \u0442\u043e\u043b\u044c\u043a\u043e \u043d\u0430\u0447\u0430\u043b\u043e.",
+  "name": "KALITORIYA",
+  "social": [
+   "t.me/kalitoriya_rest"
+  ],
+  "symbol": "$KALITORIYA"
  },
  {
   "address": "0:51dfb1f386973d0d95cb02440533d59a20765cac5aa8666b9bf8755498ec9588",
