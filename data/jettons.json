@@ -738,6 +738,18 @@
   ]
  },
  {
+  "address": "0:752eec0dd88647be9bc03e76309ed8f4406b9ba164a864efadee45f506ba64bf",
+  "description": "\u0422\u043e\u043a\u0435\u043d \u043b\u0435\u0433\u0435\u043d\u0434\u044b TON, Staking 100% - 100 \u0434\u043d\u0435\u0439",
+  "image": "https://dd.dexscreener.com/ds-data/tokens/ton/eqb1luwn2izhvpvapnywntj0qgubowsozo-t7kx1brpkv3td.png?size=lg&key=1164fb",
+  "name": "SAM BIKBAEV 100",
+  "social": [
+   "https://t.me/BikbaevS",
+   "www.instagram.com/semen_bikbaev",
+   "https://x.com/sam_bikbaev"
+  ],
+  "symbol": "BIKBS100"
+ },
+ {
   "address": "0:aeda1bf9c5fe358ac5b95045c4c10909056e4790dedaae3082c8f3e9a2fca4cf",
   "image": "https://crypto-billions.github.io/resources/icon.png",
   "name": "BITON",
@@ -2670,6 +2682,21 @@
   "symbol": "GDV",
   "websites": [
    "https://goldverse.io"
+  ]
+ },
+ {
+  "address": "0:7f2f2f1328341331bb2c905510e64883268c3b6015e6735d941a36f1ed2e0845",
+  "decimals": 9,
+  "description": "Strides of Revival \ud83d\udc63",
+  "image": "https://i.ibb.co/NgtHrQS8/Gear-logo.png",
+  "name": "Gear Runner",
+  "social": [
+   "https://x.com/GearRunner_M2E",
+   "https://t.me/GearRunner_Official"
+  ],
+  "symbol": "GEAR",
+  "websites": [
+   "https://gearrunner.app"
   ]
  },
  {
@@ -5141,6 +5168,19 @@
   "websites": [
    "https://epic-clash-story.com/"
   ]
+ },
+ {
+  "address": "0:7c8b3aa9ae4f189bab131770ae456caecf597c4b685d46e843dcc09b3590409b",
+  "decimals": 9,
+  "description": "Rinat Abdrakhmanov (Rinatto L\u2019bank) \nInterdisciplinary artist, media artist, digital artist, new media artist, nft-artist, representative of transmedial art. \nBorn in 1992 in Kazakhstan.",
+  "image": "https://s3.blum.codes/d2dad604-96c0-4242-8011-d8bc641db53c/305bcd13-c14f-4139-95b8-a80843a3069a",
+  "name": "\u03a3\u03c3\u03c2",
+  "social": [
+   "https://t.me/lbankart",
+   "https://t.me/rinat_meme",
+   "https://x.com/Lbank_"
+  ],
+  "symbol": "RINAT"
  },
  {
   "address": "0:4da7033be81d36a70fe3fd43da6a6bdb5317ea1595a636a3c2405ed1a1f9cbc6",
