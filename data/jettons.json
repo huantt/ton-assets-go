@@ -2029,20 +2029,6 @@
   ]
  },
  {
-  "address": "0:9ffe6f59470abd835621af4ebb52be834cec06c5f5994e50ac94dc4b79def5b1",
-  "decimals": 9,
-  "description": "Liquidity pool token for LizzardKombat and TheTokenSpark on dedust.io DEX",
-  "image": "https://c.tonapi.io/onchain/image/f8174786dac4a09a0040a110b63ad75d",
-  "name": "LP Token for $LIZZARD-TTS",
-  "social": [
-   "https://t.me/thetokenspark"
-  ],
-  "symbol": "$LIZZARD-TTS LP",
-  "websites": [
-   "https://thetokenspark.tilda.ws/"
-  ]
- },
- {
   "address": "0:01cb4ab59692e4534f64eecaca0828de026df60f69d9d795ad99681bf3546f8c",
   "name": "LP Token for UP-TON",
   "symbol": "UP-TON"
@@ -3770,20 +3756,6 @@
   "symbol": "$ETN-TON LP",
   "websites": [
    "https://ston.fi/"
-  ]
- },
- {
-  "address": "0:71b729b5b5c7142b036f6e2d0d6a4758d73bf8682256c76cbb894442ca81da13",
-  "decimals": 9,
-  "description": "Liquidity pool token for LizzardKombat and TheTokenSpark on STON.fi DEX",
-  "image": "https://meta.ston.fi/lp/v1/img/0:71b729b5b5c7142b036f6e2d0d6a4758d73bf8682256c76cbb894442ca81da13.png",
-  "name": "LP Token for LIZZARD-TTS",
-  "social": [
-   "https://t.me/thetokenspark"
-  ],
-  "symbol": "$LIZZARD-TTS LP",
-  "websites": [
-   "https://thetokenspark.tilda.ws/"
   ]
  },
  {
@@ -6837,19 +6809,6 @@
   ]
  },
  {
-  "address": "0:689573c8454848ea43edcfaa80d61fffdf3d74a654d157420bee913847c3f5fd",
-  "description": "TheTokenSpark - is a unique memcoin that combines elements of humor. It is designed for those who appreciate originality and want to diversify their investment portfolio",
-  "image": "https://i.yapx.ru/Zo7Sj.jpg",
-  "name": "TheTokenSpark",
-  "social": [
-   "https://t.me/thetokenspark"
-  ],
-  "symbol": "TTS",
-  "websites": [
-   "https://thetokenspark.tilda.ws/"
-  ]
- },
- {
   "address": "0:6f7e96ac7fcd9a010524746641b80c65714477025eef6354fb89f0ba5170279e",
   "description": "TLOFT \u2014 Real Estate-Powered Utility Token",
   "image": "https://tverloft.ru/images/tloftlogo512.png",
@@ -6857,7 +6816,9 @@
   "social": [
    "https://t.me/tverloft",
    "https://t.me/+X1xtthQXyfhiNTcy",
-   "https://t.me/tverloftbot"
+   "https://t.me/tverloftbot",
+   "https://dexscreener.com/ton/EQDnY9OB8vss3wtEZ3BgCuDoFopw7wqpE8397yc8RM2CCsEQ",
+   "https://app.ston.fi/swap?chartVisible=false&ft=TON&tt=EQBvfpasf82aAQUkdGZBuAxlcUR3Al7vY1T7ifC6UXAnnhhA&referral_address=UQAlq03heorB3yKmezCnaMVO7fJuiz0PYNqh5rG4i8hFEJHj"
   ],
   "symbol": "TLOFT",
   "websites": [
@@ -7567,6 +7528,21 @@
   "symbol": "BGM",
   "websites": [
    "https://bagema.fun"
+  ]
+ },
+ {
+  "address": "0:46892cab03b284c2ab08d3614f528175720c92daf81cda7c558f28b8c1320e89",
+  "description": "$BITARDIA is a token of the legendary games, now available on Telegram. Powered by the TON network, $BITARDIA rewards holders while they enjoy the unique gaming experience. The story begins with Bitardia - an open-world single-player shooter launched on Steam in 2015. This cult game inspired the creation of \"Your Life Simulator\", a mobile spin-off that gained over 2 million users since 2017. Now, \"Your Life Simulator\" is live on Telegram as a MiniApp with full TON blockchain integration, allowing you to manage your virtual character's life while earning rewards for holding $BITARDIA tokens. Your Life Simulator is a real-time life simulation game available on Telegram Mini Apps. Players control a character who remains confined to their apartment, using the internet as their sole connection to the outside world. The game offers various activities to maintain the character's well-being and happiness.\u200b",
+  "image": "https://blum-prod.fra1.cdn.digitaloceanspaces.com/6627ff33-15b6-4d9a-8e11-a745d77e9d58/b74f3ab3-533e-475e-af9f-68dcdf5d1ec9",
+  "name": "bitardia",
+  "social": [
+   "https://t.me/tvorog_lab",
+   "https://t.me/yourlifesimulator_bot",
+   "https://t.me/bitardia_coin"
+  ],
+  "symbol": "BITARDIA",
+  "websites": [
+   "https://bitardia.com/coin/"
   ]
  },
  {
