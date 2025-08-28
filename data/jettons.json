@@ -495,6 +495,19 @@
   ]
  },
  {
+  "address": "0:12d060a2c5c0b49cbe994817e06a22b3988d02ad6e9536a3666b0520be2ce0c7",
+  "description": "\u0422\u043e\u043a\u0435\u043d \u043f\u0440\u043e\u0435\u043a\u0442\u0430 ArtsivTON - \u0433\u043b\u0430\u0432\u043d\u044b\u0439 \u0438\u043d\u0441\u0442\u0440\u0443\u043c\u0435\u043d\u0442 \u043f\u0440\u0438\u0432\u043b\u0435\u0447\u0435\u043d\u0438\u044f \u0438\u043d\u0432\u0435\u0441\u0442\u0438\u0446\u0438\u0439 \u0438 \u0440\u0430\u0441\u043f\u0440\u0435\u0434\u0435\u043b\u0435\u043d\u0438\u044f \u043f\u0440\u0438\u0431\u044b\u043b\u0438, \u043f\u043e\u043b\u0443\u0447\u0430\u0435\u043c\u043e\u0439 \u0441 \u0440\u0435\u0430\u043b\u044c\u043d\u043e\u0433\u043e \u0431\u0438\u0437\u043d\u0435\u0441\u0430, \u043c\u044b \u0440\u0430\u0437\u0432\u0438\u0432\u0430\u0435\u043c\u0441\u044f \u0432\u043c\u0435\u0441\u0442\u0435 \u0438 \u0434\u043e\u0441\u0442\u0438\u0433\u0430\u0435\u043c \u043d\u043e\u0432\u044b\u0445 \u0432\u0435\u0440\u0448\u0438\u043d \u0442\u043e\u0436\u0435 \u0432\u043c\u0435\u0441\u0442\u0435!",
+  "image": "https://cdn.blum.codes/d3d1612b-ceb2-414a-8df4-1654ffa62575/217eac93-6cc0-459f-b06e-e80390f8ab4d",
+  "name": "ArtsivTON",
+  "social": [
+   "https://t.me/ArtsivTON"
+  ],
+  "symbol": "ARTSIV",
+  "websites": [
+   "https://www.artsivton.com/"
+  ]
+ },
+ {
   "address": "0:d612c57c643f371e1a4904b5ae07faf9e572f0342a59c1c068f9418db61709b5",
   "description": "100% RICH",
   "image": "https://kappa.lol/baXhR",
@@ -1978,7 +1991,7 @@
  {
   "address": "0:18e95b1ae8ecc64bfb76f7a35c316e012ef0b68bb3541a7a37029e6f963255e3",
   "description": "$DOLPH \u2014 Smart, playful & unstoppable | Powered by TON community | The Pod that makes waves",
-  "image": "https://raw.githubusercontent.com/devmustee/DOLPH/blob/main/Dolph.jpeg",
+  "image": "https://raw.githubusercontent.com/devmustee/DOLPH/main/Dolph.jpeg",
   "name": "Dolphonton",
   "social": [
    "https://x.com/Dolphonton",
@@ -2092,6 +2105,17 @@
    "https://t.me/DuckChain_bot"
   ],
   "symbol": "DUCK"
+ },
+ {
+  "address": "0:0d130ef054c1eb8cbb393806a859fb6246a67d7f020901e781815fd4184ed597",
+  "description": "Babel Durop is a play on the retard meta on Pavel Durov. Good CTO just formed after project was abandoned last year. Great meme, Great narry!",
+  "image": "https://i.ibb.co/VYFpYjCS/IMG-6446.jpg",
+  "name": "Babel Durop",
+  "social": [
+   "https://x.com/BabelDurop",
+   "https://t.me/babeldurop"
+  ],
+  "symbol": "DUROP"
  },
  {
   "address": "0:76daefc43c5e43caab594618c9d9889996237ec39642aba17f3d8e886ba6ef8b",
@@ -6450,6 +6474,19 @@
   ]
  },
  {
+  "address": "0:3dc84237f7f0a4a9c3d849cf989f690c3cf8456662009831f97e685acc31584b",
+  "description": "https://t.me/+DaPqdAWoZm1kNmI0",
+  "image": "https://i.postimg.cc/Vshbkt6q/newswet-2.png",
+  "name": "sweety strawberry",
+  "social": [
+   "https://x.com/StrawberryonTon"
+  ],
+  "symbol": "strawberry",
+  "websites": [
+   "https://strawberry.fit/strawberry"
+  ]
+ },
+ {
   "address": "0:6023eae5e92ce1269e51b68aa0d09956b203c7e2b9d5914e840270f5caf3aecc",
   "description": "$SW Token - Super WONTON \ud83e\udd5f \ud83d\udd25 Born to Cook, So LFC! Created by the WONTON Fam, $SW showcases the superpower of WONTON and the strength of the community. \ud83d\udcaa",
   "image": "https://dd.dexscreener.com/ds-data/tokens/ton/eqbgi-rl6szhjp5rtoqg0jlwsgph4rnvku6eand1yvouzmpg.png",
@@ -7316,6 +7353,16 @@
   ]
  },
  {
+  "address": "0:abecee264fc0caf7706d65c39f134910623cc24d01edc771f88ef4fe04d7af59",
+  "decimals": 9,
+  "name": "UFRENS Token",
+  "social": [
+   "https://t.me/ufriends_cto",
+   "https://x.com/ufrens_cto"
+  ],
+  "symbol": "UFRENS"
+ },
+ {
   "address": "0:105358f3e5284f692f66c6f23a35506fc01979ff56fb6037a603330296e0d430",
   "name": "Ultron",
   "symbol": "ULT"
@@ -7541,6 +7588,20 @@
   "symbol": "VNUK",
   "websites": [
    "http://mrvnukich.life/"
+  ]
+ },
+ {
+  "address": "0:28f8c9edf10da5f4cf7449d93d3a24edce656fde3f137f7f367415693517fda9",
+  "description": "I HAVE GOT A BIG VEGGIE",
+  "image": "https://i.ibb.co/nNG941qB/0597959dbc3a.webp",
+  "name": "Veggie",
+  "social": [
+   "https://t.me/verybigveggie",
+   "https://t.me/VeggieChatCTO"
+  ],
+  "symbol": "Veggie",
+  "websites": [
+   "https://verybigveggie.fun/"
   ]
  },
  {
@@ -13590,6 +13651,20 @@
   "symbol": "tmrrw",
   "websites": [
    "https://tomorrow-will-never-come.tech/"
+  ]
+ },
+ {
+  "address": "0:a6a96135c08916c9f74aa05e35c52fdb8aa3737a678a9123d4ba19685ecf51f1",
+  "description": "A nostalgic meme coin on the TON network inspired by the iconic Smurfs theme.",
+  "image": "https://i.ibb.co/v4gbpLjs/tonsmerf.png",
+  "name": "SMERF on TON",
+  "social": [
+   "https://t.me/tonsmerf",
+   "https://x.com/TonSmerf"
+  ],
+  "symbol": "SMERF",
+  "websites": [
+   "https://tonsmerf.life"
   ]
  },
  {
