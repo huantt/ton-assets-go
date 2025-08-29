@@ -427,6 +427,20 @@
   ]
  },
  {
+  "address": "0:715cfa45faf8f070e1842f329a05b1b9523c82cbd60321e2fea8dca7bc1c40fc",
+  "description": "ANTHILL is a proven Bitcoin mining project with over 200 active machines, generating daily income to support ATL token buybacks",
+  "image": "https://rubeton.app/studio/atl/logo.png",
+  "name": "ANTHILL",
+  "social": [
+   "https://t.me/ANTHILLFORUM",
+   "https://t.me/ANTHILL_Rewards"
+  ],
+  "symbol": "ATL",
+  "websites": [
+   "http://anthillfoundation.ru/"
+  ]
+ },
+ {
   "address": "0:ceaf34312ace94e6427869e99b97fc6f8d7fcb8c9b6165219bc4e27a1ddfc403",
   "description": "Agent 301 is a Telegram-based Do2Earn game with mini-games and social tasks. The $AP token powers in-game energy, boosts, staking, voting, and premium access.",
   "name": "Agent Points",
@@ -1087,6 +1101,20 @@
   "symbol": "BMW",
   "websites": [
    "https://bmwcoin.info"
+  ]
+ },
+ {
+  "address": "0:7fcdb923d65d983437e926805f681a37a67eb8e07ac51b3522d26bb097a561b5",
+  "description": "One of the most legendary sticker packs on Telegram, iykyk",
+  "image": "https://image2url.com/images/1755729528931-d3840725-8b9f-4e86-9f81-b5ba876861e8.png",
+  "name": "Bull & Bear",
+  "social": [
+   "https://x.com/BNBTON",
+   "https://t.me/BullnBearTON"
+  ],
+  "symbol": "BNB",
+  "websites": [
+   "https://www.bullandbear.meme"
   ]
  },
  {
@@ -4693,6 +4721,11 @@
   "websites": [
    "https://melodytoken.ru/"
   ]
+ },
+ {
+  "address": "0:c3860aa6ba1d7a96901a4ef02acd0fb3a3bfc7aa3ad4349c6622115e5f055449",
+  "name": "MissionPawssible",
+  "symbol": "MISSION"
  },
  {
   "address": "0:9ebf0a0b23c5eada22c1933a61d6734d3c3ea45ef54440ffb42ab18def2d0d2a",
