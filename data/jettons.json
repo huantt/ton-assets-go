@@ -4900,6 +4900,7 @@
  },
  {
   "address": "0:c3860aa6ba1d7a96901a4ef02acd0fb3a3bfc7aa3ad4349c6622115e5f055449",
+  "image": "https://github.com/alaskan-malamute2/mission-icon/raw/main/mission-icon.png",
   "name": "MissionPawssible",
   "symbol": "MISSION"
  },
@@ -7591,6 +7592,19 @@
   "address": "0:10b20774fe688788407d2cba0f8fad9cf94eabfbe5f8a5801134c7ac9769d805",
   "name": "TYIELD",
   "symbol": "TYIELD"
+ },
+ {
+  "address": "0:ce5575968f40140abe843ad00c12fd0f9b8d9c09ac1f2851fff78b5af325a506",
+  "description": "Hit first. Hit hard",
+  "image": "https://i.ibb.co/mVLhndJV/108b35173f5b.png",
+  "name": "Reward Fight Club",
+  "social": [
+   "https://t.me/reward_fighters"
+  ],
+  "symbol": "TYLER",
+  "websites": [
+   "http://mrvnukich.life/"
+  ]
  },
  {
   "address": "0:1beb8ce4be183a6e2173aa4b86117c3f708db3e18d4c9a5244d36eb7a42ba3e6",
