@@ -1312,6 +1312,20 @@
   ]
  },
  {
+  "address": "0:107cdaf0840e6c132c2b2d3b6cc69c9015e2917c4a4b7594446482cff73f6252",
+  "description": "BRINGOLD is a multifunctional blockchain platform based on DAO principles. The ecosystem covers GameFi, DeFi, SocialFi and education, aiming to build a universal Web3/metaverse space.",
+  "image": "https://i.ibb.co/vvLQjCqk/brin-logo.png",
+  "name": "BRINGOLD",
+  "social": [
+   "https://t.me/Bringold_io",
+   "https://twitter.com/Bringold_io"
+  ],
+  "symbol": "BRIN",
+  "websites": [
+   "https://bringold.io"
+  ]
+ },
+ {
   "address": "0:165365ccbfd5663e63ab68b9920929f25ca8f4a6ac5f77255ed510f36ed5eee1",
   "description": "Bubb AI Agent is an innovative project integrated into the TON ecosystem that combines artificial intelligence (AI) and blockchain technologies",
   "name": "Bubb Ai Agent",
@@ -1650,7 +1664,7 @@
    "https://t.me/CITY_Holder",
    "http://x.com/City_Holder"
   ],
-  "symbol": "CITY",
+  "symbol": "HOLDER",
   "websites": [
    "http://holder.city"
   ]
@@ -4248,6 +4262,17 @@
   "symbol": "KUTI"
  },
  {
+  "address": "0:569681d398ca74b1fa6b598c923d88e3008c07b3603ac3eb365bdd839c1b4a2e",
+  "description": "The first community index token on Ton",
+  "image": "https://imgs.search.brave.com/CVnfJo2cuHVw3gIRo0H6SQQytl4EGVrnAlqlMBjRf4g/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vaWQvNDc3/NTI1MjgyL3Bob3Rv/L29uZS10b24td2Vp/Z2h0LmpwZz9zPTYx/Mng2MTImdz0wJms9/MjAmYz1DLWtxc3Ew/VDBrYVdJT2FwRUYw/MUpmLXV1Rzd4a3NC/czZNQUg3UjVpRE9Z/PQ",
+  "name": "Kilogram",
+  "social": [
+   "https://t.me/KiloTonCoin",
+   "https://x.com/KilogramOnTon"
+  ],
+  "symbol": "KILO"
+ },
+ {
   "address": "0:a9d576a8270787d5849330129dc9fcb959d3ee4447d275d9eebe7f4cbaf86b8d",
   "description": "This is Labubu Fan token, created for Ton community. The character Labubu appears in \"The Monsters\" series of stories written by Hong Kong-born artist Kasing Lung.  He developed this universe in 2015, drawing inspiration from Nordic fairy tales, and its characters are based on elves, fairies, and monsters.",
   "image": "https://staging-jubilee.flickr.com/65535/54660938777_a541332651_b.jpg",
@@ -5861,6 +5886,21 @@
   "symbol": "PLUSHUTYA"
  },
  {
+  "address": "0:c7cb0257c2007fb483d2d3e32ead8d45227aa623a3c3bb25f7d51038854fe52b",
+  "description": "The official token of Pleanet X telegram bot. Build your space empire, mine DNA, and earn crypto \ud83c\udf0d",
+  "image": "https://raw.githubusercontent.com/tulindulin/xplanet-logo/refs/heads/main/bg.png",
+  "name": "PLX",
+  "social": [
+   "https://t.me/PlanetX_channel",
+   "https://t.me/planetX_Ruchannel",
+   "https://x.com/PlanetX_channel"
+  ],
+  "symbol": "PLX",
+  "websites": [
+   "https://www.xplanet.online/"
+  ]
+ },
+ {
   "address": "0:884c38250bbb5e6aa9e87bd800ebc8de603048ba2ab03dcc8d12fd90cc92383a",
   "description": "POMOYKA \u043d\u0430 TON",
   "image": "https://dd.dexscreener.com/ds-data/tokens/ton/eqcitdglc7teaqnoe9ga68jeydbiuiqwpcynev2qzji4opbd.png",
@@ -5872,6 +5912,21 @@
   "symbol": "PMKA",
   "websites": [
    "https://pomoyka.onrender.com/"
+  ]
+ },
+ {
+  "address": "0:8b73c8d19e9c91a993ed8601fb74ce06f9c0c5a56ecc6389373e3d7fedf58f85",
+  "description": "Polar Owl a community token. As the hype of Telegram stickers on TON continues to soar, Polar Owl emerges as a meme ready to take flight in this bull run. With its unique charm and community-driven energy, Polar Owl is shaping up to be one of the biggest memes in the market.",
+  "image": "https://i.ibb.co/bjLXcCwS/polarowlpic.png",
+  "name": "PolarOwl",
+  "social": [
+   "https://x.com/PolarOwl25",
+   "https://t.me/polarowlchannel",
+   "https://t.me/polarowlonton"
+  ],
+  "symbol": "POWL",
+  "websites": [
+   "https://www.polarowlton.com/"
   ]
  },
  {
@@ -6024,6 +6079,20 @@
   "symbol": "People",
   "websites": [
    "https://peopleai.site/"
+  ]
+ },
+ {
+  "address": "0:c78e917048b63ef4d0b6770aa3125a717bd7cfb75e1de9939407182c93557813",
+  "description": "The reward pig that pays you in TON for holding. Don't break the bank \u2014 let it grow.",
+  "image": "https://pouch.jumpshare.com/preview/nd2A9kY6Q5zOkIfL0r2M9pyIQ5Za1a1vSb4CNTnVyBzZa7lpbnpz7yjGPu8i-NBmIAnnqXR0CQ9BRA0Nz1coeyWU45DnygWXShSzUSBjlek",
+  "name": "PiggyBank",
+  "social": [
+   "https://t.me/ItsPiggyBank",
+   "https://x.com/ItsPiggyBank_"
+  ],
+  "symbol": "$Piggy",
+  "websites": [
+   "http://itspiggybank.tilda.ws/"
   ]
  },
  {
