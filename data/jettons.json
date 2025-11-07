@@ -1552,6 +1552,23 @@
   "symbol": "Borka"
  },
  {
+  "address": "0:ceb9b471002a19de5f15e2e9a2c49ee2e2c356ea3e57af25f951ba78b8bd3062",
+  "description": "Bullieve is a Telegram memecoin evolving into a Web3 brand. Powered by our green bull mascot, we\u2019re spreading bullish energy through memes, onchain drops, and bold merch.",
+  "image": "https://i.ibb.co/tMW16fgQ/BULL-LOGO-03.png",
+  "name": "Bullieve",
+  "social": [
+   "https://t.me/bullievecoin",
+   "https://t.me/bullievechat",
+   "https://x.com/BullieveCoin",
+   "https://www.youtube.com/@bullievecoin",
+   "https://www.tiktok.com/@bullievecoin"
+  ],
+  "symbol": "BULL",
+  "websites": [
+   "https://bullieve.io/"
+  ]
+ },
+ {
   "address": "0:41ec9f104b66018d03ad413afef5b46b20a735328802fe382dfa0ab699cbc440",
   "description": "Cabal of Degens is a community of curious minds and bold traders, united by a shared passion for learning, exploring new strategies, and navigating the markets together.",
   "image": "https://raw.githubusercontent.com/the-links-en/images/refs/heads/main/Cabal_of_Degens.png",
@@ -2753,6 +2770,21 @@
   "symbol": "EOET",
   "websites": [
    "https://theexplorergames.com"
+  ]
+ },
+ {
+  "address": "0:b8c8d5e28e1d8426a0e93ee9ec8e335e2c6ed540575b547eb84085f96a8c325f",
+  "decimals": 9,
+  "description": "SPERM (Safe Per Moon) - meme token of the MoonRaid ecosystem. Stake, play, and rise to the Moon on the TON blockchain.",
+  "image": "https://safepermoon.com/logo.png",
+  "name": "Safe Per Moon",
+  "social": [
+   "https://x.com/safepermoon",
+   "https://t.me/safepermoon"
+  ],
+  "symbol": "SPERM",
+  "websites": [
+   "https://safepermoon.com"
   ]
  },
  {
@@ -6048,6 +6080,22 @@
   ]
  },
  {
+  "address": "0:09e34a77ce50a8a2680034c438bb978892d2cc66d58ff3b1862832a5c96fc464",
+  "description": "Plush Brick \u2014 share a brick, stack memes, ride the hype. \ud83e\uddf1",
+  "image": "https://i.ibb.co/btSvnqT/image.png",
+  "name": "Plush Brick",
+  "social": [
+   "https://t.me/+KZZ7VDmfxTViMDRi",
+   "https://t.me/+t5ghaLZ-0vo4Mjky",
+   "https://t.me/pbr1ck",
+   "https://x.com/plushbrick"
+  ],
+  "symbol": "PBRICK",
+  "websites": [
+   "https://plushbrick.fun/"
+  ]
+ },
+ {
   "address": "0:f500ec52c039f7517d0f0810cd546138c4d90024fb23cce1014482dfbc5751e0",
   "description": "PROBULL Game Token",
   "image": "https://api-v1-srvr-game.probull.org/2-12.png",
@@ -8571,6 +8619,17 @@
   "websites": [
    "https://tonfi.space"
   ]
+ },
+ {
+  "address": "0:60dc10f7d8605a0d74d5a3f31db786c289f4d3ff6d6fbd498b4c116601482286",
+  "description": "TonMemeRepublic \u2014 launched on \u26fd\ufe0f GasPump. A united front of TON meme creators and believers shaping the next era of on-chain culture.",
+  "image": "https://cdn.dexscreener.com/cms/images/a128257dc928f960deb8e943ac97b2899ad448c2ca69afc4d25e488202c76034?width=64&height=64&fit=crop&quality=95&format=auto",
+  "name": "TonMemeRepublic",
+  "social": [
+   "https://t.me/TonMemeRepublicChat",
+   "https://x.com/memerepublicton"
+  ],
+  "symbol": "TMP"
  },
  {
   "address": "0:446ca9b9cfe4f9a6ccfc891b424588c31fe3866d102c7e142d74a7f599ad9da9",
@@ -11857,11 +11916,6 @@
   "address": "0:a17df6f8de40d97f952c517b3a406644b2f0c492833508455a6dffa88a1a14e1",
   "name": "Ton Milk",
   "symbol": "TMILK"
- },
- {
-  "address": "0:60dc10f7d8605a0d74d5a3f31db786c289f4d3ff6d6fbd498b4c116601482286",
-  "name": "TonMemeRepublic",
-  "symbol": "TMR"
  },
  {
   "address": "0:cb4d1f8d04c6331c05371a8a57d1b17901f59a2fbb8c8e5e8c9d71d3542ed956",
