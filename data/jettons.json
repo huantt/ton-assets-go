@@ -2324,7 +2324,7 @@
  {
   "address": "0:91522b63ede858bd2cd9293ca1ab4dbe1e96e12cd800be7305e48ec3c77d50c4",
   "description": "Owled Didi is an animated Telegram sticker pack featuring a cute purple owl. It is also shown on the Telegram home page.",
-  "image": "https://fuchsia-patient-ocelot-485.mypinata.cloud/ipfs/bafkreihlpvy7cill346pou5hgka7dqtk5huixbaqrncdu5sl54db7kqfue",
+  "image": "https://ipfs.io/ipfs/bafkreihlpvy7cill346pou5hgka7dqtk5huixbaqrncdu5sl54db7kqfue",
   "name": "Owled Didi",
   "social": [
    "https://t.me/owled_didi_portal",
@@ -4232,7 +4232,7 @@
  {
   "address": "0:7c92f3ef7e651f2bd9cf6e327b89ffb048b76f4f1eb3cca82a79e1e2e509b63c",
   "description": "It's time for magic! Take your letter to the world of TON magic.",
-  "image": "https://i.imgur.com/3v7aDkH.png",
+  "image": "https://i.postimg.cc/tJyX6sVy/image.png",
   "name": "HOGWARTS",
   "social": [
    "https://t.me/hogwarts_token_ton",
@@ -10333,12 +10333,15 @@
  },
  {
   "address": "0:2dc28eaa30dc2daf489303d78a559df672e002149d1529defc1ab05639ef37f9",
-  "description": "The oldest living memecoin on TON",
-  "image": "https://image2url.com/images/1760920879278-caff1137-7434-41f6-af15-5f844b61c755.jpg",
+  "description": "Oldest living memecoin on Ton \ud83d\udc8e The very first Groyper in crypto \ud83d\udc38 Saving the world from the cult \u270a",
+  "image": "https://image2url.com/images/1763740420574-e21dc6d2-7b99-4af6-a545-73d98fcb897d.jpg",
   "name": "Groyper",
   "social": [
    "https://x.com/groyp_on_ton",
-   "https://t.me/GroyperonTon"
+   "https://t.me/GroyperonTon",
+   "https://t.me/groyp",
+   "https://t.me/anygroyp",
+   "https://groyponton.xyz"
   ],
   "symbol": "GROYP"
  },
