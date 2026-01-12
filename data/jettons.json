@@ -2306,6 +2306,25 @@
   "symbol": "DDOG"
  },
  {
+  "address": "0:ff67ee2a9b982222070213309f8a8d6aeac8f3cf088cb265087e31a5bb919676",
+  "decimals": 9,
+  "description": "Liquidity pool token for TON and CODEX ARCANUM on DeDust DEX",
+  "image": "https://cdn.codex.pm/images/wallets/dedust-lp-codex-ton.png",
+  "name": "DeDust Pool: CODEX/TON LP",
+  "social": [
+   "https://twitter.com/codexarcanum",
+   "https://t.me/CodexSouL",
+   "https://t.me/CodexPulse",
+   "https://t.me/CodexGateBot",
+   "https://t.me/CodexGateBot/codexArcanum"
+  ],
+  "symbol": "CODEX/TON LP",
+  "websites": [
+   "https://dedust.io/pools/EQD_Z-4qm5giIgcCEzCfio1q6sjzzwiMsmUIfjGlu5GWdpg7",
+   "https://codex.pm"
+  ]
+ },
+ {
   "address": "0:b6058ddf5e8d8a9f461cd4c616f697bc3c3c78a53dd7f3b95026e2665e09e9e9",
   "description": "DEXAPES \u2013 the only meme coin on TON with a transparent launch and solid tokenomics. Our goal is DAIF investment fund.",
   "image": "https://raw.githubusercontent.com/DEXAPES/website/dfeceeb14588704568b6ec1ae0be5537bcaea879/256\u0445256.png",
@@ -4922,6 +4941,21 @@
   ]
  },
  {
+  "address": "0:27cb87a1bec42714f8ef0006f815dd45eb7f0f8f124cfa0b68b8a5885f7886d2",
+  "description": "LID is a fun and interactive crypto project built around one simple idea. You vote. You predict. And if you get it right, you earn.",
+  "name": "Likes and Dislikes",
+  "social": [
+   "https://t.me/Likes_and_Dislikes",
+   "https://t.me/Likes_and_Dislikes_Chat",
+   "https://x.com/like_an_dislike",
+   "https://youtube.com/@likes_and_dislikes_coin"
+  ],
+  "symbol": "LID",
+  "websites": [
+   "https://likesdislikes.online"
+  ]
+ },
+ {
   "address": "0:74aaf6919f1157e68f4eade5d966cd1012be29b59701c02e34c1f81ddc6a759f",
   "description": "Liberty Dog is a memecoin on TON inspired by the idea of Digital Freedom, created for the community to trade, share, and have fun.",
   "image": "https://i.ibb.co/d00TKJSd/lidotonviewer.jpg",
@@ -7358,6 +7392,25 @@
   "symbol": "SEMZ",
   "websites": [
    "https://www.semz1.com/"
+  ]
+ },
+ {
+  "address": "0:8f794cca9279de32503551b8af10bc5df2515403fa1a397f66f4f3dce1dea51d",
+  "decimals": 9,
+  "description": "SerpoCoin is a DeFi Web3 utility token built on the TON blockchain, inspired by the legendary Serpo exchange \u2014 a story of connection between humans and an advanced alien civilization.",
+  "image": "https://serpocoin.io/logo.png",
+  "name": "SerpoCoin",
+  "social": [
+   "https://t.me/serpocoinchannel",
+   "https://x.com/serpocoin",
+   "https://www.tiktok.com/@serpocoinofficial",
+   "https://www.facebook.com/share/1CxUHMfBCr/?mibextid=wwXIfr",
+   "https://www.instagram.com/serpocoin",
+   "https://youtu.be/IGXxhVg_eKo"
+  ],
+  "symbol": "SERPO",
+  "websites": [
+   "https://serpocoin.io"
   ]
  },
  {
