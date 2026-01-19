@@ -6479,6 +6479,7 @@
   ],
   "symbol": "$PEACH",
   "websites": [
+   "https://lifeisapeach.top/",
    "https://linktr.ee/LifeisaPeach"
   ]
  },
@@ -16083,6 +16084,11 @@
   "address": "0:c1e4cbd6632271079c0a16729bfafaa227679c1e4a95fad55249d2d0fe26c958",
   "name": "SingularV TON Tonstakers",
   "symbol": "svTON"
+ },
+ {
+  "address": "0:561caa44c7e9755450f02c27e2f302a4a8ce08dfca54af4800509b492eacb1d3",
+  "name": "Re7 USDT",
+  "symbol": "Re7USDT"
  },
  {
   "address": "0:3907bcae69403805294ca5c8383375d626dc06602754d4c34e252bc83f31019d",
