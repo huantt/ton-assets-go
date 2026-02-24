@@ -972,6 +972,10 @@
   "require_memo": true
  },
  {
+  "address": "0:66a1e72196d64d6faf48fa4b2ea861f67b0484d2d14a59caf701d8c286ce44e5",
+  "name": "OKX 11"
+ },
+ {
   "address": "-1:4d5c0210b35daddaa219fac459dba0fdefb1fae4e97a0d0797739fe050d694ca",
   "name": "BSC Bridge"
  },
