@@ -598,6 +598,30 @@
   ]
  },
  {
+  "address": "0:3e5befa42356b2e8891369c63f524ccea65abcb3094377dcff961db58c91b31f",
+  "description": "Liquidity pool token for Proxy TON and ANTON on STON.fi DEX",
+  "name": "LP Token for pTON-ANTON",
+  "symbol": "pTON-ANTON LP"
+ },
+ {
+  "address": "0:dba10ffa26fc425887ba51dab9eb48534377bf4e4cf36990f4c9b4d0f2345451",
+  "description": "Liquidity pool token for ANTON and Tether USD on STON.fi DEX",
+  "name": "LP Token for ANTON-USD\u20ae",
+  "symbol": "ANTON-USD\u20ae LP"
+ },
+ {
+  "address": "0:9e57dfa8c55c49f283efc38e95cf61c3015301639a6e10d2409e19542379e9ea",
+  "description": "ANTON is a community meme token",
+  "name": "ANTON",
+  "social": [
+   "https://t.me/antontokenbot"
+  ],
+  "symbol": "ANTON",
+  "websites": [
+   "https://app.asmerdov.com/"
+  ]
+ },
+ {
   "address": "0:ceaf34312ace94e6427869e99b97fc6f8d7fcb8c9b6165219bc4e27a1ddfc403",
   "description": "Agent 301 is a Telegram-based Do2Earn game with mini-games and social tasks. The $AP token powers in-game energy, boosts, staking, voting, and premium access.",
   "name": "Agent Points",
@@ -4088,6 +4112,21 @@
   "symbol": "GBT",
   "websites": [
    "-"
+  ]
+ },
+ {
+  "address": "0:4fa6b3bb116d40d75d02e19ec9ab6b65ff63f1106cd82704d2fd482499a94ef8",
+  "description": "GoldAge ingame currency.",
+  "image": "https://play.goldage.io/token/logo.png",
+  "name": "GoldAge gold",
+  "social": [
+   "https://t.me/goldagechat",
+   "https://t.me/goldagegame",
+   "https://x.com/goldagegame"
+  ],
+  "symbol": "GDA",
+  "websites": [
+   "https://goldage.io/"
   ]
  },
  {
@@ -9612,6 +9651,19 @@
   "description": "Liquidity pool token for BEHT and on ston.fi DEX",
   "name": "LP Token for USD\u20ae-BEHT",
   "symbol": "USD\u20ae-BEHT LP"
+ },
+ {
+  "address": "0:659dc35afe8e9718cdcc0236c9ae487e5a821f51f5b1b7cd4bfdc8b1826b3cf7",
+  "description": "Liquidity pool token for Tether USD and CactusAdictos on STON.fi DEX",
+  "name": "LP Token for USDT-Cactuscoin",
+  "social": [
+   "https://www.instagram.com/cactusadictos",
+   "https://x.com/CactusAdictos"
+  ],
+  "symbol": "USDT-Cactuscoin-LP",
+  "websites": [
+   "https://t.me/cactusadictos"
+  ]
  },
  {
   "address": "0:aea78c710ae94270dc263a870cf47b4360f53cc5ed38e3db502e9e9afb904b11",
