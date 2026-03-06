@@ -4086,18 +4086,6 @@
   ]
  },
  {
-  "address": "0:23ebcd016a99ed0c49baa5aad7e017d7fd2d4971bd6aa45eb70511221d960118",
-  "image": "https://gattogame.github.io/Gatto/500x500.png",
-  "name": "Gatto",
-  "social": [
-   "https://t.me/gatto_game"
-  ],
-  "symbol": "GTON",
-  "websites": [
-   "https://t.me/gatto_gamebot"
-  ]
- },
- {
   "address": "0:a13f0f6bc3de006f65d8b89c3827bb96a2a7049eb431b260d97a907d4cf68a89",
   "description": "GBT is a memetoken of the car showroom GegabyteAuto",
   "name": "GEGABYTEAUTO",
@@ -4417,6 +4405,18 @@
   "symbol": "GWT",
   "websites": [
    "https://goblinmine.game/"
+  ]
+ },
+ {
+  "address": "0:caf884eb99d59f9ece886ec7bdc5dc3f2b95404408a11a268c7afd2492a13353",
+  "image": "https://gattogame.github.io/Gatto/500x500.png",
+  "name": "Gatto Game Token",
+  "social": [
+   "https://t.me/gatto_game"
+  ],
+  "symbol": "GTON",
+  "websites": [
+   "https://gatto.pw"
   ]
  },
  {
@@ -6273,6 +6273,18 @@
   ]
  },
  {
+  "address": "0:14b15165b095367a07f9c519122cade3f2c22de7aace3640689178868ddbc1c3",
+  "decimals": 9,
+  "description": "NDT (NFT DARK TRIAD) is a community token on the TON blockchain. Our goal is to build a strong community around the TON ecosystem.",
+  "image": "https://github.com/Niko201-nv/not-logo/blob/main/IMG_3274.jpeg?raw=true",
+  "name": "NFT DARK TRIAD",
+  "social": [
+   "https://t.me/NFT_Dark_Triad",
+   "https://t.me/dark_triad_chat_l"
+  ],
+  "symbol": "NDT"
+ },
+ {
   "address": "0:a70874806897696a82d2f8c91a25f09e28b5159e3cc0f1501e30a0233cbe832c",
   "description": "\u041e\u0444\u0438\u0446\u0438\u0430\u043b\u044c\u043d\u044b\u0439 \u0442\u043e\u043a\u0435\u043d \u043e\u0442 \u0431\u0440\u0435\u043d\u0434\u0430 NEDOSTUPNOST\u042c. \u0421\u043e\u0437\u0434\u0430\u043d \u0432 \u043f\u0435\u0440\u0432\u0443\u044e \u043e\u0447\u0435\u0440\u0435\u0434\u044c \u0432\u043e \u0438\u0437\u0431\u0435\u0436\u0430\u043d\u0438\u0435 \u043c\u0430\u043d\u0438\u043f\u0443\u043b\u044f\u0446\u0438\u0439 \u0441\u043e \u0441\u0442\u043e\u0440\u043e\u043d\u044b \u0441\u043a\u0430\u043c-\u043f\u0440\u043e\u0435\u043a\u0442\u043e\u0432, \u0441\u0441\u044b\u043b\u043a\u0443 \u043d\u0430 \u044d\u0442\u043e\u0442 \u0442\u043e\u043a\u0435\u043d \u0432\u044b \u043c\u043e\u0436\u0435\u0442\u0435 \u043d\u0430\u0439\u0442\u0438 \u0432 \u043d\u0430\u0448\u0435\u043c \u043e\u0444\u0438\u0446\u0438\u0430\u043b\u044c\u043d\u043e\u043c Telegram \u043a\u0430\u043d\u0430\u043b\u0435.",
   "image": "https://trueimages.ru/img/cb/c8/a56b1e76.png",
@@ -6922,7 +6934,7 @@
   "image": "https://raw.githubusercontent.com/Palladium-foundation/website/main/logo.png",
   "name": "Palladium",
   "social": [
-   "https://t.me/Palladium_venture_foundation"
+   "https://t.me/Palladium_core"
   ],
   "symbol": "PLD",
   "websites": [
