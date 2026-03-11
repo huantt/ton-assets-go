@@ -2987,6 +2987,25 @@
   "symbol": "E4"
  },
  {
+  "address": "0:8caf842d49bbf3809b8cb9d0ca42f4ad0dfa27124ab54c364ea3df7848504470",
+  "description": "Native token of E8T.app. Telegram's first gamified hospitality on TON: Real-World Perks, Challenges, Rewards & E8Ties\u2014collect, evolve & Battle.",
+  "image": "https://e8t.app/e8t.png",
+  "name": "E8T",
+  "social": [
+   "https://t.me/E8T_App",
+   "https://x.com/E8TApp",
+   "https://www.youtube.com/@E8TApp",
+   "https://www.tiktok.com/@e8t.app",
+   "https://www.instagram.com/e8t.app/",
+   "https://www.facebook.com/p/E8Tapp-100091568440097/",
+   "https://www.reddit.com/r/E8T_App/"
+  ],
+  "symbol": "E8T",
+  "websites": [
+   "https://e8t.app"
+  ]
+ },
+ {
   "address": "0:dcfe7ae6e6839509540cf06449e6afe1af58e0a4d423b06908184faecedb76eb",
   "description": "Ecorpay token",
   "image": "https://iimg.su/s/04/th_AxF6R4MLWDYrpbzNRuicBAC7Ls1Ectyv4vV8nd31.png",
@@ -4636,6 +4655,24 @@
   "symbol": "HOLD",
   "websites": [
    "https://fintopio.com"
+  ]
+ },
+ {
+  "address": "0:f169b674b377350852a1922db93100a901c674b015eec82193163f92d5fbc6f0",
+  "decimals": 2,
+  "description": "Digital token by Hynexis",
+  "image": "https://hynexis.com/coin/coin_256_b.png",
+  "name": "Hynexis Coin",
+  "social": [
+   "https://t.me/hynexis_official",
+   "https://x.com/hynexis",
+   "https://www.instagram.com/hynexis_official/",
+   "https://www.youtube.com/@hynexis_official"
+  ],
+  "symbol": "HXC",
+  "websites": [
+   "https://hynexis.com/",
+   "https://hynexis.com/coin"
   ]
  },
  {
@@ -6313,6 +6350,22 @@
   "symbol": "Nedo",
   "websites": [
    "https://shop.nedostupnost.com"
+  ]
+ },
+ {
+  "address": "0:b3a1e4caaacc887eb24a284005657cf3168fc0eb193a0f9689a5be563460b5ba",
+  "decimals": 9,
+  "description": "Net Donat Token (NDT) is a utility jetton in the TON ecosystem used in the HOLD X Assistant bonus program and Telegram-based mechanics. The token is used for participation, rewards, and ecosystem interactions.",
+  "image": "https://coinhubdyor.org/ref/ndtbot.png",
+  "name": "Net Donat Token",
+  "social": [
+   "https://t.me/ndthodl_bot",
+   "https://t.me/holdxndt",
+   "https://t.me/holdxsupport"
+  ],
+  "symbol": "NDT",
+  "websites": [
+   "https://coinhubdyor.org"
   ]
  },
  {
