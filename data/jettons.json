@@ -904,6 +904,18 @@
   ]
  },
  {
+  "address": "0:6e842302c7ffd5945911b5c1bc7e43a03dff5398ac681a30b00e1e102ca6145d",
+  "description": "Build the future of AceX together advertising",
+  "image": "https://img.stonks.cash/e44d4548-d8e7-4986-9730-b5fedc0ad4a7.jpg",
+  "name": "AceX Investment",
+  "social": [
+   "https://t.me/acebetradingads",
+   "https://x.com/acebetrading",
+   "https://t.me/Acebetradingbot"
+  ],
+  "symbol": "AceX"
+ },
+ {
   "address": "0:730d8404ea7065c083201119706cf9336fd7c15d73decb58248f13c2e8b2920c",
   "description": "We are creating the future of the crypto industry, where truth, justice, and Agent Perry Platypus prevail. In our mission to combat FPI fraud by Dr. Doofenshmirtz, we use only proven blockchain technologies and unconventional approaches.",
   "image": "https://dd.dexscreener.com/ds-data/tokens/ton/eqbzdyqe6nblwimgerlwbpkzb9fbxxpey1gkjxpc6lksditu.png?size=lg&key=d164be",
@@ -7135,6 +7147,16 @@
   ]
  },
  {
+  "address": "0:24d221ce50fd57e58f27c76956b4a853bf0b9f562c3202945f76ae8ad121d356",
+  "description": "\u0420\u0435\u0432\u0430\u0440\u0434\u2011\u0442\u043e\u043a\u0435\u043d \u044d\u043a\u043e\u043d\u043e\u043c\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u043c\u0435\u0445\u0430\u043d\u0438\u0437\u043c, \u043a\u043e\u0442\u043e\u0440\u044b\u0439 \u043d\u0430\u0433\u0440\u0430\u0436\u0434\u0430\u0435\u0442 \u0434\u0435\u0440\u0436\u0430\u0442\u0435\u043b\u0435\u0439 \u0438 \u043e\u0434\u043d\u043e\u0432\u0440\u0435\u043c\u0435\u043d\u043d\u043e \u0444\u0438\u043d\u0430\u043d\u0441\u0438\u0440\u0443\u0435\u0442 \u0440\u043e\u0441\u0442 \u043f\u0440\u043e\u0435\u043a\u0442\u0430",
+  "image": "https://img.stonks.cash/0b8d1833-ce18-4845-8ca3-445976e582dd.jpg",
+  "name": "Punisher",
+  "social": [
+   "https://t.me/CryptoPhoenix44"
+  ],
+  "symbol": "PNSHR"
+ },
+ {
   "address": "0:f86f2a73fcc6e0f2df0855eacdbf8c42e085dc2223a113d959d3620eefcb27d3",
   "description": "In-game currency for TON Dungeon game Telegram mini app",
   "image": "https://tondungeon.com/webapp/icon.png",
@@ -7243,6 +7265,14 @@
    "https://t.me/b_Appka_hub"
   ],
   "symbol": "PRZH"
+ },
+ {
+  "address": "0:5ed4305480c4809e3c65fe2149628b4249eebb7ffe3d40f928c5454040b3d90e",
+  "decimals": 9,
+  "description": "PunchThePowerAsset GameFi Token",
+  "image": "https://img2.pic.in.th/punch-coin-.png",
+  "name": "Punch",
+  "symbol": "PUNCH"
  },
  {
   "address": "0:7cf981b7cddd5b053ac6bc7abbbc4c9546c1e2cc6cbb1581cf38795eafcb3b4a",
@@ -7425,6 +7455,25 @@
   "symbol": "Q2N",
   "websites": [
    "https://q2n.ai"
+  ]
+ },
+ {
+  "address": "0:cf72c510a237fe0ab527c01bd3a2a54ee2cb06a2433bad4ff55dca2bf40c0120",
+  "description": "Quark \u2014 is the in-game currency and serves as a part of economy of the game. The player can mine it through virtual mining in Empire's Battle universe.",
+  "image": "https://yellow-narrow-turkey-189.mypinata.cloud/ipfs/bafkreigu3xti73ge2xeejjzimysgk6sczrcxwwil6sgtwbilifnmy24vx4",
+  "name": "QUARK",
+  "social": [
+   "https://t.me/empiresbattle_chat",
+   "https://t.me/empiresbattle_support_bot",
+   "https://x.com/EmpiresBattle",
+   "https://www.youtube.com/@empiresbattle",
+   "https://www.instagram.com/empiresbattle",
+   "https://vk.com/empiresbattle_community"
+  ],
+  "symbol": "QRK",
+  "websites": [
+   "https://empiresbattle.com",
+   "https://t.me/EmpiresBattleBot"
   ]
  },
  {
