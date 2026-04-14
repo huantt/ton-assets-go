@@ -904,18 +904,6 @@
   ]
  },
  {
-  "address": "0:6e842302c7ffd5945911b5c1bc7e43a03dff5398ac681a30b00e1e102ca6145d",
-  "description": "Build the future of AceX together advertising",
-  "image": "https://img.stonks.cash/e44d4548-d8e7-4986-9730-b5fedc0ad4a7.jpg",
-  "name": "AceX Investment",
-  "social": [
-   "https://t.me/acebetradingads",
-   "https://x.com/acebetrading",
-   "https://t.me/Acebetradingbot"
-  ],
-  "symbol": "AceX"
- },
- {
   "address": "0:730d8404ea7065c083201119706cf9336fd7c15d73decb58248f13c2e8b2920c",
   "description": "We are creating the future of the crypto industry, where truth, justice, and Agent Perry Platypus prevail. In our mission to combat FPI fraud by Dr. Doofenshmirtz, we use only proven blockchain technologies and unconventional approaches.",
   "image": "https://dd.dexscreener.com/ds-data/tokens/ton/eqbzdyqe6nblwimgerlwbpkzb9fbxxpey1gkjxpc6lksditu.png?size=lg&key=d164be",
@@ -10527,6 +10515,25 @@
   "symbol": "YUMI",
   "websites": [
    "https://yumify.one"
+  ]
+ },
+ {
+  "address": "0:2cfa164bdfedfa1723fb0b4cb7eac8172c1ce15700705da3953abc2d9923ecf5",
+  "decimals": 9,
+  "description": "Decentralized Social Exchange",
+  "image": "https://static.yohi.io/images/2024-12-18/d5a641d224404c69a6b97516e974fb11.png",
+  "name": "Yohi crypto",
+  "social": [
+   "https://t.me/YohiCrypto",
+   "https://t.me/yohiEN",
+   "https://x.com/Yohicrypto",
+   "https://whatsapp.com/channel/0029Vb4FmmOAe5VnpwhO3045",
+   "https://www.youtube.com/@Yohicrypto",
+   "https://t.me/Yohicryptobot"
+  ],
+  "symbol": "Yohi",
+  "websites": [
+   "https://yohi.io"
   ]
  },
  {
