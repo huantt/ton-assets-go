@@ -13046,6 +13046,11 @@
   "symbol": "MTGA"
  },
  {
+  "address": "0:0eb0d7e67075f9f873b76bad2c71561d37e0dd1c6905bf5bf0012e46dc21215a",
+  "name": "MTONGA Flag ",
+  "symbol": "MTONGAF"
+ },
+ {
   "address": "0:0ef39c029deb6c16db8cb55269c6917ee327305eabd843a3335e9899fdc8d013",
   "name": "meik tun grit agen",
   "symbol": "MTUNGA"
@@ -13574,6 +13579,11 @@
   "address": "0:cadd178591be8bdee1371a630325ac566f2e0f03f51818296015f26e5d8e76f9",
   "name": "Slowpoke",
   "symbol": "SLOW"
+ },
+ {
+  "address": "0:18e6b35d1de56e8f225425cb6faa65362597b7a1e6c0816b3c842185d3abeb63",
+  "name": "SAFEMOON",
+  "symbol": "SMOON"
  },
  {
   "address": "0:5254ac3714ada8fda149c8c6dd75d4c340a2e0be86d52332f0c7ca3d4f0a24b2",
