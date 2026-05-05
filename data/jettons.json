@@ -9858,6 +9858,20 @@
   "symbol": "Tnr"
  },
  {
+  "address": "0:ceae5466831055a3d23622373bce1966fe3021251dbb600fcb783a10b30e0dd3",
+  "description": "Token 69 is a deflationary memcoin with a total supply of 69 pieces. Created with the goal of becoming the main currency of the project, Token 69 will be used when paying for telegram channel services.",
+  "image": "https://avatars.githubusercontent.com/u/169466498?s=400&u=0dcad87841002728940ecfe82e87894dd676afdd&v=4eqbzdyqe6nblwimgerlwbpkzb9fbxxpey1gkjxpc6lksditu.png?size=lg&key=d164be",
+  "name": "Token 69",
+  "social": [
+   "https://t.me/token_69world",
+   "https://t.me/Token_69_public"
+  ],
+  "symbol": "Token 69",
+  "websites": [
+   "https://www.token69.me/"
+  ]
+ },
+ {
   "address": "0:32507ed035d5afb7b85810d924a7cf1bda811ffd15e2ce519663e28f5b307556",
   "description": "Empowering TON fam!",
   "image": "https://tonfi.space/tonfi-logo.png",
@@ -12914,6 +12928,11 @@
   "symbol": "KOT"
  },
  {
+  "address": "0:0e37b5defe9098e941eee790824c03b81cae4adfd99d41d2be8ae8fa9f6d5446",
+  "name": "Nikolai Durov",
+  "symbol": "KOT"
+ },
+ {
   "address": "0:1a57b43d334beb3b91df2ab3cd9d09de5c1f92f51c819de30d797e0acc408862",
   "name": "MrKrabs",
   "symbol": "KRABS"
@@ -13639,11 +13658,6 @@
   "symbol": "SLOW"
  },
  {
-  "address": "0:18e6b35d1de56e8f225425cb6faa65362597b7a1e6c0816b3c842185d3abeb63",
-  "name": "SAFEMOON",
-  "symbol": "SMOON"
- },
- {
   "address": "0:5254ac3714ada8fda149c8c6dd75d4c340a2e0be86d52332f0c7ca3d4f0a24b2",
   "name": "Sushi\u2019n\u2019Girls",
   "symbol": "SNG"
@@ -14067,11 +14081,6 @@
   "address": "0:55deb55e94c3b9b6cdb9b9b283a2407bcd48ff7aa7074c901b7c8bd961586090",
   "name": "TGFoundation",
   "symbol": "Telegram"
- },
- {
-  "address": "0:ceae5466831055a3d23622373bce1966fe3021251dbb600fcb783a10b30e0dd3",
-  "name": "Token 69",
-  "symbol": "Token 69"
  },
  {
   "address": "0:16cbd75da90260c2d091f87e10b0f388719b2be793be3ba788e2c663dbc756ce",
@@ -16929,6 +16938,16 @@
   "decimals": 9,
   "name": "Shards of Notcoin NFT bond",
   "symbol": "wNOT"
+ },
+ {
+  "address": "0:18e6b35d1de56e8f225425cb6faa65362597b7a1e6c0816b3c842185d3abeb63",
+  "description": "A Safe journey to the Moon. Initial LP locked 100% forever on dedust locker.",
+  "image": "https://www.image2url.com/r2/default/images/1777622695995-560c492b-6c30-4ca6-be5c-ac83e6ac8632.jpgARNI_Logo.png",
+  "name": "SAFEMOON",
+  "social": [
+   "https://t.me/safemoon_ton"
+  ],
+  "symbol": "SMOON"
  },
  {
   "address": "0:11c54d36ad3b4f5eb666b4ef7e8c4aeaa62b5fc712773064d6e887bbbaa5bd5a",
