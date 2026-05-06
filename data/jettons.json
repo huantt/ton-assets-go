@@ -12174,6 +12174,11 @@
   "symbol": "AquaUSD"
  },
  {
+  "address": "0:0e1c17318fabf8e38fbd3907e00f46e5811489777629160acacccee8deb80a41",
+  "name": "BABEL of the INTERNET",
+  "symbol": "BABEL"
+ },
+ {
   "address": "0:b15dc2ee0e8ece2f292cfa218e0c60a93d38b91bd621ab70d5c298d3579df17e",
   "name": "BIG BALLS BIRDS",
   "symbol": "BALLS"
@@ -13301,6 +13306,11 @@
  {
   "address": "0:cf74d1182a99f6e96f9f80d56dea7c8c82ddc515e110990c2d700146c6786cd6",
   "name": "TonPepe",
+  "symbol": "PEPE"
+ },
+ {
+  "address": "0:0e3bad35992c48cab6b1dfb1e14afee6186daef3552b407edd8899efd4b4102d",
+  "name": "Pepe",
   "symbol": "PEPE"
  },
  {
