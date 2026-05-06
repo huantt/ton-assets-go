@@ -25,7 +25,7 @@
   ],
   "symbol": "BANG",
   "websites": [
-   "https://grandbang.ru/"
+   "https://grandbang.space/"
   ]
  },
  {
@@ -292,6 +292,16 @@
    "https://t.me/theontonbot",
    "https://onion.tg"
   ]
+ },
+ {
+  "address": "0:714795f24ef15e1aafc52fb9bed64bf4c3afe1988d092e0a86e9637c34b63f2c",
+  "description": "For popularize Web3 and DeFi in the CIS",
+  "image": "https://i.ibb.co/FL22JmC7/photo-2026-03-11-20-13-16-edited-fotor-2026031411237.png",
+  "name": "PRESERVATION",
+  "social": [
+   "https://t.me/prvn_oficial"
+  ],
+  "symbol": "PRVN"
  },
  {
   "address": "0:c5ca7aecb7380b32151c409b119e087c4d75cd95dea4dee4f9efdd0db9540088",
@@ -7175,6 +7185,17 @@
   ]
  },
  {
+  "address": "0:f7454e1f1468d1bf260bbda03843ad44acb44e3707f01fbd99117fee8fa18e3a",
+  "description": "PoolPepe is a digital asset inspired by a popular Telegram gift. It combines meme culture with community liquidity, creating a sustainable ecosystem for holders and early participants. The token creator is @poolpepe on Telegram.",
+  "image": "https://cdn.blum.codes/86817b36-118b-449a-958b-d6915786f3da/8ff13a63-e87a-4a14-9904-4a47422adb32",
+  "name": "POOLPEPE",
+  "social": [
+   "https://t.me/plpphold",
+   "https://x.com/poolpepehold"
+  ],
+  "symbol": "PLPP"
+ },
+ {
   "address": "0:9051b314a9c9ba358afa41d7c8977477484dbcc14a685f9d596bad38c7d0526c",
   "description": "Plush Pepe coin",
   "image": "https://plushpepecoin.github.io/logo200.png",
@@ -13511,6 +13532,11 @@
   "address": "0:6e7822dacd1b40ab0cfa20f4a8caeb4bb4335d6b92be00570ea51ee2a5b18c1e",
   "name": "Resistance Trump",
   "symbol": "RETRUMP"
+ },
+ {
+  "address": "0:3178234f2e54b7c8b7ad9c5777e09b61c537c69ba0763e40857e5369c3d4a0e4",
+  "name": "REX",
+  "symbol": "REX"
  },
  {
   "address": "0:3afe1b0df89dcc98b6a824f31437e83688de1f1bb487b13403969b89ef22640a",
