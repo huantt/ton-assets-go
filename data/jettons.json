@@ -12634,6 +12634,11 @@
   "symbol": "DURIKOVICH"
  },
  {
+  "address": "0:0e931d4c7648833210c6c33f1366e304df084642ab15a5946b4d216aa48c051c",
+  "name": "Paul Duroff ",
+  "symbol": "DUROFF"
+ },
+ {
   "address": "0:4eebb6c10088255bf699af2269c03648ed947f27f6bb2ee85eb64d2b23ffc401",
   "name": "Earnigram",
   "symbol": "EARNI"
@@ -12772,6 +12777,11 @@
   "address": "0:1807ab429dc9efb20b06c63b45129d72e8ac3f721e1ae6e73a9e00082c468f38",
   "name": "GiftHub",
   "symbol": "GH"
+ },
+ {
+  "address": "0:0ef4754f730ba1898c253816ac9d90fc877c87f6611600889cc0d361e09d2121",
+  "name": "Durov Girls",
+  "symbol": "GIRLS"
  },
  {
   "address": "0:b068e5a95afc6587ef9568225291ff08e71126b825ca2a45ee18cdcff4f02425",
@@ -12919,6 +12929,11 @@
   "symbol": "JOG"
  },
  {
+  "address": "0:798ea1e8c59f1a8997739df55be0046bafbb014849d37595e628336ee5338826",
+  "name": "JOOBI",
+  "symbol": "JOOBI"
+ },
+ {
   "address": "0:bc16864c941719859e8fafdb071b21f3905bfdcb60795fdb4deb546fb9c2d1cc",
   "name": "JVault Token",
   "symbol": "JVT"
@@ -13029,6 +13044,11 @@
   "symbol": "LUPA"
  },
  {
+  "address": "0:0e20fc75746d70b71952a81d5f956eea65c21cd21a791357fd296662e3480d7a",
+  "name": "Durov's Favorite Pet",
+  "symbol": "LYNX"
+ },
+ {
   "address": "0:741ba8cfd2f0d20cc84ec5bc37d557fc65fccbf2fcbfd6f72b679c24594185ad",
   "name": "Lamborghini ",
   "symbol": "Lambo"
@@ -13132,6 +13152,11 @@
   "address": "0:ef2d322b96fb09cd51113037f1fbae0afe286df1d7a3aff38563b11af99e661a",
   "name": "Mr. MeMe",
   "symbol": "MMM"
+ },
+ {
+  "address": "0:d9cab9fdf7b7dc7250ed5634651bb07d10907fcc3e2b6bbe8964915140b1d468",
+  "name": "Monk",
+  "symbol": "MONK"
  },
  {
   "address": "0:7ae10db5f371fd5eab2b47d87ab55f37027465157f3a30959108c425b20414db",
@@ -13257,6 +13282,11 @@
   "address": "0:18c5a0a90151e3a4259a66dac295790e9bd62aec054fd94440711056e068edc4",
   "name": "OGToken",
   "symbol": "OGAT"
+ },
+ {
+  "address": "0:0e14bcd041fd55f2b1c56609530821db63c99719b65de4d344c6ac3df93dce1a",
+  "name": "Durov.com - OG Telegram",
+  "symbol": "OGTG"
  },
  {
   "address": "0:4cb09038d90dadb71c114a0af21cc4fabd8a6f910d9513ed691e4310beaed535",
@@ -13857,6 +13887,11 @@
   "address": "0:e0c7a93d076ec3ffe71c99bae1a366b5b5e6f485f8097a46586624499912e6e6",
   "name": "TELEMON",
   "symbol": "TELEMON"
+ },
+ {
+  "address": "0:0e8ad0d0b0cf6de6e5d89220c8c8514313c1f6b0a2da20d709731934d6af5098",
+  "name": "TEPE",
+  "symbol": "TEPE"
  },
  {
   "address": "0:cdd754d33d3c70ff148f26cff3cabcc84669782570e5a6902663326afbeb66a4",
