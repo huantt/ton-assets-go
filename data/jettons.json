@@ -12819,6 +12819,11 @@
   "symbol": "GRAND"
  },
  {
+  "address": "0:714b940b57df65eeacc6129133d795a79f2eae088c7a66fde7fc8aed22346036",
+  "name": "Mr Greene",
+  "symbol": "GREENE"
+ },
+ {
   "address": "0:b8ef4f77a17e5785bd31ba4da50abd91852f2b8febee97ad6ee16d941f939198",
   "name": "Grm",
   "symbol": "GRM"
@@ -13406,6 +13411,11 @@
  {
   "address": "0:13803edd6a8f63581773fea28bf9425909764642f5791c95540bce6cb2098729",
   "name": "Plankton",
+  "symbol": "PLANKTON"
+ },
+ {
+  "address": "0:4b976cde5c59f0b7632c0b0fcb3847203f9cc2d154564de300ecd30d12b2eb3a",
+  "name": "CEO Plankton",
   "symbol": "PLANKTON"
  },
  {
