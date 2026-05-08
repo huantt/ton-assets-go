@@ -337,6 +337,34 @@
   "symbol": "$TDINO"
  },
  {
+  "address": "0:7dac523dd9e6256a40c7ce09fd6d8c21ab019345e8d667eefc403c7901266593",
+  "description": "The official mascot of the TON blockchain",
+  "image": "https://raw.githubusercontent.com/anonbuilder1337/image/main/Tony256x256.png",
+  "name": "Tony McDuck",
+  "social": [
+   "https://t.me/TonyCommunity",
+   "https://x.com/TonyMcDuckOG"
+  ],
+  "symbol": "$TONY",
+  "websites": [
+   "https://tonymcduck.xyz"
+  ]
+ },
+ {
+  "address": "0:7d20ea8faeaa4bbb4ac2bb39d968e50c0f932cd47cbc8df4a3f4d8b47cf7793b",
+  "description": "The first Pepe token on the TON Chain.",
+  "image": "https://gateway.pinata.cloud/ipfs/bafkreieymg6ds6noorb5oq7z5im7auo5unguzumf7pjndrqs532g7csjya",
+  "name": "Ton PEPE",
+  "social": [
+   "https://t.me/TonPepePortal",
+   "https://x.com/TonPepeToken"
+  ],
+  "symbol": "TPEPE",
+  "websites": [
+   "https://tonpepe.com"
+  ]
+ },
+ {
   "address": "0:451aab804a8931111a2d60cb5d528397c98e41a22af95b260623b4b622d00250",
   "description": "100F is the utility token of Crypto Club 100F. Buyback-based economy, private analytics community, media growth and ecosystem expansion.\n",
   "image": "https://raw.githubusercontent.com/DmytroIOOF/100f-media/main/100F_256.png",
@@ -1920,6 +1948,20 @@
   "symbol": "CATGOLD",
   "websites": [
    "https://catgoldminer.ai"
+  ]
+ },
+ {
+  "address": "0:e881577f266cae567aec29ba57c8ebbe0acedd98a5a02c538141a52aa1832d4f",
+  "decimals": 9,
+  "description": "CNP combines NFTs, social incentives, and TON blockchain technology to build a decentralized pet content ecosystem.",
+  "image": "https://cnp-token-assets.pages.dev/assets/token.png",
+  "name": "CATNIP",
+  "social": [
+   "https://t.me/scaredcat"
+  ],
+  "symbol": "CNP",
+  "websites": [
+   "https://getgems.io/user/UQDU5RDJxfWVNwPA_DXVUzOUrAt3ByC8VJpSD9IdwQqOSkb3"
   ]
  },
  {
@@ -4053,6 +4095,17 @@
    "https://t.me/fr0ackc0in"
   ],
   "symbol": "FR0"
+ },
+ {
+  "address": "0:89e3660d349e6efbf1234a98db9db309c24db782aa59d9e4aec5f05ae95952e0",
+  "description": "Freedom - the word echoed across TON!",
+  "image": "https://i.ibb.co/bMzfzCKx/Chat-GPT-Image-Oct-10-2025-11-28-10-PM-png.png",
+  "name": "Freedom",
+  "social": [
+   "https://x.com/i/communities/1976724649389310317",
+   "https://t.me/RealFreedomTon"
+  ],
+  "symbol": "FREEDOM"
  },
  {
   "address": "0:93c7d1632bef368cd2e4d3a9337e4f6d3ff98393e68a06ecca69fd986d84c077",
@@ -12812,6 +12865,11 @@
   "address": "0:f495a8a4d0580757c68d7d185e6e2f060c6daba43c8a1977a6d0c05fc9afc4c3",
   "name": "GoMining",
   "symbol": "GOMINING"
+ },
+ {
+  "address": "0:0e197b1c74b2f178fa729882e1fdbbba864660b21f8fc2ae01e52b459438dce3",
+  "name": "GoodBoyResistance",
+  "symbol": "GOODBOY"
  },
  {
   "address": "0:655a02a787fa9b1584d77ca8060103f193116c02b0ce4abf67940452cf276934",
