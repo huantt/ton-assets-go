@@ -12104,6 +12104,11 @@
   "symbol": "AAAA"
  },
  {
+  "address": "0:0e3366b91a55bd1bad3d804e12d58b141688942bf1a30c47bc4da39f68028369",
+  "name": "Acton",
+  "symbol": "ACTON"
+ },
+ {
   "address": "0:48cef1de34697508200b8026bf882f8e88aff894586cfd304ab513633fa7e2d3",
   "name": "AI Coin",
   "symbol": "AIC"
@@ -12167,6 +12172,11 @@
   "address": "0:a3dad6e0a29a58ab0eedfc22dc8f79d99d184e0c840395c1ef2690fb8e5d23a2",
   "name": "Azure",
   "symbol": "AZURE"
+ },
+ {
+  "address": "0:6b13f8073488178981e8031b45305780d3bc4db585a959cedbaa48108784be6d",
+  "name": "Acton",
+  "symbol": "Acton"
  },
  {
   "address": "0:160f2c40452977a25d86d5130b3307a9af7bfa4deaf996cde388096178ab2182",
