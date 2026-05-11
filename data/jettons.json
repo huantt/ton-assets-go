@@ -10347,6 +10347,17 @@
   ]
  },
  {
+  "address": "0:bfef87a9a30c9c30e4e24429f1cccaddb3600ff7829ac21ad8a7fd23bc5370b1",
+  "description": "Meet The Virus \u2013 not your typical threat, but a charismatic character straight from the beloved Telegram sticker pack. What once began as a playful addition to digital conversations has now taken on a life of its own, transcending its virtual origins to become a phenomenon on the TON Network.",
+  "image": "https://iili.io/JSJfzjj.png",
+  "name": "THE VIRUS",
+  "social": [
+   "https://x.com/VIRUSCTO",
+   "https://t.me/TheVirusOnTon"
+  ],
+  "symbol": "VIRUS"
+ },
+ {
   "address": "0:3aa59787efab4b4790864a7518396451633d19702533cffd46cf4deb04568f0b",
   "decimals": 0,
   "description": "Coin for TonVillages game. Play at t.me/TonVillagesBot",
@@ -13707,6 +13718,11 @@
   "symbol": "PZM"
  },
  {
+  "address": "0:73299cc7558f0e630ad13eccbeb404d717cff93ab43e83e2eca788a5e203c590",
+  "name": "Persik Cat",
+  "symbol": "Persik"
+ },
+ {
   "address": "0:fa67d0c7739331fbc3c8f08e018c65f47763616a969100ad760a0b2dc1e36832",
   "name": "Mintless Points",
   "symbol": "Points"
@@ -14240,11 +14256,6 @@
   "address": "0:bac1af06060f53c5cc231916096efb80aa33e2d641457b9d3e834786801bf14c",
   "name": "Tonkey",
   "symbol": "TONKY"
- },
- {
-  "address": "0:4d4ea5b2894a015c9113ab1fe28912b725141111cdc701f0d128568c9d427ca7",
-  "name": "TONMAXXING",
-  "symbol": "TONMAXXING"
  },
  {
   "address": "0:cd0efe78bff4c4539b76eab17293296c74f42cbf99ec499687fefec94893ed32",
