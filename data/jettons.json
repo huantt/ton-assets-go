@@ -2002,6 +2002,19 @@
   "symbol": "CFT"
  },
  {
+  "address": "0:d341c21b632b58635c19176c6c71edef759969f578bb4ed4bb99abfa14cb0e9e",
+  "description": "A utility token integrated into an application. \u26d3\ufe0f The chain is strong with its links \u26d3\ufe0f A digital comics studio building within the ecosystem.",
+  "image": "https://i.ibb.co/gZWSGYQR/photo.jpg",
+  "name": "CHAIN comics",
+  "social": [
+   "https://t.me/chain_comics",
+   "https://t.me/chain_comics_chat",
+   "https://youtube.com/@chain_comics",
+   "https://www.instagram.com/chain_comics"
+  ],
+  "symbol": "CHAIN"
+ },
+ {
   "address": "0:c5680842c4ac744c6399f61f291332e2d3203e69a69639028e936e640177aeaf",
   "description": "Durov's Child - meme coin on TON.",
   "image": "https://i.postimg.cc/x1n76y6V/IMG-0428.jpg",
