@@ -131,6 +131,20 @@
   ]
  },
  {
+  "address": "0:24694bc3db8fea7fa595834f75a879a23ea990691bfb020fe0095cd5473c5fbb",
+  "decimals": 9,
+  "description": "Paulus Durus Maximus (DURUS) \u2014 a meme token on the TON blockchain",
+  "image": "https://i.ibb.co/4wJFrsZc/DURUS.jpg",
+  "name": "Paulus Durus Maximus",
+  "social": [
+   "https://t.me/durusmaximus"
+  ],
+  "symbol": "DURUS",
+  "websites": [
+   "https://durusmaximus.wtf/"
+  ]
+ },
+ {
   "address": "0:33fd7ac3d2103872a969ad69294bb4c8021086e0292701fa1bd55426fb69817f",
   "decimals": 9,
   "description": "The Official Coin of ET Netsa Apps\u2122. It's a community project to help show in real time what happens when there are holders, sellers, and buyers.",
@@ -6235,6 +6249,21 @@
   ]
  },
  {
+  "address": "0:6ec2dc769be17afe7893eabe540f8c630f48fafff9cea2134a95bdd4fa02b26e",
+  "description": "A charity-focused token created to support animal shelters and improve the lives of homeless pets through community-driven initiatives and awareness.",
+  "image": "https://img.stonks.cash/21e10bde-a76a-4e5b-b074-d01a991769a0.jpg",
+  "name": "MISHKA Charity",
+  "social": [
+   "https://t.me/mishka_charity",
+   "https://t.me/mishkacharity",
+   "https://x.com/mishka_charity"
+  ],
+  "symbol": "MISHKA",
+  "websites": [
+   "http://mishka-charity.site"
+  ]
+ },
+ {
   "address": "0:77a1e6819c862a15b907a6164c9c2b4e3b7eccb9de5bdcd49d2f43c062482bdd",
   "description": "Mistress is the dominatrix woman of $TON blockchain, spanking the bad boys to make them good boys.",
   "image": "https://raw.githubusercontent.com/MistressOnTon/Mistress_media/main/Mistress_logo_white.png",
@@ -12000,6 +12029,17 @@
   ]
  },
  {
+  "address": "0:6f610dd3c946138d0c596ba50f6e3c15ce39c2e54dcf4625e1a48bbe1cf31832",
+  "description": "Telegram created and posted this meme in 2021. It is the first meme they shared on Twitter and one of their first post. The original post at the time of discovery has 0 comments and 4 likes. Nobody ever seen this memes. Telegram ships features quickly. Their meme Gotta go Fast makes sense",
+  "image": "https://raw.githubusercontent.com/tmrrw-dev/logo/refs/heads/main/IMG_0716.jpeg",
+  "name": "Gotta Go Fast",
+  "social": [
+   "https://t.me/GottaGoFasTON",
+   "https://x.com/telegram/status/1476538954505666562"
+  ],
+  "symbol": "FAST"
+ },
+ {
   "address": "0:68153f84153be7e6f0f6877ce47dcce484c508ef4b492630ba9a9e780027a67d",
   "description": "The hottest sticker pack on Telegram",
   "image": "https://image2url.com/images/1760923151370-8e3a7d8a-99dc-414f-8f6a-daf489ddd904.png",
@@ -12856,11 +12896,6 @@
   "address": "0:eba6fc79fafa071aeef5eda28432c33c864ebb169287e9750f59dba8d2aa99ce",
   "name": "F",
   "symbol": "F"
- },
- {
-  "address": "0:6f610dd3c946138d0c596ba50f6e3c15ce39c2e54dcf4625e1a48bbe1cf31832",
-  "name": "Gotta Go Fast",
-  "symbol": "FAST"
  },
  {
   "address": "0:4f39cd89ff3a1f6bd727d2cf3102e27d8590500f25023f97518e74ef4d32e4cd",
