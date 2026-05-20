@@ -1,5 +1,18 @@
 [
  {
+  "address": "0:b6a9e27bb3411b6cb0e31e56066f0cb80625a728e8efb62a2a2622e5397a555a",
+  "description": "new meme by telegram",
+  "image": "https://cdn.dexscreener.com/cms/images/28iWWE6TOvml75IR?width=64&height=64&fit=crop&quality=95&format=auto",
+  "name": "80 billion is 80 billion",
+  "social": [
+   "https://t.me/ton_80billion"
+  ],
+  "symbol": "$80",
+  "websites": [
+   "https://80-billion.com/"
+  ]
+ },
+ {
   "address": "0:02285bf68dc45f3bcf66494b58fb163804ca6619d1610cd6a871352beef5948f",
   "description": "AssassinoTON \u2013 the first meme coin on #TON, fueled by 100% arabica.\nNot just a meme, but a project with real utility.\n",
   "image": "https://cdn.dexscreener.com/cms/images/2a7ce27db914966e1b818a9bcd9a0c7a704bac946cf0b10a39f164935e4f2ca6?width=64&height=64&fit=crop&quality=95&format=auto",
@@ -3002,6 +3015,22 @@
    "https://t.me/DuckChain_bot"
   ],
   "symbol": "DUCK"
+ },
+ {
+  "address": "0:524b69d2b8efaf632f20d6480261503b322e21a5865a51bc06d592117ff28147",
+  "description": "DURIKOVICH is a meme coin inspired by Pavel Durov musical alter ego. Under this persona, he shares his original music compositions through his personal Telegram channel",
+  "image": "https://i.ibb.co/NdgnGMpr/Durik.png",
+  "name": "DURIKOVICH",
+  "social": [
+   "https://t.me/durikovich_portal",
+   "https://x.com/durikovichmp3",
+   "https://t.me/DURIKOVICHMEME"
+  ],
+  "symbol": "DURIKOVICH",
+  "websites": [
+   "https://durikovich.org/",
+   "http://durikovich.netlify.app/"
+  ]
  },
  {
   "address": "0:20743c71b932c8249cf7034b443245aa139b2408553aca078ccdcfc5fa0f974a",
@@ -10625,7 +10654,7 @@
  {
   "address": "0:c6aace724d99aced134455eda19c2d9000316f4bd16ae906edabb86ff6a44800",
   "description": "Every home starts with a WELCOME. So $WELCOME to TON",
-  "image": "https://www.geckoterminal.com/_next/image?url=https%3A%2F%2Fassets.geckoterminal.com%2F6ohtncs18t07pzsxmmaqrw8i3aho&w=128&q=75",
+  "image": "https://cdn.dexscreener.com/cms/images/fIGDYqdXW4FjNckM",
   "name": "WELCOME",
   "social": [
    "https://t.me/welcometo_ton",
@@ -10758,6 +10787,22 @@
   "symbol": "$WVT",
   "websites": [
    "https://whalevault.xyz/whitepaper"
+  ]
+ },
+ {
+  "address": "0:d3299129732c0b05f24189ad52d08d8268e42ea15b9d61fa1333364762c9ab2f",
+  "decimals": 9,
+  "description": "Liquidity pool token for Herculis Gold Coin (XAUH) and Tether USD on STON.fi DEX",
+  "image": "https://meta.ston.fi/lp/v1/img/0:d3299129732c0b05f24189ad52d08d8268e42ea15b9d61fa1333364762c9ab2f.png",
+  "name": "LP Token for XAUH-USD\u20ae",
+  "social": [
+   "https://x.com/HerculisCoin",
+   "https://t.me/herculis_investments"
+  ],
+  "symbol": "XAUH-USD\u20ae LP",
+  "websites": [
+   "https://xauh.gold",
+   "https://app.ston.fi/swap?chartVisible=true&chartInterval=1w&ft=USD%E2%82%AE&tt=EQCMk4_OujCnk46jApHnIRbmTtYTkSmfujV9X8Ye0qvsHVKh"
   ]
  },
  {
@@ -13051,11 +13096,6 @@
   "address": "0:25d02849cb29c65a0d2d18c08133ab2878a26b2ad366fc80137f5ee3705110c7",
   "name": "povel durev (old)",
   "symbol": "DUREVOLD"
- },
- {
-  "address": "0:524b69d2b8efaf632f20d6480261503b322e21a5865a51bc06d592117ff28147",
-  "name": "DURIKOVICH",
-  "symbol": "DURIKOVICH"
  },
  {
   "address": "0:0e931d4c7648833210c6c33f1366e304df084642ab15a5946b4d216aa48c051c",
