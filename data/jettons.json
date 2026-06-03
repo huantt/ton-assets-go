@@ -326,6 +326,17 @@
   ]
  },
  {
+  "address": "0:b9930254f2e73b724e8204e495584086c2599515ff5a5f78e7d408f6900a527b",
+  "description": "Mighty Arm ($MARM) is a community-driven reward token on TON inspired by the iconic Telegram Gift. Built around strength, diamond hands, and holders with a strong grip. Every trade fuels rewards for the community. Flex your wallet. Join the Mighty Arm.",
+  "image": "https://i.ibb.co/bM1qKmQP/arm.jpg",
+  "name": "Mighty Arm",
+  "social": [
+   "https://t.me/MightyARM_buy",
+   "https://x.com/marm_ton"
+  ],
+  "symbol": "MARM"
+ },
+ {
   "address": "0:aa8cbb7715a47e53a0fc36984e048d0328b918ed1deb92ad84c1ddf10fa4c366",
   "description": "Meta Miner is mining based on the DePin principle",
   "name": "Meta Miner",
@@ -380,6 +391,13 @@
    "https://t.me/prvn_oficial"
   ],
   "symbol": "PRVN"
+ },
+ {
+  "address": "0:37b9571e0987a1cd33ec3edfd265a9e5ea0a228db82b189bd182cbeb06b5746e",
+  "description": "The new Telegrum Intern",
+  "image": "https://i.ibb.co/99c0jS05/Pump.jpg",
+  "name": "Pumpkin Jeremy",
+  "symbol": "PUMPJ"
  },
  {
   "address": "0:c5ca7aecb7380b32151c409b119e087c4d75cd95dea4dee4f9efdd0db9540088",
@@ -1075,6 +1093,20 @@
   "symbol": "AGENTPI",
   "websites": [
    "https://agent-pi.com/"
+  ]
+ },
+ {
+  "address": "0:a297f302af6545ed849c07880838ce6baa2fa23bbfc183270128adb3213ca133",
+  "description": "AiTon is a GameFi and AI-powered mining ecosystem on TON.",
+  "image": "https://i.postimg.cc/ncJ5KD4F/256-251.png",
+  "name": "AiTon",
+  "social": [
+   "https://t.me/ton4btc",
+   "https://t.me/iAiTon_bot"
+  ],
+  "symbol": "AiT",
+  "websites": [
+   "https://wp.aiton.app"
   ]
  },
  {
@@ -3040,6 +3072,20 @@
   ]
  },
  {
+  "address": "0:cf1a39b83d4f350decf6ae6405414da1c3f8bc86eb7919353dd473adcd96cf11",
+  "description": "$DROPEE is the single token that links every game in the Dropee ecosystem, unlocking premium features and boosters while rewarding players for their engagement.",
+  "image": "https://bafybeicwqb5qvewmz5psmvmyunmrl7boavhtroq7gf2kbvqwlzyjjnpbai.ipfs.w3s.link/image.png",
+  "name": "$DROPEE",
+  "social": [
+   "https://t.me/DropeeBot",
+   "https://x.com/dropee_app"
+  ],
+  "symbol": "DROPEE",
+  "websites": [
+   "https://dropee.xyz"
+  ]
+ },
+ {
   "address": "0:23079e337558e92f242d1ffac54c62b3dd5eccd9b81b479a4448004a3962877d",
   "decimals": 9,
   "description": "DRZ - Drazze official token",
@@ -4484,6 +4530,20 @@
   ]
  },
  {
+  "address": "0:dda86eb0816b2c4d925e96c847e4377b46d502106a7051c0fbb2bcc532e12b19",
+  "description": "Ginger Cookies \u2014 community meme token on TON.\nMax supply: 100,000,000 GCookie.\n",
+  "image": "https://i.ibb.co/gZ47sgRc/0e3759b6cebc.webp",
+  "name": "Ginger Cookies",
+  "social": [
+   "https://x.com/GingerCookieTon",
+   "https://t.me/cookie_cto_chat"
+  ],
+  "symbol": "GCookie",
+  "websites": [
+   "https://dexscreener.com/ton/EQDdqG6wgWssTZJelshH5Dd7RtUCEGpwUcD7srzFMuErGZBo"
+  ]
+ },
+ {
   "address": "0:4fa6b3bb116d40d75d02e19ec9ab6b65ff63f1106cd82704d2fd482499a94ef8",
   "description": "GoldAge ingame currency.",
   "image": "https://play.goldage.io/token/logo.png",
@@ -4925,6 +4985,21 @@
   "symbol": "HASHCASH",
   "websites": [
    "https://memhash.org/"
+  ]
+ },
+ {
+  "address": "0:f64fb5b2d59fe3b94e44e8f079cc37f0b8095324df3a063657ade704b7134891",
+  "description": "PVP next-gen play to earn",
+  "image": "https://playhattori.io/token/icon-hattori.png",
+  "name": "Hattori",
+  "social": [
+   "https://t.me/hattorigame",
+   "https://discord.com/invite/hattoriofficial",
+   "https://x.com/Hattorigame"
+  ],
+  "symbol": "HATTORI",
+  "websites": [
+   "https://playhattori.io/"
   ]
  },
  {
@@ -5456,6 +5531,17 @@
    "https://x.com/kentoonton"
   ],
   "symbol": "KENTO"
+ },
+ {
+  "address": "0:aad527640c4d8fd555a76b63701033ad768a24967db935c20811bd3785b347c0",
+  "description": "Kissed Frogs (KFROG) is a meme coin built on the TON blockchain. Inspired by frogs that dream big after every kiss of luck, KFROG captures the fun, chaotic, and playful spirit of crypto while bringing together a strong and united community.",
+  "image": "https://i.postimg.cc/Y96Sbc8v/512512.png",
+  "name": "Kissed Frogs",
+  "social": [
+   "https://t.me/Kissed_Frogs_TON",
+   "https://x.com/KissedFrogsTON"
+  ],
+  "symbol": "KFROG"
  },
  {
   "address": "0:beb5d4638e860ccf7317296e298fde5b35982f4725b0676dc98b1de987b82ebc",
@@ -9001,6 +9087,20 @@
   ]
  },
  {
+  "address": "0:5b9e408dac67759602c34d9f8cc47149592ae4274c4bc368258b39af4fe362eb",
+  "description": "Stellar Rocket ($SROCKET) \u2014 meme token on TON inspired by the first-ever Telegram Gift.\nFair launched on GasPump, now live on DeDust.\n",
+  "image": "https://tokens.gas111.com/images/9342151ee7b5410089ca8e68c99fe5be.png",
+  "name": "Stellar Rocket",
+  "social": [
+   "https://x.com/StellarRockTon",
+   "https://t.me/srocket_community"
+  ],
+  "symbol": "SROCKET",
+  "websites": [
+   "https://dexscreener.com/ton/EQBbnkCNrGd1lgLDTZ-MxHFJWSrkJ0xLw2glizmvT-Ni65uX"
+  ]
+ },
+ {
   "address": "0:aa0ba121449feda569e02b12fa755d24e834a7454aecf4649590b6df742aac8f",
   "name": "Staked TON",
   "symbol": "STAKED"
@@ -9267,6 +9367,16 @@
   "websites": [
    "https://dazzling-squirrel-5f36b8.netlify.app/"
   ]
+ },
+ {
+  "address": "0:60e7b1c32c577ddb496a7cf4d7bc630434b0f6a129adada4f744379f89c8bcc7",
+  "description": "The dog we all know, now in a Russian ushanka. Rumor has it it's the Russian Wif... the rest is in the chat. The Shapka stays on.",
+  "image": "https://i.ibb.co/NMDx1xs/shapka.jpg",
+  "name": "Dog Wif Shapka",
+  "social": [
+   "https://t.me/shapka"
+  ],
+  "symbol": "Shapka"
  },
  {
   "address": "0:8bd89165b43561d6653a08b73b2afcc60fb0e6a701d61e4a24fc49ea4256b271",
@@ -13748,11 +13858,6 @@
   "symbol": "KAKAXA"
  },
  {
-  "address": "0:aad527640c4d8fd555a76b63701033ad768a24967db935c20811bd3785b347c0",
-  "name": "Kissed Frogs",
-  "symbol": "KFROG"
- },
- {
   "address": "0:922cb550f2a76112a65429a88a53b17ab157e734f990e05b02a42a3ca25a3bf7",
   "name": "Kito",
   "symbol": "KITO"
@@ -14641,11 +14746,6 @@
   "address": "0:2e5da12f367517237869a5e435c65eb1516b4518f2852e8433637a80e5496beb",
   "name": "Seahava token",
   "symbol": "SVV"
- },
- {
-  "address": "0:60e7b1c32c577ddb496a7cf4d7bc630434b0f6a129adada4f744379f89c8bcc7",
-  "name": "Dog Wif Shapka",
-  "symbol": "Shapka"
  },
  {
   "address": "0:b6e336e6c8e34cfa6dc37820984290d18a29c68cebb67021debf0505196bdda2",
@@ -17579,6 +17679,25 @@
    "https://t.me/jvaultbot",
    "https://t.me/kriptofarmers/477?single",
    "https://t.me/kriptofarmbot?start=sxekg9uyibbszgwn"
+  ]
+ },
+ {
+  "address": "0:12575224e329ddc73d961401cf77bef7698088ba9909d795da400b85b09223cb",
+  "description": "These jettons confirm ownership of Utya Strategy staked on JVault.xyz.\nStaking pool link: https://jvault.xyz/staking/v2/stake/USTR-UTYA",
+  "image": "https://jvault.xyz/media/staking_v2/images/mainnet_USTR-UTYA.webp",
+  "name": "USTR staked on JVault.xyz",
+  "social": [
+   "https://t.me/jvault",
+   "https://t.me/jvault_ru",
+   "https://t.me/jvault_notifications"
+  ],
+  "symbol": "st-USTR-7D",
+  "websites": [
+   "https://jvault.xyz",
+   "https://t.me/jvaultbot",
+   "https://t.me/utya_strategy",
+   "https://utya-strategy.com",
+   "https://x.com/utya_strategy"
   ]
  },
  {
