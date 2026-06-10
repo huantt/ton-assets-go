@@ -249,7 +249,7 @@
   "address": "0:404508f3bbc6674f3249317943aab9da67e087fe7ad5d976f32f6f25ebea7cc4",
   "decimals": 9,
   "description": "Born from GTA street culture & pure TON season energy.",
-  "image": "https://grandtonape.life/neo-logo.png",
+  "image": "https://files.catbox.moe/jv0xhg.png",
   "name": "Grand Ton Ape",
   "social": [
    "https://x.com/gtaonton",
@@ -5133,6 +5133,17 @@
   "symbol": "HISTR"
  },
  {
+  "address": "0:2a5f463da5da433776d0d094146533aed926dc0ba4e2ef70f52de5415df63fc2",
+  "description": "HL Rewards ($HLR) is a reward-focused token designed to distribute ecosystem incentives, staking rewards, gaming prizes, and community bonuses while supporting long-term growth and engagement. \ud83d\ude80\ud83d\udc8e https://t.me/legendsheroess Deployed from sTONks Deployed from sTONks",
+  "image": "https://img.stonks.cash/d0d316af-7f25-4f61-984a-8616859221df.png",
+  "name": "HL Reward",
+  "social": [
+   "https://t.me/legendsheroess",
+   "https://x.com/heroeslegendss?s=11"
+  ],
+  "symbol": "HLR"
+ },
+ {
   "address": "0:09f2e59dec406ab26a5259a45d7ff23ef11f3e5c7c21de0b0d2a1cbe52b76b3d",
   "decimals": 9,
   "name": "Hamster Kombat",
@@ -8505,6 +8516,23 @@
   "symbol": "RUS",
   "websites": [
    "https://ruscoinmem.ru"
+  ]
+ },
+ {
+  "address": "0:fc19ba0b444a8308b9b8a0178ddec7c1243d9988da34b3e2e762a78bc74bf3bc",
+  "decimals": 9,
+  "description": "Community utility token for StrikeArena gaming community. Used for VIP and Shop on CS2 servers and trading on community marketplace.",
+  "image": "https://strikearena.ru/assets/static/sagame_logo.png",
+  "name": "StrikeArena",
+  "social": [
+   "https://t.me/strikearena",
+   "https://discord.gg/strikearena",
+   "https://steamcommunity.com/groups/strikearena",
+   "https://vk.com/strikearena"
+  ],
+  "symbol": "SA",
+  "websites": [
+   "https://strikearena.ru"
   ]
  },
  {
@@ -18523,13 +18551,6 @@
   "image": "https://nft.fragment.com/collection/spyagaric.webp",
   "name": "Spy Agaric Shard",
   "symbol": "wAGARIC"
- },
- {
-  "address": "0:71bfaebe5f2d27d004cad9324f140cf4762adcf907cca0251b922943272ccd5a",
-  "description": "A piece of Loot Bag",
-  "image": "https://nft.fragment.com/collection/lootbag.webp",
-  "name": "Loot Bag Shard",
-  "symbol": "wBAG"
  },
  {
   "address": "0:bb37e63db4e1bfe55ea1ec1e30e762cde58f362a6c7741b9f77c06b5a6c20d2c",
