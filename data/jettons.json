@@ -13,20 +13,6 @@
   ]
  },
  {
-  "address": "0:02285bf68dc45f3bcf66494b58fb163804ca6619d1610cd6a871352beef5948f",
-  "description": "AssassinoTON \u2013 the first meme coin on #TON, fueled by 100% arabica.\nNot just a meme, but a project with real utility.\n",
-  "image": "https://cdn.dexscreener.com/cms/images/2a7ce27db914966e1b818a9bcd9a0c7a704bac946cf0b10a39f164935e4f2ca6?width=64&height=64&fit=crop&quality=95&format=auto",
-  "name": "AssassinoTON",
-  "social": [
-   "https://x.com/assassinoTON",
-   "https://t.me/AssassinoTON"
-  ],
-  "symbol": "ASSA",
-  "websites": [
-   "https://marvelous-maamoul-64eeee.netlify.app/"
-  ]
- },
- {
   "address": "0:e3bcf1cebe99e8c874484855a446d037535e7213a408ee36778831b53c75a389",
   "description": "Hello. I'm Baby Shark. Very famous and special.",
   "image": "https://i.ibb.co/bRCTvhWC/photo.jpg",
@@ -82,20 +68,6 @@
   "symbol": "CCAT",
   "websites": [
    "https://clowncatcoin.carrd.co"
-  ]
- },
- {
-  "address": "0:a6115250e678edb4d4416b56eaa99b15ab959a1d89621bd054fdde413f506ed9",
-  "description": "The most gypsy token on TON",
-  "image": "https://i.ibb.co/dGCf511/IMG-1522.png",
-  "name": "Crypto Gypsies Coin",
-  "social": [
-   "https://t.me/token_ccc",
-   "https://x.com/ccc_token"
-  ],
-  "symbol": "CCC",
-  "websites": [
-   "https://ccctoken.xyz/"
   ]
  },
  {
@@ -3193,6 +3165,20 @@
   "symbol": "DRZ",
   "websites": [
    "https://drazze.online"
+  ]
+ },
+ {
+  "address": "0:80bca3b9eeb9c3a4a662804c36238ac7ee04d8f18d4430eb90c3924597319749",
+  "description": "DoodleTON is the utility token of the DoodleTON Telegram game.",
+  "name": "DoodleTON",
+  "social": [
+   "https://t.me/doodleTONgame",
+   "https://t.me/doodleTONgroup",
+   "https://x.com/DoodleTON_"
+  ],
+  "symbol": "DTON",
+  "websites": [
+   "https://doodlton.com"
   ]
  },
  {
@@ -12884,20 +12870,6 @@
   "symbol": "CUBE"
  },
  {
-  "address": "0:cfe052ace00aa8b61b9c5803dd1c97ec9ed7a01dd927af09a0f2a57d781565ad",
-  "description": "dTON Technology token",
-  "image": "https://dton.io/media/dton_logo.png",
-  "name": "dTON",
-  "social": [
-   "https://t.me/dtonforum",
-   "https://twitter.com/disintar_io"
-  ],
-  "symbol": "dTON",
-  "websites": [
-   "https://dton.io/"
-  ]
- },
- {
   "address": "0:25161fbf6b551b08fcf5d7df85cd34cbc34450bda0d3081538b0269f87f9fae1",
   "decimals": 9,
   "description": "Utility token used for operations within the ECU Protocol smart contracts on the TON network.",
@@ -18041,6 +18013,23 @@
    "https://t.me/utya_strategy",
    "https://utya-strategy.com",
    "https://x.com/utya_strategy"
+  ]
+ },
+ {
+  "address": "0:05a4282e75be5985cdeaaca25d5dc738a364b6e9535b1c28be7f130b5166e905",
+  "description": "These jettons confirm ownership of Redo Strategy staked on JVault.xyz.\nStaking pool link: https://jvault.xyz/staking/v2/stake/REST",
+  "image": "https://jvault.xyz/media/staking_v2/images/mainnet_REST.webp",
+  "name": "REST staked on JVault.xyz",
+  "social": [
+   "https://t.me/jvault",
+   "https://t.me/jvault_ru",
+   "https://t.me/jvault_notifications"
+  ],
+  "symbol": "st-REST-7D",
+  "websites": [
+   "https://jvault.xyz",
+   "https://t.me/jvaultbot",
+   "https://t.me/the_redo_strategy"
   ]
  },
  {
