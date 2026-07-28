@@ -3212,6 +3212,20 @@
   ]
  },
  {
+  "address": "0:26055e4b56c7ca4d4761410233de339e3edb80f4124babb0b546e8b4f36bf469",
+  "description": "EAGLE is a duck wearing a name tag that says Eagle \u2014 a Telegram sticker meme turned into a jetton on TON. The site is built as a Telegram client, with 18 animated stickers from the Utya Duck III pack.",
+  "image": "https://utyaeagle.baby/logo.png",
+  "name": "EAGLE",
+  "social": [
+   "https://t.me/utyaeeagle",
+   "https://x.com/UtyaEagle"
+  ],
+  "symbol": "EAGLE",
+  "websites": [
+   "https://utyaeagle.baby"
+  ]
+ },
+ {
   "address": "0:dcfe7ae6e6839509540cf06449e6afe1af58e0a4d423b06908184faecedb76eb",
   "description": "Ecorpay token",
   "image": "https://iimg.su/s/04/th_AxF6R4MLWDYrpbzNRuicBAC7Ls1Ectyv4vV8nd31.png",
@@ -8442,6 +8456,12 @@
   ]
  },
  {
+  "address": "0:f8b3eee3090fce07134c8cd6a0acb3b7c8518029a766c187368e7a51330d5f72",
+  "decimals": 9,
+  "name": "Rignite Token",
+  "symbol": "RGNT"
+ },
+ {
   "address": "0:532b0a7c102a0917624ac45127ef3e0f917ee8f561280271c961f43e7f36cbba",
   "description": "Rido is a wolf-samurai, commanding an entire army of users on the TON blockchain. The wolf-samurai lives by the Bushido code, where respect for life and reverence for the opponent are paramount.",
   "image": "https://i.postimg.cc/d3XfP1LN/Wolf-Coin-PNG.png",
@@ -8726,6 +8746,20 @@
   "symbol": "SEVERBANK",
   "websites": [
    "https://t.me/SEVER1OFFFFF"
+  ]
+ },
+ {
+  "address": "0:e7366a0b001ab7c6e5339f893efabd2da8ccafd79abec17fd0f6e57259724aa3",
+  "description": "Utility token of the Astral Shard ecosystem on TON. SHARD holders can mine SHARD through the official Telegram Mini App based on the amount of SHARD held in their wallet.",
+  "name": "Astral Shard",
+  "social": [
+   "https://t.me/astralshard01",
+   "https://t.me/+jFK3KIN9NGc3NWYy",
+   "https://x.com/AstralShard01"
+  ],
+  "symbol": "SHARD",
+  "websites": [
+   "https://t.me/usershardbot"
   ]
  },
  {
@@ -18269,6 +18303,11 @@
   "symbol": "\u8001\u5b50"
  },
  {
+  "address": "0:c10d5cd47e6b52d4c46548f4870c64e5c14a12b93418054ece7fee26315e3707",
+  "name": "\u9e2d\u9e2d Token",
+  "symbol": "\u9e2d\u9e2d"
+ },
+ {
   "address": "0:e119110357de400343a670b3507ce9cd23049995fe5dd6b7c07cf96ac46492e5",
   "description": "Solution for business and for banks. We develop useful and attractive projects. We create services that help people run their businesses and improve their management systems.",
   "image": "https://raw.githubusercontent.com/tmrrw-dev/logo/refs/heads/main/photo_2025-12-24_20-33-56.jpg",
@@ -21404,20 +21443,6 @@
   "symbol": "\u8ba9TON\u518d\u6b21\u4f1f\u5927",
   "websites": [
    "https://chinamtonga.xyz/"
-  ]
- },
- {
-  "address": "0:c10d5cd47e6b52d4c46548f4870c64e5c14a12b93418054ece7fee26315e3707",
-  "description": "YAYA is IP Meme with own ecosystem, access now: http://t.me/yayaminiapps_bot",
-  "image": "https://img.stonks.cash/c1baad35-4b12-4c9b-96e3-9b3810424839.jpg",
-  "name": "YAYA",
-  "social": [
-   "https://t.me/yaya_gram",
-   "https://x.com/Yaya_gram"
-  ],
-  "symbol": "YAYA",
-  "websites": [
-   "https://yayaton.org/"
   ]
  }
 ]
