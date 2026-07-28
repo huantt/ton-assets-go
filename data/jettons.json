@@ -371,6 +371,18 @@
   "symbol": "PUMPJ"
  },
  {
+  "address": "0:26b9fdb267abd48e12958984fe21858d14482b3b75b8ee8fb0f7ed79abf883e0",
+  "description": "The internet's most emotional baby seal \u2014 drawn by owlhug in 2019 (Telegram sticker contest winner), 3.3M+ pack installs before the coin existed. $PUP on TON.",
+  "image": "https://raw.githubusercontent.com/hollowtradr/pup-assets/master/pup_avatar_face_navy.png",
+  "name": "Polar Pup",
+  "social": [
+   "https://t.me/polarpup",
+   "https://x.com/PolarPupCoin",
+   "https://polarpupcoin.com"
+  ],
+  "symbol": "PUP"
+ },
+ {
   "address": "0:c5ca7aecb7380b32151c409b119e087c4d75cd95dea4dee4f9efdd0db9540088",
   "description": "SmartCoinStrategy $SMART A community-driven token empowering investors to start with Cryptocurrencies.",
   "image": "https://smartcoinstrategy.com/wp-content/uploads/2025/09/smartcoinstrategy-logo-black.jpeg",
@@ -17107,11 +17119,6 @@
   "symbol": "PUP"
  },
  {
-  "address": "0:26b9fdb267abd48e12958984fe21858d14482b3b75b8ee8fb0f7ed79abf883e0",
-  "name": "Polar Pup",
-  "symbol": "PUP"
- },
- {
   "address": "0:296afb30ba0917352836a4ac4841773330e8d9736320d2dde3fcab8299205105",
   "name": "PUPA",
   "symbol": "PUPA"
@@ -18220,6 +18227,11 @@
   "address": "0:a908838ce793a7d61b7fb8acd70d738dc558c10f562a30e2211eae9e87ea0237",
   "name": "\u0417\u0430\u0439\u0447\u0438\u043a",
   "symbol": "\u0417\u0430\u0439\u0447\u0438\u043a"
+ },
+ {
+  "address": "0:0e278ca7b05da8bfb0bde28823319a6ebe73b1d0e677861b8af67047cf73c61f",
+  "name": "\u041c\u041b\u0410\u041b\u041b\u0410\u0410",
+  "symbol": "\u041c\u041b\u0410\u041b\u041b\u0410\u0410"
  },
  {
   "address": "0:0e193322e584958ba6b3433aab39cdf5f39ae950600aa24cf418ebdbaa3f1ebe",
@@ -21319,6 +21331,22 @@
   "image": "https://tonco.io/static/token/WTTON_TOKEN.png",
   "name": "Wrapped for TONCO TON",
   "symbol": "wTTon"
+ },
+ {
+  "address": "0:07ba3c826963e37cd68028748f0e525925dda6856976d3778b592873f0f337fd",
+  "decimals": 3,
+  "description": "wVIZ is a 1:1 bridge claim on VIZ locked in the viz-gateway multisig. Each wVIZ is redeemable for exactly 1 VIZ on the VIZ blockchain.",
+  "image": "https://raw.githubusercontent.com/viz-cx/viz-gateway/main/metadata/wviz.png",
+  "name": "Wrapped VIZ",
+  "social": [
+   "https://t.me/viz_world",
+   "https://t.me/viz_cx"
+  ],
+  "symbol": "wVIZ",
+  "websites": [
+   "https://viz.world",
+   "https://viz.cx"
+  ]
  },
  {
   "address": "0:90770914592a2fe38bffc291df9760323041912f2d937d30aa471ed63c1b168f",
