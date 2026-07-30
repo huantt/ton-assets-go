@@ -883,6 +883,21 @@
   ]
  },
  {
+  "address": "0:ed6a261044c95c1875d591c2bcef731c2f3c7e250519b7247c5b53ba7b65c84a",
+  "name": "ASIQ",
+  "social": [
+   "https://t.me/asiqpai",
+   "https://t.me/asiqpai_bot",
+   "https://x.com/asiqpai"
+  ],
+  "symbol": "ASIQ",
+  "websites": [
+   "https://qaztrap.github.io/asiqpai/",
+   "https://github.com/qaztrap/asiqpai",
+   "https://asiqpai.site/"
+  ]
+ },
+ {
   "address": "0:504c5fc01443793ccf2b620deb70d6c01fceb335b2172a1663330de3abcca3f9",
   "description": "$ASTAHOV (SKLAD ASTAHOVA) is a meme token created by the community for the community.",
   "image": "https://coubnft.mypinata.cloud/ipfs/QmRJjhUEGBCXoKvct5MZCWvieCvFAPMAwktSaY1D59gNBe",
@@ -6572,6 +6587,18 @@
   ]
  },
  {
+  "address": "0:267b058c55c70ca5c2ad80b52372f9301954a7cd821aaf6c37f43f96ffe269d5",
+  "decimals": 9,
+  "description": "Merlin the Cat",
+  "image": "https://wsrv.nl/?url=https%3A%2F%2Fnftstorage.link%2Fipfs%2FQmfTxFjz8XWkHuzjNS42ttPWkZ12PcrtbtzvaJcaBcL6kq&w=1024&h=1024&fit=inside&output=png",
+  "name": "Merlin the Cat",
+  "social": [
+   "https://t.me/merlintgcat",
+   "https://x.com/merlintgcat"
+  ],
+  "symbol": "MERLIN"
+ },
+ {
   "address": "0:af7d65bece657ce3c9072d3660964ebf206df00560fd21c9c9822d8e4ba927e5",
   "description": "MEMEZONE is a meme token that combines humor and investment into one platform. Each meme created by users can be turned into a unique NFT that will be linked to the MEMEZONE token.",
   "image": "https://www.memezone.tech/MEZO_token_256_logo.png",
@@ -10997,6 +11024,20 @@
   ]
  },
  {
+  "address": "0:fe76c86cbc40a1853a662dd518cccb7926f2bd6175f17f065dc9b9154e4c7761",
+  "description": "\u0422\u043e\u043a\u0435\u043d \u043f\u0440\u043e\u0435\u043a\u0442\u0430 VELVE",
+  "image": "https://i.ibb.co/6MHDbq2/81925-1.png",
+  "name": "VELVE",
+  "social": [
+   "https://t.me/Velve_ch",
+   "https://t.me/Velveebot"
+  ],
+  "symbol": "VEL",
+  "websites": [
+   "https://velve.info/"
+  ]
+ },
+ {
   "address": "0:df8257eb7f43acdfc70a3c768e2aa41e9c9a65b36b3471ecbc69c4058cf0bf54",
   "description": "VERT is a utility token designed to power the Vertus ecosystem, simplifying cryptocurrency access through Web3 integration on Telegram.",
   "image": "https://api.thevertus.app/assets/vert_coin.png",
@@ -11513,6 +11554,16 @@
    "http://Yoga-ferma.com",
    "https://yoga-ferma.ru"
   ]
+ },
+ {
+  "address": "0:260d2dcd4bd0422d23f8763aedfc1f2f692749bd5e4972b2f8acc77ffff045c9",
+  "description": "EGG YOLK is a ctoken built around the iconic emotional yolk from Telegram.",
+  "image": "https://cdn.dexscreener.com/cms/images/0VwObvcALQAmh9JU?width=128&height=128&fit=crop&quality=95&format=auto",
+  "name": "Yolky the Egg",
+  "social": [
+   "https://t.me/EggYolk_GRAM"
+  ],
+  "symbol": "YOLKY"
  },
  {
   "address": "0:5517bb71bff03e540667a23af17d4ab8170c666fa132112a41ecc89a088e0f7c",
@@ -13327,6 +13378,11 @@
   "address": "0:6aecbc689f86252aa60392b0c6be766e409b6aa160d7c5c4f00554ad10d8a16a",
   "name": "Jones Lang LaSalle xStock",
   "symbol": "JLLx"
+ },
+ {
+  "address": "0:d30034d4ccefc174371375f2988b3b65e3282d20e41b0842abd8baaa6bb247c7",
+  "name": "Jersey Mike's Subs xStock",
+  "symbol": "JMKEx"
  },
  {
   "address": "0:24dc64fe1b57c3dcfdd528e19f731b12c8f1dac2bf061c5a0e3a03ab351a79e5",
@@ -16758,11 +16814,6 @@
   "symbol": "MERCH"
  },
  {
-  "address": "0:267b058c55c70ca5c2ad80b52372f9301954a7cd821aaf6c37f43f96ffe269d5",
-  "name": "Merlin the Cat",
-  "symbol": "MERLIN"
- },
- {
   "address": "0:c03e00810c16fe1ec6046b8a280bbc6451c8e30059500e975862f3deabd0157c",
   "name": "MERO Mercury Coin",
   "symbol": "MERO"
@@ -17221,6 +17272,11 @@
   "address": "0:fa67d0c7739331fbc3c8f08e018c65f47763616a969100ad760a0b2dc1e36832",
   "name": "Mintless Points",
   "symbol": "Points"
+ },
+ {
+  "address": "0:2643684bd87e00f7942ad2962f1fd8abe85e7a3e896264d25ba79d0a50bc62c2",
+  "name": "Quackers",
+  "symbol": "QUACKERS"
  },
  {
   "address": "0:896e9d240693f03e8046f94e42f9c59f3ff8e792cbe8b467c0acf179d10f508a",
