@@ -8550,6 +8550,18 @@
   "symbol": "RGNT"
  },
  {
+  "address": "0:5366f5d749bf092727731ecdf8f6201bb4f39166fc88aafc9eb02b0e43bad89a",
+  "decimals": 9,
+  "description": "Community-supported TON token inspired by the Rica the Pirate Telegram sticker character.",
+  "image": "https://raw.githubusercontent.com/RafaelGomez2099/ton-assets/main/jettons/rica-1.png",
+  "name": "Rica on Ton",
+  "social": [
+   "https://t.me/rica_the_pirate_cto",
+   "https://x.com/RicaThePirate"
+  ],
+  "symbol": "RICA"
+ },
+ {
   "address": "0:532b0a7c102a0917624ac45127ef3e0f917ee8f561280271c961f43e7f36cbba",
   "description": "Rido is a wolf-samurai, commanding an entire army of users on the TON blockchain. The wolf-samurai lives by the Bushido code, where respect for life and reverence for the opponent are paramount.",
   "image": "https://i.postimg.cc/d3XfP1LN/Wolf-Coin-PNG.png",
@@ -16660,6 +16672,11 @@
   "symbol": "HOLY"
  },
  {
+  "address": "0:2659a9d7f28865b06eaa0697cbdab8ad090eedafb32526910aeb82a19be3b8ef",
+  "name": "Honk Honkler",
+  "symbol": "HONK"
+ },
+ {
   "address": "0:75d56b54c4ae037fca5c298399dc77c257bd0b8e5e0b115b4aa371abffdb650f",
   "name": "Hoolicoin",
   "symbol": "HOOLI"
@@ -17038,6 +17055,11 @@
   "address": "0:0ef39c029deb6c16db8cb55269c6917ee327305eabd843a3335e9899fdc8d013",
   "name": "meik tun grit agen",
   "symbol": "MTUNGA"
+ },
+ {
+  "address": "0:265457dfe05e77b03420cc226fd5fdcb952a1fc498110446a0b00bc6a1c5b61d",
+  "name": "Muffin the Corgi",
+  "symbol": "MUFFIN"
  },
  {
   "address": "0:38f25c4ef31feaf538df9e9537f13ab267f7a40dc05f8d66c7d199b1d8443322",
