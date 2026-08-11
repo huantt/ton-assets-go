@@ -2012,6 +2012,21 @@
   "symbol": "CHIP"
  },
  {
+  "address": "0:3209e8b67a8c229e4ef4f852cdb47a338d2bee90694066987e99864958204603",
+  "description": "Chrome Mini Games Store. The ultimate Play To Earn Gaming Platform.",
+  "image": "https://chromeplay.store/chrome_logo_256x256.png",
+  "name": "Chrome Play",
+  "social": [
+   "https://t.me/ChromePlayStore",
+   "https://x.com/chromeplaystore",
+   "https://www.instagram.com/chromeplaystore"
+  ],
+  "symbol": "CHROME",
+  "websites": [
+   "https://chromeplay.store/"
+  ]
+ },
+ {
   "address": "0:8af4484ee13ff2de2f32a4f2f6821ada794c1662167cb4bd9716acb183b9165f",
   "description": "The next generation of gamified social interaction. As the driving force behind a platform that blends gaming with dynamic social media experiences, ChiliVersus empowers users to participate in rivalries, complete interactive tasks, and engage in meaningful connections.",
   "image": "https://chiliversus.com/coin.png",
@@ -8566,7 +8581,7 @@
   "address": "0:5366f5d749bf092727731ecdf8f6201bb4f39166fc88aafc9eb02b0e43bad89a",
   "decimals": 9,
   "description": "Community-supported TON token inspired by the Rica the Pirate Telegram sticker character.",
-  "image": "https://raw.githubusercontent.com/RafaelGomez2099/ton-assets/main/jettons/rica-1.png",
+  "image": "https://raw.githubusercontent.com/RafaelGomez2099/rica-assets/main/rica.png",
   "name": "Rica on Ton",
   "social": [
    "https://t.me/rica_the_pirate_cto",
@@ -10469,6 +10484,21 @@
   "address": "0:ae96a919594de8d4ae89b9462c6ab499782b5b69332c4b2a914075d208fe7830",
   "name": "TONY",
   "symbol": "TONY"
+ },
+ {
+  "address": "0:2637db2cc564a8e68413858aea200888287e48e1b80a877f7a85c4599f745581",
+  "decimals": 9,
+  "description": "The pink starfish from the Telegram sticker pack with 13M+ installs, now floating on TON.",
+  "image": "https://tonystar.xyz/tonystar-icon-512.png",
+  "name": "Tony Star",
+  "social": [
+   "https://t.me/TonyStar_TON",
+   "https://x.com/TonyStar_TON"
+  ],
+  "symbol": "TONYSTAR",
+  "websites": [
+   "https://tonystar.xyz"
+  ]
  },
  {
   "address": "0:91864bf1896f4c978e052d3c4678fb35c4ca8101ff9ac5a90180211f23c6301d",
@@ -18423,11 +18453,6 @@
   "address": "0:07f0e48dca6cb0490c8f135b74b542c59713bfff28549a5b1ca5309f30b7ff4c",
   "name": "Tony from TON",
   "symbol": "TONY"
- },
- {
-  "address": "0:2637db2cc564a8e68413858aea200888287e48e1b80a877f7a85c4599f745581",
-  "name": "Tony Star",
-  "symbol": "TONYSTAR"
  },
  {
   "address": "0:0ede7f7199d5f05c7521b59df329ec6979410a7a3615282784ba976c83692f81",
