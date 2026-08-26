@@ -75,6 +75,19 @@
   "symbol": "$CHYK"
  },
  {
+  "address": "0:23e5beb6316f964d75dade3af4d9bc96354b42756a55a2116818ea3b1b39e52a",
+  "description": "When the calculating Scrooge McDuck and the fast, witty Bugs Bunny play on the same team, our token is born \u2014 a balance of strategy, style, and humor that builds a strong community for future growth.",
+  "image": "https://raw.githubusercontent.com/scroogemcduck968-gif/SCMD69-assets/main/SCMD69.png",
+  "name": "SCMD69",
+  "social": [
+   "https://t.me/+g6YnwiZ8IrZhNmE0"
+  ],
+  "symbol": "$CMD69",
+  "websites": [
+   "https://scmd.ton.website"
+  ]
+ },
+ {
   "address": "0:8246aa420f4f4d0da46249cb3cbd03c04db01450aedb7d448c774903ebbbe0e5",
   "description": "In the best tradition of great projects, our $CUPRUM was born in a garage. We recycled old copper wires and used the proceeds to create this token. Join us - help clean the planet and invest with a smile. Our moon tradition? A celebratory cup of rum (or juice)! \ud83e\udd43\u267b\ufe0f",
   "name": "CUPRUM",
@@ -213,6 +226,18 @@
   "websites": [
    "https://grandtonape.life"
   ]
+ },
+ {
+  "address": "0:3721bb2648e6ed041c5c98fb1b911c258ead6195f32209b47629456dd25a23bf",
+  "description": "Welcome to GRAMVILLE A small village. A big story. Built on TON. Powered by memes.",
+  "image": "https://i.ibb.co/p6LvKgp1/GRAMVILLE.png",
+  "name": "GRAMVILLE",
+  "social": [
+   "https://t.me/GramVilleMem",
+   "https://t.me/GramVilleChat",
+   "https://x.com/GramVilleX"
+  ],
+  "symbol": "GV"
  },
  {
   "address": "0:556325320f4160b4f9b5b799a8086d4b78e2d0d7c02226d52deeb3dfd4f46f12",
@@ -1009,6 +1034,22 @@
   "symbol": "AVTR"
  },
  {
+  "address": "0:acb7eb605f33b0295ee4951978a4a65b7fe5c42233e3a33aa093293431384518",
+  "description": "Awe Reads Token (AWE) fuels access, rewards, and growth in a platform turning complex knowledge into simple inspiration.",
+  "image": "https://raw.githubusercontent.com/Awereads/token/refs/heads/main/logo.png",
+  "name": "Awe Reads",
+  "social": [
+   "https://t.me/awereads",
+   "https://t.me/awereads_eng",
+   "https://www.instagram.com/awereads",
+   "https://www.instagram.com/awereads.eng"
+  ],
+  "symbol": "AWE",
+  "websites": [
+   "https://awereads.com"
+  ]
+ },
+ {
   "address": "0:730d8404ea7065c083201119706cf9336fd7c15d73decb58248f13c2e8b2920c",
   "description": "We are creating the future of the crypto industry, where truth, justice, and Agent Perry Platypus prevail. In our mission to combat FPI fraud by Dr. Doofenshmirtz, we use only proven blockchain technologies and unconventional approaches.",
   "image": "https://dd.dexscreener.com/ds-data/tokens/ton/eqbzdyqe6nblwimgerlwbpkzb9fbxxpey1gkjxpc6lksditu.png?size=lg&key=d164be",
@@ -1143,6 +1184,14 @@
    "https://x.com/shopgroup17588?s=21"
   ],
   "symbol": "AUR"
+ },
+ {
+  "address": "0:ae7e0c4640dd74ab285a021bc85588c78b6a6ef0dfa4bcf8582d3fee117b9530",
+  "decimals": 9,
+  "description": "Baby Ton community token on TON.",
+  "image": "https://raw.githubusercontent.com/RafaelGomez2099/babyton-assets/main/babyton_icon.png",
+  "name": "Baby Ton",
+  "symbol": "BABY"
  },
  {
   "address": "0:0e35686fdcd92842b24f32f07aeffca49d62cfc555fcc0f79f4cf57be61ed999",
@@ -6760,7 +6809,9 @@
  },
  {
   "address": "0:e7b6133a0e364b22543f950942c2d8fe133d94ad8ce9594578f776dc71ccfe46",
+  "decimals": 9,
   "description": "Fully decentralized MEME coin by the GRAM (GRM) community. Make Gram Great Again! Not affiliated with Telegram or TON Foundation.",
+  "image": "https://mgrmga.org/logo.png",
   "name": "Make Gram Great Again",
   "social": [
    "https://t.me/mgrmga_holders"
@@ -8927,6 +8978,17 @@
    "https://t.me/scaredcatcto"
   ],
   "symbol": "SCAT"
+ },
+ {
+  "address": "0:9dc10e167b0140277b2bad0955a47185a99f50bfd70889978440d9c3993ad0c3",
+  "decimals": 9,
+  "description": "SCREAM Telegram sticker community token on TON.",
+  "image": "https://raw.githubusercontent.com/BabyLadyCTO/scream-assets/main/SCREAM_icon.png",
+  "name": "Scream",
+  "social": [
+   "https://t.me/SCREAMonTON"
+  ],
+  "symbol": "SCREAM"
  },
  {
   "address": "0:d62d27c3e7746b4ec7b774ffdae086b005b34f1a977f321a11189fb3c81bd806",
@@ -11748,6 +11810,20 @@
   ]
  },
  {
+  "address": "0:266d78e2a8b3d75b5ea0dcf5dd311ccb2b2a6b52fc7c2b6a707a75b89138f5ee",
+  "description": "YAYA is IP Meme with own ecosystem, access now: http://t.me/yayaminiapps_bot",
+  "image": "https://yayaton.org/assets/yaya-logo.png",
+  "name": "YAYA",
+  "social": [
+   "https://t.me/yayafam",
+   "https://x.com/Yaya_gram"
+  ],
+  "symbol": "YAYA",
+  "websites": [
+   "https://yayaton.org/"
+  ]
+ },
+ {
   "address": "0:a992e0fa82901d5d624338b2b2c71ea78030dc5f3d804bce635b20d66b7a9355",
   "description": "\u041c\u043e\u043d\u0435\u0442\u0430 \u043f\u0440\u0438\u0437\u0432\u0430\u043d\u0430 \u0441\u0442\u0438\u043c\u0443\u043b\u0438\u0440\u043e\u0432\u0430\u0442\u044c \u0440\u0430\u0437\u0432\u0438\u0442\u0438\u0435 \u0431\u043b\u0430\u0433\u043e\u0441\u0442\u043d\u043e\u0433\u043e \u0434\u0435\u043b\u0430. \u041d\u0430 \u0439\u043e\u0433\u0430-\u0444\u0435\u0440\u043c\u0435 \u0432\u044b \u043f\u043e\u0437\u043d\u0430\u043a\u043e\u043c\u0438\u0442\u0435\u0441\u044c \u0441 \u0438\u0441\u0442\u0438\u043d\u043d\u044b\u043c \u0441\u043e\u0431\u043e\u0439, \u043e\u0442\u043a\u0440\u043e\u0435\u0442\u0435 \u043d\u043e\u0432\u044b\u0435 \u0442\u043e\u0447\u043a\u0438 \u043e\u043f\u043e\u0440\u044b \u0438 \u0432\u043e\u0441\u043f\u043e\u043b\u043d\u0438\u0442\u0435 \u0441\u0438\u043b\u044b.",
   "image": "https://dd.dexscreener.com/ds-data/tokens/ton/eqcpkud6gpadxwjdolkyxx6ngddcxz2as85jwydwa3qtvxyq.png?size=lg&key=da7f97",
@@ -12087,6 +12163,20 @@
    "https://t.me/AmberTONchat"
   ],
   "symbol": "AMBER"
+ },
+ {
+  "address": "0:28f219e1c9c029a36e6befe908ec0847aa18881025b5cfd98ea064fa080d60c5",
+  "decimals": 9,
+  "description": "Apes Club utility and rewards token on TON.",
+  "image": "https://test.telegramgift.com/ape-token-logo.jpg",
+  "name": "Apes Club",
+  "social": [
+   "https://t.me/ApesClubio"
+  ],
+  "symbol": "APE",
+  "websites": [
+   "https://t.me/apes_Club_Bot/apes_club?startapp"
+  ]
  },
  {
   "address": "0:d36706f8299d434b89965cdfe07515dd85c88d9dc54c6dca57808ed441e3d822",
@@ -18855,11 +18945,6 @@
   "address": "0:157c463688a4a91245218052c5580807792cf6347d9757e32f0ee88a179a6549",
   "name": "xRocket Token",
   "symbol": "XROCK"
- },
- {
-  "address": "0:266d78e2a8b3d75b5ea0dcf5dd311ccb2b2a6b52fc7c2b6a707a75b89138f5ee",
-  "name": "YAYA",
-  "symbol": "YAYA"
  },
  {
   "address": "0:8392ba42bbe14554f4099cc6a78e57fc5c237be708d7fc02abac414543599f26",
