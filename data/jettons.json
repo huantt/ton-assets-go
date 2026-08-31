@@ -213,6 +213,17 @@
   "symbol": "GRAMDOG"
  },
  {
+  "address": "0:2668c7700a6a593494917ef6cd643bb51e48c56f0d95b6fbc8d450cabcb24c83",
+  "description": "The coin of the #GRAMSUPERCYCLE. Powers Saturn, the capital house on TON \u2014 membership, launch access and commit capacity are all held in $GSC.",
+  "image": "https://saturn.tg/tokens/gsc.png",
+  "name": "Gram super cycle",
+  "social": [
+   "https://saturn.tg",
+   "https://t.me/hollowjournal"
+  ],
+  "symbol": "GSC"
+ },
+ {
   "address": "0:404508f3bbc6674f3249317943aab9da67e087fe7ad5d976f32f6f25ebea7cc4",
   "decimals": 9,
   "description": "Born from GTA street culture & pure TON season energy.",
@@ -1900,6 +1911,16 @@
    "https://t.me/StarsGame365Chat"
   ],
   "symbol": "CANY"
+ },
+ {
+  "address": "0:c850f8950a03e59798124e3964cfb1cc01b52fd104f308bbe51ced7beed2ba9d",
+  "description": "Token for launching other tokens, backed by a basket of collateral assets (BTC, ETH, USDT, GRAM, POK) with algorithmic market making. #ProofOfCapital",
+  "image": "https://cap.proofofkarl.com/logo.jpg",
+  "name": "CAPITAL",
+  "symbol": "CAP",
+  "websites": [
+   "https://cap.proofofkarl.com"
+  ]
  },
  {
   "address": "0:27c5bb8c3db44e05a923acdfa7a9de12fe39ff2981a5b32f69c0858afd6c7e88",
@@ -9789,15 +9810,16 @@
  },
  {
   "address": "0:3dc84237f7f0a4a9c3d849cf989f690c3cf8456662009831f97e685acc31584b",
-  "description": "https://t.me/+DaPqdAWoZm1kNmI0",
+  "description": "Telegram's favorite fruit, now on TON.",
   "image": "https://i.postimg.cc/Vshbkt6q/newswet-2.png",
   "name": "sweety strawberry",
   "social": [
-   "https://x.com/StrawberryonTon"
+   "https://x.com/StrawberryonTon",
+   "https://t.me/sweetystrawberrys"
   ],
   "symbol": "strawberry",
   "websites": [
-   "https://strawberry.fit/strawberry"
+   "https://www.sweetystrawberry.com"
   ]
  },
  {
@@ -10394,6 +10416,21 @@
   "symbol": "THOR",
   "websites": [
    "https://preview--thor-landing-valhalla.lovable.app"
+  ]
+ },
+ {
+  "address": "0:11b84c232ea6bf8ecc678d5ddc0faddedd291b29b4f9789ed2788e2660a79e0c",
+  "decimals": 9,
+  "description": "TIME is the utility token of Stellarium, a live Telegram Mini App with collectible on-chain planets, protocol-level demurrage, and a transparent three-level referral system.",
+  "image": "https://memetimeton.fun/logo.png",
+  "name": "TIME",
+  "social": [
+   "https://t.me/Timegalaxy_bot",
+   "https://t.me/time_meme"
+  ],
+  "symbol": "TIME",
+  "websites": [
+   "https://memetimeton.fun/"
   ]
  },
  {
@@ -12163,20 +12200,6 @@
    "https://t.me/AmberTONchat"
   ],
   "symbol": "AMBER"
- },
- {
-  "address": "0:28f219e1c9c029a36e6befe908ec0847aa18881025b5cfd98ea064fa080d60c5",
-  "decimals": 9,
-  "description": "Apes Club utility and rewards token on TON.",
-  "image": "https://test.telegramgift.com/ape-token-logo.jpg",
-  "name": "Apes Club",
-  "social": [
-   "https://t.me/ApesClubio"
-  ],
-  "symbol": "APE",
-  "websites": [
-   "https://t.me/apes_Club_Bot/apes_club?startapp"
-  ]
  },
  {
   "address": "0:d36706f8299d434b89965cdfe07515dd85c88d9dc54c6dca57808ed441e3d822",
@@ -17255,11 +17278,6 @@
   "address": "0:3aa19a9f9e0a636d79fb4897418c8604a0ec6dfcdbac3f850b602540b90c86eb",
   "name": "GRAMX6900",
   "symbol": "GRX6900"
- },
- {
-  "address": "0:2668c7700a6a593494917ef6cd643bb51e48c56f0d95b6fbc8d450cabcb24c83",
-  "name": "Gram super cycle",
-  "symbol": "GSC"
  },
  {
   "address": "0:efe9c616f673622a337737097c0fa0018d4887d6061f59519985f3fbfbdb59b2",
