@@ -11448,6 +11448,20 @@
   ]
  },
  {
+  "address": "0:1fad12fd66c69fe63d40ab82279d7e0dbaefc647b7bb6b351dc0bbf703c37763",
+  "decimals": 9,
+  "description": "VOLT Token - Continuous Level-Based Hold-to-Mine Ecosystem on TON Blockchain.",
+  "image": "https://volt.crowntasks.xyz/volt-logo.jpg",
+  "name": "Volt Token",
+  "social": [
+   "https://t.me/VoltToken_bot"
+  ],
+  "symbol": "VOLT",
+  "websites": [
+   "https://volt.crowntasks.xyz"
+  ]
+ },
+ {
   "address": "0:28f8c9edf10da5f4cf7449d93d3a24edce656fde3f137f7f367415693517fda9",
   "description": "I HAVE GOT A BIG VEGGIE",
   "image": "https://i.ibb.co/nNG941qB/0597959dbc3a.webp",
@@ -15029,6 +15043,11 @@
   "address": "0:3cb36b9b4cad0171de26e9be703771c4a8334f4529ce6062f6ffc35b984f20ad",
   "name": "SharonAI xStock",
   "symbol": "SHAZx"
+ },
+ {
+  "address": "0:b1f1f43411d0b09b1cd2ec7a3372516ab92c71ec44bf3ea8075910d57449605c",
+  "name": "SHEIN xStock",
+  "symbol": "SHEINx"
  },
  {
   "address": "0:68f2d88001b1ab8646035352e798508359be9c46e5e72a81c391010fcc2c3726",
