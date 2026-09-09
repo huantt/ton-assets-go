@@ -8915,6 +8915,20 @@
   ]
  },
  {
+  "address": "0:d34c41691d959c5193628cca7ac5085ed5a11d372b85c3e5087be0c0af3e7f6f",
+  "decimals": 9,
+  "description": "Utility and reward token on the TON blockchain.",
+  "image": "https://img.stonks.cash/54c467bd-d966-4be8-b32d-41e5d181040d.jpg",
+  "name": "RICHTON",
+  "social": [
+   "https://t.me/richton_bank"
+  ],
+  "symbol": "RTON",
+  "websites": [
+   "https://richtonbank.xyz"
+  ]
+ },
+ {
   "address": "0:b0797499697e64e713ad5cb6c681f17c158e836e0eab3623eb77d7747fffa40d",
   "description": "E/acc token for digital life",
   "name": "RubeTON",
@@ -18914,6 +18928,11 @@
   "address": "0:eaaca263d5941e1931d29a30e4a1efb506bbca277b49ce35a8fbacbade57ef55",
   "name": "Twister The Dog",
   "symbol": "TWIDO"
+ },
+ {
+  "address": "0:27990dea2b2783da432d958f072a5f7334d35b877b9a0f24a23fabab7d573201",
+  "name": "Tower game token",
+  "symbol": "TWR"
  },
  {
   "address": "0:745384c7ebd0810fa01e3bfc8714c5bebbdd14987ffae46c3902465b96ddc63b",
