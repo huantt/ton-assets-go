@@ -3480,6 +3480,21 @@
   "symbol": "ECOX"
  },
  {
+  "address": "0:d9abd53758692ba579e2e9392be098ed383a889120e9ef22b89ae86b80185cd4",
+  "decimals": 9,
+  "description": "EGG is the utility token of Farm Bird, used to buy and upgrade Birds, boost egg production, and power the in-game economy. Build your farm, collect eggs, and grow your earnings.",
+  "image": "https://i.ibb.co.com/WvXrSMSh/IMG-20261003-181538-919.jpg",
+  "name": "Farm Bird",
+  "social": [
+   "https://t.me/BirdsFarmEGG",
+   "https://t.me/FarmBirdsGroup"
+  ],
+  "symbol": "EGG",
+  "websites": [
+   "https://birdfarm.tech"
+  ]
+ },
+ {
   "address": "0:e967c692c5c82f09fc8a9831b1abefd68707c0141060288005edd8a66d599332",
   "description": "EK Token serves as the fundamental utility asset across the Escape Kingdom ecosystem, unifying value and access throughout all current and future projects. Through staking, holders gain enhanced winning probabilities, aligning long-term engagement with in-game rewards.",
   "image": "https://ipfs.geek.foundation/ipfs/bafybeifbhpzwkwloykfaijmcfajtttvrilabgyschpxp76kw77wdwcltju",
@@ -3733,7 +3748,7 @@
  },
  {
   "address": "0:fa7dd071d073f5dc97dc56870f8100a32aaa4a5e1de15d23151951dee72440d5",
-  "description": "Your reliable partner in the betting market with a jetton secured by smart contracts on the TON network!",
+  "description": "FAST UP \u2014 a decentralized ecosystem where your network and activity generate real income.",
   "image": "https://i.postimg.cc/SxPL3Xc5/logo.jpg",
   "name": "Fast UP",
   "social": [
@@ -5442,6 +5457,18 @@
   "symbol": "HOLD",
   "websites": [
    "https://fintopio.com"
+  ]
+ },
+ {
+  "address": "0:ba03a1b5da421acb631ff0e661e6f8ac9adf8bf00871adf3751eedbf64edf998",
+  "name": "Hood",
+  "social": [
+   "https://t.me/TheHood_Official",
+   "https://x.com/Hood_officialX"
+  ],
+  "symbol": "HOOD",
+  "websites": [
+   "https://hoodofficial.club"
   ]
  },
  {
@@ -7629,6 +7656,30 @@
   "symbol": "NTHNG",
   "websites": [
    "https://app.nothing.army/"
+  ]
+ },
+ {
+  "address": "0:c41cb06ced9ea641c1c744b0f269f70990b93a841742aef0ef690d84a6d57618",
+  "decimals": 9,
+  "description": "Powering the Next Digital Economy.",
+  "image": "https://i.ibb.co.com/5hn7Kk33/NVQ.png",
+  "name": "Nuvqix Protocol",
+  "social": [
+   "https://github.com/Nuvqix-Protocol/nuvqix-protocol",
+   "https://x.com/Nuvqix",
+   "https://discord.gg/XDh3npr5m",
+   "https://t.me/nuvqix",
+   "https://www.youtube.com/@Nuvqix",
+   "https://t.me/Nuvqix_bot"
+  ],
+  "symbol": "NVQ",
+  "websites": [
+   "https://nuvqix.info",
+   "https://nuvqix.info/#whitepaper",
+   "https://nuvqix.info/#roadmap",
+   "https://tg.app/apps/nuvqix-protocol",
+   "https://dyor.io/token/EQDEHLBs7Z6mQcHHRLDyafcJkLk6hBdCrvDvaQ2EptV2GIA6",
+   "https://coinsniper.net/coin/94107"
   ]
  },
  {
@@ -25441,6 +25492,22 @@
   "websites": [
    "https://odecloud.com",
    "https://odecoin.odecloud.com"
+  ]
+ },
+ {
+  "address": "0:84c7756d4bbe44463e1d91fb1641f3be97e853fd708655b7e0dd9b0f706b5b92",
+  "decimals": 9,
+  "description": "Protocol coin of ONRANK, a launchpad and trading terminal on TON where 70% of every trading fee is paid back to holders in USDT.",
+  "image": "https://onrank.lol/meta/coins/40caf6bd53e24963090ca201481e82ef07809bc68f5f7b17e91b4ca1b94e634d.png",
+  "name": "ONRANK",
+  "social": [
+   "https://t.me/OnRankBot",
+   "https://t.me/onranktradebot",
+   "https://t.me/onranknews"
+  ],
+  "symbol": "RANK",
+  "websites": [
+   "https://onrank.lol"
   ]
  },
  {
