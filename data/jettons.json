@@ -6286,6 +6286,22 @@
   ]
  },
  {
+  "address": "0:e73a06d48cd6c49a969538522bf257174b9526bb19644533134c1a6c19e1c2fc",
+  "description": "Lumetra mining and rewards token",
+  "image": "https://web.lumetramine.com/lumetra-coin.png",
+  "name": "Lumetra",
+  "social": [
+   "https://t.me/LUMETRAS_BOT",
+   "https://t.me/LumeTRA_new",
+   "https://x.com/lumetramine",
+   "https://www.youtube.com/@lumetramine"
+  ],
+  "symbol": "LMTR",
+  "websites": [
+   "https://home.lumetramine.com/"
+  ]
+ },
+ {
   "address": "0:2daa8f418cad46c6415ec8b700b21bf020f952298415129f976ab29279711297",
   "decimals": 9,
   "description": "Utility token of the LuneX Tap-to-Earn game on TON. Tap the moon, raise lunar pets, complete tasks and earn rewards.",
@@ -7843,6 +7859,21 @@
   "symbol": "$ORCA",
   "websites": [
    "https://orcamining-two.vercel.app/"
+  ]
+ },
+ {
+  "address": "0:ea766913c16ae12cc58a205904081da070c9b0e564bd00189adf0869eebac824",
+  "decimals": 9,
+  "description": "The capped coin of YAYA Mining. 21,000,000 ever: mined by camps in the game, 75% of what is spent there is burned.",
+  "image": "https://launchpad.yayaton.org/ore/logo.png",
+  "name": "ORE",
+  "social": [
+   "https://x.com/Yaya_gram",
+   "https://t.me/yayafam"
+  ],
+  "symbol": "ORE",
+  "websites": [
+   "https://yayaton.org"
   ]
  },
  {
@@ -9653,6 +9684,21 @@
   ]
  },
  {
+  "address": "0:61e1f1b660c60bd8432c81b384a35665d86573129791c9a49172ca030df5c640",
+  "description": "Spider Miner ($SPID) is a mining token on TON. Hire miners, mine $SPID every day and hold it in your wallet to boost your mining.",
+  "image": "https://spiderminer.lol/SPID.png",
+  "name": "Spider Miner",
+  "social": [
+   "https://t.me/Spider_Miner",
+   "https://x.com/Spider_Miner_"
+  ],
+  "symbol": "SPID",
+  "websites": [
+   "https://spiderminer.lol",
+   "https://t.me/SpiderMinerBot/app"
+  ]
+ },
+ {
   "address": "0:b8ee307dd315d013ad344d34e61e3590b9bd68f6fba4c1d7cc776174b037dc10",
   "description": "The first Spirit launched on TON",
   "image": "https://i.ibb.co/JwQxfjY9/IMG-8624.jpg",
@@ -10141,6 +10187,17 @@
   "websites": [
    "https://steamyjulia.com/"
   ]
+ },
+ {
+  "address": "0:26df33bc55642cd7ef95deb0a388ad430c576dd16898eed92ceef2c8ed2388a0",
+  "description": "Official Telegram Sticker Pack created by Iryna Pavlenko",
+  "image": "https://i.ibb.co/Q3ZpDNzp/Telegram-Sticker-Jam.png",
+  "name": "Sweet Jam",
+  "social": [
+   "https://x.com/SweetJamGram",
+   "https://t.me/telejamgram"
+  ],
+  "symbol": "Jam"
  },
  {
   "address": "0:349cb1c7799ad3d52c16ac177c379ff908a5c94052fb0a73d80cb2e7c3eb08aa",
@@ -25684,6 +25741,20 @@
   "address": "0:ec12e996666ad0a683255c676a49758376f41e5021a330426c437937e5ba8d87",
   "name": "Orbit Bridge Ton WEMIX$",
   "symbol": "oWEMIX$"
+ },
+ {
+  "address": "0:ad0feabcbc8b5261f7dd3b7a76dfe81c9c5a4f229706c7db44d48990ddfded85",
+  "decimals": 9,
+  "description": "pKTON, The Premium version of Liquid Staking Token on TON.",
+  "image": "https://app.kton.io/logo-256x256.png",
+  "name": "pKTON",
+  "social": [
+   "https://x.com/kton_io"
+  ],
+  "symbol": "pKTON",
+  "websites": [
+   "https://app.kton.io"
+  ]
  },
  {
   "address": "0:c9e01b179f9887b09d451b0bd817f19d8076bb5c99f06e88ede5d94d9b0d375e",
