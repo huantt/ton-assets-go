@@ -440,6 +440,18 @@
   "symbol": "RADU"
  },
  {
+  "address": "0:0e90abf40768d5212558461214acff1b1c911f3489385c6b37d4ab813309ca32",
+  "decimals": 9,
+  "description": "Resistance Fish",
+  "image": "https://avatars.githubusercontent.com/u/284965262",
+  "name": "Resistance Fish TON Memecoin",
+  "social": [
+   "https://t.me/refitg",
+   "https://x.com/refionx"
+  ],
+  "symbol": "REFI"
+ },
+ {
   "address": "0:c5ca7aecb7380b32151c409b119e087c4d75cd95dea4dee4f9efdd0db9540088",
   "description": "SmartCoinStrategy $SMART A community-driven token empowering investors to start with Cryptocurrencies.",
   "image": "https://smartcoinstrategy.com/wp-content/uploads/2025/09/smartcoinstrategy-logo-black.jpeg",
@@ -617,6 +629,21 @@
   ]
  },
  {
+  "address": "0:39a8dff8d3017f8bc64f7d7e580feca92be3da80d49bbd2aebb6a603678e696c",
+  "decimals": 9,
+  "description": "AGAMER is the native coin of Agamer Universe \u2014 a Telegram ecosystem with games, a built-in marketplace for Agamer NFTs and Telegram Gifts, and auctions. Use it inside @agameruniversebot. News: @agamer_channel \u00b7 Community: @agamer_chat \u00b7 Website: agamer.space",
+  "image": "https://raw.githubusercontent.com/Aleksionis/agamer-assets/main/agamer_logo_512.png",
+  "name": "AGAMER coin",
+  "social": [
+   "https://t.me/agamer_channel",
+   "https://t.me/agamer_chat"
+  ],
+  "symbol": "AGAMER",
+  "websites": [
+   "https://agamer.space"
+  ]
+ },
+ {
   "address": "0:b138182d3c0d98b2842b62d444acc2e876ab6a2b258497d4059bbaec7f3cb489",
   "description": "AI is a super technology that changes the world. Now we use it in the web3 field. This will be innovative and unheard of. We are about to change the world and bring you unlimited wealth.",
   "name": "AI GOOD TALK",
@@ -787,6 +814,23 @@
   "symbol": "ANTON",
   "websites": [
    "https://app.asmerdov.com/"
+  ]
+ },
+ {
+  "address": "0:4b75a3a9fb96d600bbd5611e18a9e19e46dadc2d52b8ab550d96db94949d915e",
+  "decimals": 9,
+  "description": "ANTS is the official utility token of the ANTS Coin Colony ecosystem on TON.",
+  "image": "https://res.cloudinary.com/dwk6sw7bm/image/upload/v1779403871/ants/logoANTS256x256.png",
+  "name": "AntsCoin",
+  "social": [
+   "https://t.me/ants_colony",
+   "https://t.me/ants_coin_community",
+   "https://twitter.com/ants_coin_x",
+   "https://t.me/ants_miner_bot/ANTS"
+  ],
+  "symbol": "ANTS",
+  "websites": [
+   "https://ap.antscoin.online"
   ]
  },
  {
@@ -2913,6 +2957,21 @@
   ]
  },
  {
+  "address": "0:f78c7567c01eaea574698456fe3eb5a59a215eea87c6b39a5408349df9d11518",
+  "decimals": 9,
+  "description": "DIGGO is the token of the DIGGO Telegram mining game on TON.",
+  "image": "https://diggo.linkpc.net/assets/diggo-token-logo.webp",
+  "name": "Diggo",
+  "social": [
+   "https://t.me/diggo_community",
+   "https://x.com/diggotoken"
+  ],
+  "symbol": "DIGGO",
+  "websites": [
+   "https://diggocoin.com"
+  ]
+ },
+ {
   "address": "0:31fdc0185b4369cf458bf2709024632d41741db626c2a8ca141818935ccfe664",
   "description": "DILS - The New Internet Meme Currency! \ud83d\udc8e Ready to be part of the new internet phenomenon? Introducing $DILS, the meme token that will change the way you think about cryptocurrency! $DILS - is not just freedom, it\u2019s a lifestyle!",
   "image": "https://raw.githubusercontent.com/DDS-Meme/website/main/dilisium.png",
@@ -4312,6 +4371,16 @@
    "https://t.me/dovbynkachat"
   ],
   "symbol": "FLEX"
+ },
+ {
+  "address": "0:1abc1699d03aec5835661fe7e891b4fc7efe551279bc8435f60037e3b91a0995",
+  "description": "one of the two KOL Labs main forces",
+  "name": "FLEXME",
+  "social": [
+   "https://t.me/flex_on_ton",
+   "https://x.com/flexonton"
+  ],
+  "symbol": "$FLXM"
  },
  {
   "address": "0:689b8b252c87adc7129b00c6110fad41430b3146747f4e6d003b97a3897b1262",
@@ -6343,6 +6412,23 @@
   ]
  },
  {
+  "address": "0:8ce031330d514babb91a4a87505fef3ebbf685f4cf430ded4478f5acb8ca33a8",
+  "decimals": 9,
+  "description": "Mine, Hold, Earn - the more you LOOT, the faster you loot. The native token of the LootVault DEX platform.",
+  "image": "https://lootvault.lol/token/loot/logo.jpg",
+  "name": "LOOT",
+  "social": [
+   "https://t.me/lootvault_channel",
+   "https://t.me/LootVault_Community",
+   "https://t.me/LootVaultDexBot",
+   "https://dexscreener.com/ton/eqaj_sedwxcvkh7zobjzbyo4quydzacazjrgsmtnymumxr1h"
+  ],
+  "symbol": "LOOT",
+  "websites": [
+   "https://lootvault.lol"
+  ]
+ },
+ {
   "address": "0:12d9e9586fafe1a96c8e97b829b984f37f5b2a9a32c9434950e17ff877f32fb4",
   "decimals": 9,
   "description": "The concept of the LOVE jetton is the Metaverse. Metaverse for virtual dating. Jetton based on the TON blockchain. Telegram channel - @loveholders, @loveholderschat, @loveholderseng, @loveengchat, loveholders.com",
@@ -7485,6 +7571,21 @@
   "symbol": "NITRO",
   "websites": [
    "https://nitrochain.space/"
+  ]
+ },
+ {
+  "address": "0:0ee74c7c9a33a9b83996304e6bcb66a10b8f53ef6e87311b1ad89fb89958c76d",
+  "decimals": 9,
+  "description": "NifuzKB is a community-driven utility token on the TON blockchain.",
+  "image": "https://storage.dyor.io/jettons/EQAO50x8mjOpuDmWME5ry2ahC49T726HMRsa2J-4mVjHbcmh/image.png",
+  "name": "NifuzKB",
+  "social": [
+   "https://x.com/NifuzKB",
+   "https://t.me/NKBoffical"
+  ],
+  "symbol": "NKB",
+  "websites": [
+   "https://telegra.ph/NifuzKB-NKB-Official-Whitepaper-06-02"
   ]
  },
  {
@@ -12640,6 +12741,11 @@
   "symbol": "ACNx"
  },
  {
+  "address": "0:136ce836edbb14f80df03fc434757b93ce8b92750d2baf1b89a0fd2e99968378",
+  "name": "ACS Actividades de Construccion y Servicios xStock",
+  "symbol": "ACS.ESx"
+ },
+ {
   "address": "0:42df745aa27770dc4d2ee6775617e02410855807e73be0d986220f2a182d04d9",
   "name": "Koninklijke Ahold Delhaize xStock",
   "symbol": "AD.NLx"
@@ -15678,6 +15784,11 @@
   "address": "0:c7207dc124bc37b6fc8d4b3eb8278edb3ee94a8d4e863c9ceaa17b2a2a196084",
   "name": "Henderson Land Development xStock",
   "symbol": "HNDLDx"
+ },
+ {
+  "address": "0:81d517767efad5b75bcb741a61b2e5652e9cd1aa73944073fbab34774dfe5a4c",
+  "name": "Hannover Rueck xStock",
+  "symbol": "HNR1x"
  },
  {
   "address": "0:f863fe29f59edfeb99daa75344ae98f350381edb45656e773d1093ec187cf90e",
