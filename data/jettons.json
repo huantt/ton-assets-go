@@ -1910,6 +1910,17 @@
   ]
  },
  {
+  "address": "0:a09e9330b7c314b9d1b280fb273689ebc13f77f128b1d9f6eea8300a715e427f",
+  "description": "Hold BabyTermi and get TERMI.",
+  "image": "https://i.postimg.cc/d3RDpwT9/baby-termi-gotovo.png",
+  "name": "Baby Terminator",
+  "social": [
+   "https://t.me/termichator",
+   "https://t.me/termionton"
+  ],
+  "symbol": "BABYTERMI"
+ },
+ {
   "address": "0:bbbee28460b742ef6621516b77014540f8e8bae90d43c531d71fbafaa57695e7",
   "description": "Baby Yoda coin was born out of Egor's creativity and the imagination of the Telegram community.  Its arrival resonates deeply with crypto enthusiasts, demonstrating the substantial impact even a modest token could have in the expansive world of blockchain.",
   "image": "https://www.babyyoda.lol/assets/hero/BabyYoda.jpg",
@@ -3604,6 +3615,19 @@
   "symbol": "EGG",
   "websites": [
    "https://birdfarm.tech"
+  ]
+ },
+ {
+  "address": "0:0efed6292db3eaf863977a061362d15a434b4c9312c1c73605f1c5021865808f",
+  "decimals": 9,
+  "name": "EGOR ZHGUN",
+  "social": [
+   "https://x.com/egorverse",
+   "https://t.me/egorverseportal"
+  ],
+  "symbol": "EGOR",
+  "websites": [
+   "https://www.egorverse.xyz/"
   ]
  },
  {
@@ -5746,6 +5770,22 @@
   ]
  },
  {
+  "address": "0:56f543ca67beffeab6e16466c24776be187b06c7fc48008d1e9f38d75d0ec50c",
+  "decimals": 9,
+  "description": "Iron Oath Company is a mercenary saga forged in steel and sworn by oath. With IOC, recruit warriors, forge mighty blades, and write your legend, one conquered castle at a time.",
+  "image": "https://web.ironoathcompany.top/ioc-coin.png",
+  "name": "Iron Oath Company",
+  "social": [
+   "https://x.com/Ironoathcompany",
+   "https://www.youtube.com/@IronOathCompany",
+   "https://t.me/Bees_app"
+  ],
+  "symbol": "IOC",
+  "websites": [
+   "https://home.ironoathcompany.top/"
+  ]
+ },
+ {
   "address": "0:8948dfc5fa04aeee3c5c2e3797bad10efa5df680e31a6743f26c1a71b0123fe2",
   "description": "Skill-to-earn esports platform for chess, Tetris & mind games with crypto prizes.",
   "image": "https://iqpi.ru/images/inhtml/logo_coin_blue.png",
@@ -6490,6 +6530,22 @@
   "symbol": "LNX",
   "websites": [
    "https://lunex.network"
+  ]
+ },
+ {
+  "address": "0:d1b148b9aab6cfa47d774d6956669ece43a68462fac701ca5c1843c33923df8e",
+  "decimals": 9,
+  "description": "The lunar gold rush is calling\u2014recruit your mole miners and stake your claim before the crowd arrives.",
+  "image": "https://web.lunaroreburrow.top/coin.png",
+  "name": "Lunar Ore Burrow",
+  "social": [
+   "https://x.com/lunaroreburrow",
+   "https://www.youtube.com/@lunaroreburrowbot",
+   "https://t.me/TaskRushNews"
+  ],
+  "symbol": "LOB",
+  "websites": [
+   "https://home.lunaroreburrow.top/"
   ]
  },
  {
@@ -8960,6 +9016,22 @@
   "symbol": "RANNTA"
  },
  {
+  "address": "0:55988e8d1077455ff301daea1a5b9a0b5e00f5a125f25a677b9b3c04fc513c06",
+  "decimals": 9,
+  "description": "Roadster Boost is a community-driven Web3 project inspired by electric mobility and New York\u2019s skyline. Collect RBQ rewards through daily activities, complete missions, and unlock new levels in a jet-powered Roadster experience.",
+  "image": "https://web.roadsterboost.top/rbq-coin.png",
+  "name": "Roadster Boost",
+  "social": [
+   "https://x.com/RoadsterBoost",
+   "https://www.youtube.com/@RoadsterBoost",
+   "https://t.me/RoadsterBoost_New"
+  ],
+  "symbol": "RBQ",
+  "websites": [
+   "https://home.roadsterboost.top/"
+  ]
+ },
+ {
   "address": "0:83ee5aebc6939cab903947a9d32de17592e21b97504a09ee4e9da9c67b7701e0",
   "description": "RabBitcoin serves as the native token of the Rocky Rabbit platform, powering the Play-to-Earn ecosystem and enabling seamless in-game transactions and rewards.",
   "image": "https://cdn.rockyrabbit.io/rbtc-icon/512x512.png",
@@ -9323,6 +9395,22 @@
   "symbol": "RUNE",
   "websites": [
    "http://runecoin.network/"
+  ]
+ },
+ {
+  "address": "0:619a940b14a386416247dee0b33f885f69caecb690a6039119784e9c74a0b4c6",
+  "decimals": 9,
+  "description": "Rail Yard Quest is a railway-themed Telegram Mini App that combines train progression, interactive tasks, and RYQ token rewards. Travel through scenic landscapes with your train, collect coins into its treasury carriage, and claim accumulated rewards to your in-app balance. Complete daily check-ins and tasks, invite friends, and unlock higher train levels through eligible wallet and Pool holdings.",
+  "image": "https://web.railyardquest.top/ryq-token.png",
+  "name": "Rail Yard Quest",
+  "social": [
+   "https://x.com/RailYardQuest",
+   "https://www.youtube.com/@RailYardQuest",
+   "https://t.me/RailYardQuest"
+  ],
+  "symbol": "RYQ",
+  "websites": [
+   "https://home.railyardquest.top/"
   ]
  },
  {
@@ -11998,6 +12086,22 @@
   ]
  },
  {
+  "address": "0:be8772de8ca1085f99a86db77cfbcf45de5a42df2448d3dbf9be69b074ca6d0c",
+  "decimals": 9,
+  "description": "TON-based chip mining applet supports wallet connection, mining machine upgrade, task reward and bonus invitation.",
+  "image": "https://web.vyqminer.top/vyq-coin.png",
+  "name": "Vector Yield Quantum",
+  "social": [
+   "https://x.com/VYQMiner",
+   "https://www.youtube.com/@VYQMiner",
+   "https://t.me/VYQMiner"
+  ],
+  "symbol": "VYQ",
+  "websites": [
+   "https://home.vyqminer.top/"
+  ]
+ },
+ {
   "address": "0:28f8c9edf10da5f4cf7449d93d3a24edce656fde3f137f7f367415693517fda9",
   "description": "I HAVE GOT A BIG VEGGIE",
   "image": "https://i.ibb.co/nNG941qB/0597959dbc3a.webp",
@@ -12794,6 +12898,11 @@
    "https://aravt.io",
    "https://app.aravt.io"
   ]
+ },
+ {
+  "address": "0:30a3395df44cecb0977d238f2fd61c2ce30160ffc0ee86407b61e36aff6de12c",
+  "name": "Xetra-Gold xStock",
+  "symbol": "4GLDx"
  },
  {
   "address": "0:14d5f5e4d9d343db5d97e52cc78fa1fd2b1d97d05d8e133b3e0fe74a9463054f",
@@ -21586,11 +21695,6 @@
   "symbol": "EGG"
  },
  {
-  "address": "0:0efed6292db3eaf863977a061362d15a434b4c9312c1c73605f1c5021865808f",
-  "name": "EGOR ZHGUN",
-  "symbol": "EGOR"
- },
- {
   "address": "0:f8a29f023ef28da575718f49f3123b185857d49167d3c2ed4bb498c447aee184",
   "name": "eTON NFT",
   "symbol": "ENFT"
@@ -26375,6 +26479,21 @@
    "https://x.com/pyonyaOG"
   ],
   "symbol": "\u041f\u0451\u043d\u044f"
+ },
+ {
+  "address": "0:6fa4ab29999e9693a1dcf55669b5f1dd8761cfa161554d08bda19108717977ff",
+  "decimals": 9,
+  "description": "RIFT powers Rifty Mining on TON: mining rewards, station upgrades and module crafting, with a mintable supply and no fixed maximum.",
+  "image": "https://rifty.run.place/assets/rift-token-v1.jpg",
+  "name": "Rifty",
+  "social": [
+   "https://t.me/riftycommunity",
+   "https://t.me/riftycoinbot"
+  ],
+  "symbol": "RIFT",
+  "websites": [
+   "https://rifty.run.place/"
+  ]
  },
  {
   "address": "0:885d09fde3444d70e93a1b34a8ad14a203d5990bdc54cfeea5ca197a029ea76b",
