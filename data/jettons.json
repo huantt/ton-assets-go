@@ -2966,6 +2966,22 @@
   ]
  },
  {
+  "address": "0:0f26961d1d2fa83b48cb1e0931588625a3e2d1740ddd2de6a8835585b1576f66",
+  "decimals": 9,
+  "description": "Official coin of Dragon Gold Miner, a mining game on Telegram.",
+  "image": "https://dragonpixoficial.com.br/img/drago.png",
+  "name": "Dragon Gold Miner",
+  "social": [
+   "https://t.me/golddwartes",
+   "https://t.me/toppgamesworld"
+  ],
+  "symbol": "DGM",
+  "websites": [
+   "https://dragonpixoficial.com.br",
+   "https://t.me/GoldDwarves_bot"
+  ]
+ },
+ {
   "address": "0:421705bcb85521f9a99d466358f4dc9e0c469e0d85ddf608091ac89ca6a55c1e",
   "description": "Low fee dick-to-dick electronic cash alternative to Toncoin",
   "image": "https://raw.githubusercontent.com/DHDcoin/website/main/LOGO.png",
@@ -3005,6 +3021,32 @@
   "symbol": "DIAMOND",
   "websites": [
    "https://diamondhandston.com/"
+  ]
+ },
+ {
+  "address": "0:8160bf5935799507a2732e9c23ec7f82c3eb3a1d1524aa8c641d72ff9288f221",
+  "description": "Dictator ($DICTATOR) - community meme token on TON. Deployed from sTONks.",
+  "image": "https://img.stonks.cash/a74dc858-4829-49a8-aaa0-4e478d1257e8.jpg",
+  "name": "Dictator",
+  "social": [
+   "https://t.me/dictatoronton",
+   "https://x.com/DictatorOnTon"
+  ],
+  "symbol": "Dictator"
+ },
+ {
+  "address": "0:b26a2f3e487cac50d559f7537fe991422e6adc5978358ebf0214d7f4548d0a7a",
+  "description": "Dictator AI ($DAI) - token of the Dictator AI trading ecosystem on TON: six AI agents trading the TON market and the $DAI Miner in a Telegram Mini App. Deployed from sTONks.",
+  "image": "https://img.stonks.cash/b1543458-c59c-4871-840b-5ef29467ba5f.png",
+  "name": "Dictator AI",
+  "social": [
+   "https://t.me/dictatoraitrading",
+   "https://t.me/dictatorchats",
+   "https://x.com/DictatorssAI"
+  ],
+  "symbol": "DAI",
+  "websites": [
+   "https://dictatorai.online"
   ]
  },
  {
@@ -3759,6 +3801,19 @@
   "websites": [
    "https://theexplorergames.com"
   ]
+ },
+ {
+  "address": "0:7fd60587f416624e81640329f34bed3b1d445471580f71050463ffbb40cd1719",
+  "decimals": 9,
+  "description": "EQB is a hold-to-earn mining token for Telegram Mini App. Connect your TON wallet, hold EQB on balance, and earn new tokens automatically as mining yield. The more you hold, the higher your mining rate.",
+  "image": "https://storage.dyor.io/jettons/EQB_1gWH9BZiToFkAynzS-07HURUcVgPcQUEY_-7QM0XGaIZ/image.png",
+  "name": "Earn Qualify Build",
+  "social": [
+   "https://t.me/Earn_Qualify_Build_Channel",
+   "https://t.me/Earn_Qualify_Build_Community",
+   "https://t.me/Earn_Qualify_Build_Bot"
+  ],
+  "symbol": "EQB"
  },
  {
   "address": "0:b8c8d5e28e1d8426a0e93ee9ec8e335e2c6ed540575b547eb84085f96a8c325f",
@@ -4939,6 +4994,20 @@
   "symbol": "GEONERGO",
   "websites": [
    "https://geonergo.com"
+  ]
+ },
+ {
+  "address": "0:26b466210c941aab4dafa0a150f6c0b718f72e5ea2b5a2204d00a5b2ef6c4101",
+  "description": "Meme coin on Uranus. Every hour the creator fee from trading is shared out as GRAM gifts to GGRAM holders, by a public script with public wallets.",
+  "image": "https://gift.faithton.online/logo-512.png",
+  "name": "Gift Gram",
+  "social": [
+   "https://x.com/romanaix80",
+   "https://t.me/+CjuULTqr7W80YTdi"
+  ],
+  "symbol": "GGRAM",
+  "websites": [
+   "https://gift.faithton.online"
   ]
  },
  {
@@ -21888,11 +21957,6 @@
   "symbol": "DUROFF"
  },
  {
-  "address": "0:8160bf5935799507a2732e9c23ec7f82c3eb3a1d1524aa8c641d72ff9288f221",
-  "name": "Dictator",
-  "symbol": "Dictator"
- },
- {
   "address": "0:4eebb6c10088255bf699af2269c03648ed947f27f6bb2ee85eb64d2b23ffc401",
   "name": "Earnigram",
   "symbol": "EARNI"
@@ -22051,11 +22115,6 @@
   "address": "0:2dc88b8efb6c746e9fe2990872387553e7e5f1f0af2d76ab069040fe04c13dba",
   "name": "\u26fd\ufe0fGasGod",
   "symbol": "GG"
- },
- {
-  "address": "0:26b466210c941aab4dafa0a150f6c0b718f72e5ea2b5a2204d00a5b2ef6c4101",
-  "name": "Gift Gram",
-  "symbol": "GGRAM"
  },
  {
   "address": "0:f49edd96d58c0915d310f86231e2382e35bbdb8d2f9a337da3396ee14d0b39f2",
